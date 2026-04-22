@@ -1,0 +1,375 @@
+{
+  "slug": "2025-26-bowman-basketball",
+  "title": "2025-26 Bowman Basketball",
+  "shortTitle": "Bowman Basketball",
+  "year": "2025-26",
+  "sport": "basketball",
+  "brand": "bowman",
+  "manufacturer": "Topps",
+  "releaseDate": "2026-04-22",
+  "preorderDate": "2026-04-13",
+  "status": "released",
+
+  "heroImage": "/images/2025-26-bowman-basketball/hero.jpg",
+  "tagline": "First NBA Bowman in 17 years. Dual NCAA/NBA format. Here's what actually matters.",
+  "summary": "2025-26 Bowman Basketball is Topps' first fully-licensed NBA Bowman product since 2009-10, and it arrives under the new Topps/Fanatics NBA exclusive. For the first time, NBA rookies like Cooper Flagg and Dylan Harper share a checklist with NCAA prospects like AJ Dybantsa, Darryn Peterson, and JuJu Watkins. The format is unprecedented; the rookie class is loaded; the format math deserves attention.",
+
+  "verdict": {
+    "oneLineTake": "A historic set with a stacked checklist, but the format strategy rewards Hobby buyers who want hobby-exclusive rarities and punishes anyone chasing autos alone.",
+    "whoThisIsFor": "NBA prospectors betting on the 2025 rookie class, NCAA NIL investors on Dybantsa, and collectors who want Cooper Flagg's 1st Bowman",
+    "keyChaseCard": "Cooper Flagg Platinum Border 1/1",
+    "rating": {
+      "score": 8,
+      "label": "Rip"
+    }
+  },
+
+  "boxFormats": [
+    {
+      "name": "Hobby",
+      "cardsPerPack": 8,
+      "packsPerBox": 20,
+      "boxesPerCase": 12,
+      "guarantees": [
+        "2 Autographs (1 NBA + 1 NIL)",
+        "12 Inserts (unless replaced by Case Hit)",
+        "1 Chrome Mini-Diamond Refractor",
+        "6 Base Parallels",
+        "Average 1.5 Base Chrome Red RC Variations"
+      ],
+      "exclusives": [
+        "Orange Border /25",
+        "Black Border /10",
+        "Black Pattern Border /10"
+      ]
+    },
+    {
+      "name": "Jumbo",
+      "cardsPerPack": 24,
+      "packsPerBox": 12,
+      "boxesPerCase": 8,
+      "guarantees": [
+        "Multiple Autographs per box",
+        "Expanded parallel exposure"
+      ]
+    },
+    {
+      "name": "Mega",
+      "cardsPerPack": 7,
+      "packsPerBox": 6,
+      "boxesPerCase": 20,
+      "guarantees": [
+        "Mojo parallels mixed throughout packs"
+      ]
+    },
+    {
+      "name": "Value",
+      "cardsPerPack": 10,
+      "packsPerBox": 6,
+      "boxesPerCase": 40,
+      "guarantees": [
+        "Most cost-effective format for insert access"
+      ]
+    },
+    {
+      "name": "Breaker's Delight",
+      "cardsPerPack": 10,
+      "packsPerBox": 1,
+      "boxesPerCase": 6,
+      "guarantees": [
+        "Breaker-exclusive Geometric parallels"
+      ]
+    }
+  ],
+
+  "baseSet": {
+    "size": 200,
+    "notes": "200-card NBA base set with Bowman Chrome variants. First fully-licensed NBA Bowman product since 2009-10.",
+    "subsets": [
+      {
+        "name": "NCAA Prospects",
+        "size": 100,
+        "notes": "First-ever NCAA Men's and Women's prospects on a Bowman checklist"
+      }
+    ],
+    "variations": [
+      {
+        "name": "Rookie Red RC Variation",
+        "description": "Red-colored rookie card logo treatment on rookies. Average 1.5 per Hobby box."
+      },
+      {
+        "name": "Etched In Glass Variation",
+        "description": "Short-printed variations with a stained-glass treatment. Case hit territory.",
+        "printRun": "SP"
+      }
+    ]
+  },
+
+  "parallels": [
+    {
+      "appliesTo": "Base",
+      "parallels": [
+        { "name": "Purple Pattern Border", "printRun": 199 },
+        { "name": "Pink Border", "printRun": 175 },
+        { "name": "Blue Border", "printRun": 150 },
+        { "name": "Blue Pattern", "printRun": 125 },
+        { "name": "Bowman Logo Pattern", "printRun": 100 },
+        { "name": "Green Border", "printRun": 99, "exclusiveTo": ["Retail"] },
+        { "name": "Green Pattern Border", "printRun": 99, "exclusiveTo": ["Retail"] },
+        { "name": "Yellow Border", "printRun": 75 },
+        { "name": "Gold Border", "printRun": 50 },
+        { "name": "Orange Border", "printRun": 25, "exclusiveTo": ["Hobby"] },
+        { "name": "Black Border", "printRun": 10, "exclusiveTo": ["Hobby"] },
+        { "name": "Black Pattern Border", "printRun": 10, "exclusiveTo": ["Hobby"] },
+        { "name": "Red Border", "printRun": 5 },
+        { "name": "Platinum Border (Rainbow Foil)", "printRun": 1 }
+      ]
+    },
+    {
+      "appliesTo": "Chrome Prospects",
+      "parallels": [
+        { "name": "Refractor" },
+        { "name": "Purple Refractor", "printRun": 250 },
+        { "name": "Fuchsia Refractor", "printRun": 199 },
+        { "name": "Mini-Diamond Refractor", "printRun": 150 },
+        { "name": "Aqua Refractor", "printRun": 125 },
+        { "name": "Green Refractor", "exclusiveTo": ["Retail"] },
+        { "name": "Gold Refractor", "printRun": 50 },
+        { "name": "Orange Refractor", "printRun": 25, "exclusiveTo": ["Hobby"] },
+        { "name": "Red Refractor", "printRun": 5 },
+        { "name": "SuperFractor", "printRun": 1 }
+      ]
+    }
+  ],
+
+  "inserts": [
+    {
+      "name": "Talent Tracker",
+      "description": "Prospect-focused insert highlighting the 2025-26 NCAA class",
+      "isNew": true
+    },
+    {
+      "name": "Gen Next",
+      "description": "Next-generation prospect spotlight",
+      "isNew": true
+    },
+    {
+      "name": "Very Important Prospects",
+      "description": "Top-tier NCAA prospects across both men's and women's games",
+      "isNew": true
+    },
+    {
+      "name": "Bowman Verified",
+      "description": "Prospect-verification themed insert",
+      "isNew": true
+    },
+    {
+      "name": "ROY Favorites",
+      "description": "Rookie of the Year candidates from the 2025-26 NBA class",
+      "notableCards": ["Cooper Flagg", "Dylan Harper", "VJ Edgecombe"]
+    },
+    {
+      "name": "Hobby Stars",
+      "description": "Established NBA stars continuing to drive hobby interest",
+      "notableCards": ["LeBron James", "Stephen Curry", "Victor Wembanyama"]
+    },
+    {
+      "name": "Young Kings",
+      "description": "Young NBA core — the next generation of stars",
+      "isNew": true
+    },
+    {
+      "name": "Etched In Glass Variations",
+      "isCaseHit": true,
+      "description": "Stained-glass treatment case hits"
+    },
+    {
+      "name": "RetroFractors",
+      "isCaseHit": true,
+      "description": "Legends who never had a 1st Bowman card, shot in rookie-era photography"
+    },
+    {
+      "name": "Bowman Spotlights",
+      "isCaseHit": true,
+      "description": "Dark background with light-blast subject treatment"
+    },
+    {
+      "name": "Crystallized",
+      "isCaseHit": true,
+      "description": "Geode background, vibrant color treatment"
+    },
+    {
+      "name": "Anime",
+      "isCaseHit": true,
+      "description": "Manga-inspired art series"
+    },
+    {
+      "name": "Bowman GPK",
+      "isCaseHit": true,
+      "description": "Garbage Pail Kids crossover — a first for Bowman Basketball"
+    }
+  ],
+
+  "autographs": [
+    {
+      "name": "Chrome Autographs",
+      "boxGuarantee": "1 per Hobby box (NBA)",
+      "description": "The brand's staple auto program, now featuring NBA rookies for the first time in the Bowman brand since 2009-10"
+    },
+    {
+      "name": "Future Script",
+      "isHardSigned": false,
+      "description": "New-for-2025-26 autograph design"
+    },
+    {
+      "name": "Buzz Factor Autographs",
+      "description": "Focused on prospects generating the most hobby chatter"
+    },
+    {
+      "name": "Opening Statement Signatures",
+      "description": "Rookie debut-themed autograph design"
+    },
+    {
+      "name": "Timeless Touch Signatures",
+      "description": "Premium, lower-print autograph program"
+    },
+    {
+      "name": "Bowman Dual Autographs",
+      "description": "Two signers per card; pairs NBA rookies with NCAA prospects"
+    }
+  ],
+
+  "teamBreakdown": [
+    {
+      "team": "Dallas Mavericks",
+      "league": "NBA",
+      "rookieCount": 1,
+      "notableRookies": ["Cooper Flagg"],
+      "headlinerCard": "Cooper Flagg #1 / Platinum Border 1/1"
+    },
+    {
+      "team": "San Antonio Spurs",
+      "league": "NBA",
+      "rookieCount": 2,
+      "notableRookies": ["Dylan Harper", "Carter Bryant"],
+      "headlinerCard": "Dylan Harper Red Border /5"
+    },
+    {
+      "team": "Philadelphia 76ers",
+      "league": "NBA",
+      "rookieCount": 1,
+      "notableRookies": ["VJ Edgecombe"]
+    },
+    {
+      "team": "Charlotte Hornets",
+      "league": "NBA",
+      "rookieCount": 1,
+      "notableRookies": ["Kon Knueppel"]
+    },
+    {
+      "team": "Utah Jazz",
+      "league": "NBA",
+      "rookieCount": 2,
+      "notableRookies": ["Ace Bailey", "Walter Clayton Jr."]
+    },
+    {
+      "team": "Washington Wizards",
+      "league": "NBA",
+      "rookieCount": 2,
+      "notableRookies": ["Tre Johnson III", "Will Riley"]
+    },
+    {
+      "team": "New Orleans Pelicans",
+      "league": "NBA",
+      "rookieCount": 2,
+      "notableRookies": ["Jeremiah Fears", "Derik Queen"]
+    },
+    {
+      "team": "Brooklyn Nets",
+      "league": "NBA",
+      "rookieCount": 4,
+      "notableRookies": ["Egor Dëmin", "Nolan Traore", "Drake Powell", "Ben Saraf"]
+    }
+  ],
+
+  "commentary": {
+    "whatsNew": "This is the first officially licensed NBA Bowman product in 17 years. The last full-scale Bowman Basketball release was 2008-09, and NBA players last appeared on any Bowman set in the truncated 2009-10 edition. More significantly, this is the first-ever dual NCAA/NBA Bowman format — Cooper Flagg's 1st Bowman coexists on the same checklist as AJ Dybantsa's. That's unprecedented, and it fundamentally changes what 'Bowman Basketball' means going forward. Expect this product to be referenced for years as either the start of a new era or a one-time experiment.",
+
+    "whatMatters": "Two things to internalize before ripping. First: the parallel exclusives matter more than the autograph counts. Hobby is the only format with access to Orange Border /25, Black Border /10, and Black Pattern Border /10 on the base set — if you're chasing a rainbow or a low-numbered Flagg or Harper, you need Hobby. Second: this is a prospect-heavy product. The NCAA side of the checklist — Dybantsa, Peterson, Watkins, Booker — is where long-term upside lives if you believe in the 2026 draft class, which is already being called one of the strongest in years. Rip Hobby for Flagg and Harper rainbow chases. Hold Value for insert hunting. Consider NCAA prospect autos as the real long hold.",
+
+    "formatAdvice": "Hobby is the correct buy for rainbow chasers and anyone targeting hobby-exclusive parallels. Value is underrated — it's the most cost-effective path to inserts like Crystallized, Anime, and Bowman Spotlights (ultra-rare Anime parallels excluded). Jumbo trades parallel exclusivity for additional autos; only makes sense if you specifically want more autograph exposure and don't care about Orange/Black/Black Pattern border chases. Mega is skippable unless you specifically want Mojo parallels — the hit fundamentals don't justify it for most ripping strategies.",
+
+    "compToLastYear": "There is no directly comparable Bowman Basketball product from last year — this is the brand's return after a 17-year gap. The closest comp is 2024-25 Bowman University Basketball (NCAA-only) or 2024-25 Topps Chrome Basketball (NBA-only under the Topps flagship brand). This dual-format approach splits the difference and introduces new pricing and rip dynamics that will take the first 60-90 days post-release to fully calibrate.",
+
+    "redFlags": "The NIL autograph guarantee is compelling, but NIL values are volatile — a prospect who doesn't declare for the 2026 draft or who transfers could see card values crater quickly. The dual-format approach also means parallel exposure is split across twice as many cards, which dilutes the rarity story for any single player. Read: a Flagg Gold /50 may not carry the same hype premium it would in a pure-NBA product.",
+
+    "bullCase": "The 2025 NBA rookie class is top-heavy with stars (Flagg, Harper, Edgecombe) and the 2026 NCAA-to-NBA class behind it is projected to be historically deep. If even half the top-10 NCAA prospects hit, this set becomes the foundational 1st Bowman product for a generation of stars — with the added scarcity bonus of being the 'return year' release.",
+
+    "bearCase": "NBA rookies can already be found in multiple other Topps products (Chrome, flagship) and will appear in more. Bowman's prospect edge in baseball comes from being the only place you can get 1st Bowman cards of top prospects before they reach MLB. In basketball, there's no equivalent structural exclusivity — Topps will put these same NBA rookies on dozens of other products throughout the year, which may cap appreciation for the Bowman-specific versions."
+  },
+
+  "chaseCards": [
+    {
+      "player": "Cooper Flagg",
+      "team": "Dallas Mavericks",
+      "cardName": "Platinum Border (Rainbow Foil) 1/1",
+      "reason": "The single rarest base-set card of the consensus #1 pick in a highly-anticipated draft class. Historical significance compounds the value.",
+      "estimatedValue": "$25K-$50K+"
+    },
+    {
+      "player": "Cooper Flagg",
+      "team": "Dallas Mavericks",
+      "cardName": "Chrome SuperFractor 1/1",
+      "reason": "The Chrome counterpart to the base 1/1. Arguably more iconic than the base version given Chrome's collecting pedigree.",
+      "estimatedValue": "$30K-$75K+"
+    },
+    {
+      "player": "AJ Dybantsa",
+      "team": "BYU",
+      "cardName": "Chrome Prospect Red Refractor /5",
+      "reason": "Dybantsa is the projected #1 pick in the 2026 NBA Draft and his 1st Bowman lives in this product. Red /5 is the lowest-numbered non-1/1 parallel.",
+      "estimatedValue": "$3K-$8K"
+    },
+    {
+      "player": "Dylan Harper",
+      "team": "San Antonio Spurs",
+      "cardName": "Black Border /10",
+      "reason": "Hobby-exclusive parallel of the Spurs' high-upside rookie guard paired with Wembanyama.",
+      "estimatedValue": "$2K-$5K"
+    },
+    {
+      "player": "JuJu Watkins",
+      "team": "USC",
+      "cardName": "Any Chrome Auto /50 or lower",
+      "reason": "Most marketable women's NCAA player in the set. NIL autos of Watkins are scarce; first Bowman appearance.",
+      "estimatedValue": "$1K-$3K"
+    }
+  ],
+
+  "links": {
+    "officialProductPage": "https://www.topps.com/products/2025-26-bowman-basketball-value-box",
+    "checklistSource": "https://www.beckett.com/news/2025-26-bowman-basketball-cards/",
+    "buyLinks": [
+      {
+        "retailer": "Topps",
+        "url": "https://www.topps.com",
+        "format": "Hobby"
+      },
+      {
+        "retailer": "Steel City Collectibles",
+        "url": "https://www.steelcitycollectibles.com/i/2025-26-bowman-basketball-hobby-box",
+        "format": "Hobby"
+      }
+    ],
+    "relatedReleases": [
+      {
+        "slug": "2025-26-bowman-university-best-basketball",
+        "title": "2025-26 Bowman University Best Basketball",
+        "relationship": "companion-set"
+      }
+    ]
+  },
+
+  "lastUpdated": "2026-04-22",
+  "author": "Jake Cohen"
+}

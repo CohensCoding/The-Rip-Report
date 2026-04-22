@@ -1,0 +1,180 @@
+{
+  "_comment": "STUB FILE — 2026 Bowman Baseball releases May 13. This is a pre-launch placeholder. Full data will populate as Topps releases the official odds PDF and checklist. Jake: use this as a template for pre-release pages — you can publish a 'preorder' version of any page with the basics, then update on release day.",
+
+  "slug": "2026-bowman-baseball",
+  "title": "2026 Bowman Baseball",
+  "shortTitle": "Bowman Baseball",
+  "year": "2026",
+  "sport": "baseball",
+  "brand": "bowman",
+  "manufacturer": "Topps",
+  "releaseDate": "2026-05-13",
+  "preorderDate": "2026-04-13",
+  "status": "preorder",
+
+  "heroImage": "/images/2026-bowman-baseball/hero.jpg",
+  "tagline": "Prospecting's biggest day of the year. Ethan Holliday, Konnor Griffin, and the rest of a stacked 1st Bowman class.",
+  "summary": "2026 Bowman Baseball is the first major MLB prospect product of the season and traditionally the most important release in the prospecting calendar. 1st Bowman cards of top prospects like Ethan Holliday (Rockies), Konnor Griffin (Pirates), and Jesus Made make their debut here, alongside the return of the Red Rookie Redemption program and the new Patchwork insert line.",
+
+  "verdict": {
+    "oneLineTake": "A historically deep prospect class meets a refreshed format. Value boxes are sneakily the best EV play for insert hunters this year.",
+    "whoThisIsFor": "Anyone building a long-term prospecting portfolio. This is the 1st Bowman year for the 2025 MLB Draft class.",
+    "keyChaseCard": "Ethan Holliday Chrome SuperFractor 1/1"
+  },
+
+  "boxFormats": [
+    {
+      "name": "Hobby",
+      "cardsPerPack": 8,
+      "packsPerBox": 20,
+      "boxesPerCase": 12,
+      "msrp": 239.99,
+      "guarantees": [
+        "1 Autograph per box",
+        "Snack Packs (Hobby-only, approx 1 per 24 cases)"
+      ]
+    },
+    {
+      "name": "Jumbo",
+      "cardsPerPack": 28,
+      "packsPerBox": 12,
+      "boxesPerCase": 8,
+      "msrp": 519.99,
+      "guarantees": [
+        "3 Autographs per box"
+      ],
+      "notes": "Pack size unconfirmed at presale — checklist sites list 28 cards/pack but official box rendering not yet published. Bowman Basketball rolled out at 12 packs of 25, so baseball could follow suit."
+    },
+    {
+      "name": "Mega",
+      "cardsPerPack": 7,
+      "packsPerBox": 6,
+      "guarantees": [
+        "6 Mojo parallels per box",
+        "2 Lazer parallels per box"
+      ],
+      "notes": "Format changed for 2026 — Mojos now mixed throughout all 6 packs rather than isolated to 2 exclusive packs."
+    },
+    {
+      "name": "Value",
+      "cardsPerPack": 10,
+      "packsPerBox": 6,
+      "msrp": 29.99,
+      "guarantees": [
+        "Most cost-effective format for insert access per dollar"
+      ]
+    }
+  ],
+
+  "baseSet": {
+    "size": 100,
+    "notes": "100-card paper base set of veterans and rookies. No Chrome versions — those release in the standalone Bowman Chrome product later in the season.",
+    "subsets": [
+      {
+        "name": "Paper Prospects",
+        "size": 150,
+        "notes": "Prospect checklist on paper stock"
+      },
+      {
+        "name": "Chrome Prospects",
+        "size": 150,
+        "notes": "Prospect checklist with Chrome/Refractor treatment. This is where 1st Bowman cards live."
+      }
+    ],
+    "variations": [
+      {
+        "name": "Base Rookie Red Variation",
+        "description": "Short-printed SP variation for 40 rookies. Redeemable for FanCash if player wins Rookie of the Year or Cy Young/MVP."
+      },
+      {
+        "name": "Etched In Glass Variation",
+        "description": "Stained-glass background variation treatment",
+        "printRun": "SP"
+      }
+    ]
+  },
+
+  "parallels": [
+    {
+      "appliesTo": "TBD — Parallel ladder will populate when official odds PDF drops. Expected: Chrome rainbow from Refractor through SuperFractor 1/1, mirroring recent Bowman Baseball conventions.",
+      "parallels": []
+    }
+  ],
+
+  "inserts": [
+    { "name": "Bowman Spotlights" },
+    { "name": "Anime", "description": "WBC Team Japan and Team USA editions; Kanji variations for Japanese players" },
+    { "name": "Crystallized" },
+    { "name": "Etched In Glass" },
+    { "name": "Patchwork", "isNew": true },
+    { "name": "Electric Sluggers", "isNew": true },
+    { "name": "Final Draft", "isNew": true },
+    { "name": "Power Chords", "isNew": true },
+    { "name": "Under the Radar", "isNew": true },
+    { "name": "Bowman Sterling", "isNew": true },
+    { "name": "Bowman Scouts Top 100" }
+  ],
+
+  "autographs": [
+    {
+      "name": "Chrome Prospect Autographs",
+      "signerCount": 87,
+      "description": "76 of 87 signers are 1st Bowman autographs — the core value driver of the product.",
+      "notableSigners": [
+        "Ethan Holliday",
+        "Konnor Griffin",
+        "Jesus Made",
+        "Walker Jenkins",
+        "Kevin McGonigle"
+      ]
+    },
+    {
+      "name": "Ultimate Book Autograph",
+      "description": "Multi-signer book auto featuring 24 top prospects including the Baseball America top 5 (Konnor Griffin, Kevin McGonigle, JJ Wetherholt, Jesus Made, Walker Jenkins). One of the biggest chase cards in the entire product."
+    }
+  ],
+
+  "commentary": {
+    "whatsNew": "The Mega Box format got a facelift — instead of 4 base packs plus 2 Mojo-exclusive packs, 2026 Mega boxes deliver 6 packs of 7 cards with Mojos mixed throughout all packs. Patchwork is a brand-new insert line for the Bowman brand. Snack Packs return and are Hobby-exclusive, falling approximately 1 per 24 cases — worth noting for anyone buying sealed Hobby on secondary markets (avoid potential weight shenanigans).",
+
+    "whatMatters": "The real story of 2026 Bowman is prospect class depth. Ethan Holliday (#1 in the 2025 MLB Draft), Konnor Griffin (currently the BA top prospect), and Jesus Made headline one of the strongest 1st Bowman classes in recent memory. Beyond the top tier, names like Walker Jenkins, JJ Wetherholt, and Kevin McGonigle give this class the depth that 2023 Bowman had in hindsight — and 2023 Bowman sealed product went on to appreciate substantially. This is a hold-for-years product, not a flip-for-quick-profit one.",
+
+    "formatAdvice": "Format math for 2026: Value Boxes are genuinely the best EV for insert hunters this year. Almost every major insert except ultra-rare Anime parallels is pullable from Value, and the $/parallel math beats Hobby. If you want autos, Jumbo wins ($1040 for 6 autos vs. 5 Hobby boxes at $1200 for 5 autos). If you want rainbow chases on specific players, Hobby still wins via exclusive lower-numbered parallels. Mega is a skip unless you're specifically chasing Mojos.",
+
+    "compToLastYear": "2025 Bowman introduced the Red Rookie Redemption program, which pays out for ROY/Cy Young/MVP winners. 2025's AL ROY (Nick Kurtz, A's) and NL ROY (Drake Baldwin, Braves) both had Red Rookies in 2025 Bowman Chrome (released later that year) rather than the original 2025 Bowman paper release. Expect the 2026 ROY pattern to play out similarly — buy Bowman paper for the prospects, watch Bowman Chrome later for ROY-eligible rookies.",
+
+    "bullCase": "Deep prospect class. The 2023 and 2024 Bowman releases both sat flat for months before appreciating as prospects developed — history suggests patience is rewarded here.",
+
+    "bearCase": "Buying for quick flip will disappoint. These might collect dust for 12-24 months before moving. Also: sealed Hobby has weight-shenanigans risk on eBay now that Snack Packs are case hits in Hobby only."
+  },
+
+  "chaseCards": [
+    {
+      "player": "Ethan Holliday",
+      "team": "Colorado Rockies",
+      "cardName": "Chrome Prospect Red Refractor /5",
+      "reason": "#1 pick in the 2025 MLB Draft, son of Matt Holliday, and the consensus top prospect in the class. 1st Bowman auto in this product.",
+      "estimatedValue": "$5K-$15K"
+    },
+    {
+      "player": "Konnor Griffin",
+      "team": "Pittsburgh Pirates",
+      "cardName": "Chrome Prospect Auto SuperFractor 1/1",
+      "reason": "Current BA top prospect; Ultimate Book signer; rising fast in prospect rankings.",
+      "estimatedValue": "$20K-$40K"
+    },
+    {
+      "player": "Various",
+      "cardName": "Ultimate Book Autograph (24 signers)",
+      "reason": "Multi-sig book containing 20 of the 24 signers on the BA Top 100 including the entire top 5. Likely the viral pull of the year — bookmark for live-break coverage.",
+      "estimatedValue": "$50K+"
+    }
+  ],
+
+  "links": {
+    "checklistSource": "https://www.checklistinsider.com/2026-bowman-baseball"
+  },
+
+  "lastUpdated": "2026-04-22",
+  "author": "Jake Cohen"
+}

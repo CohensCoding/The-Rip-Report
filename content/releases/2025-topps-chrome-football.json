@@ -1,0 +1,150 @@
+{
+  "_comment": "STARTER FILE — Jake, this is a scaffolded skeleton based on public info. Replace the [FILL IN FROM V2] placeholders with data from your v2 Excel workbook. Every field should be populated from your existing research before shipping this page.",
+
+  "slug": "2025-topps-chrome-football",
+  "title": "2025 Topps Chrome Football",
+  "shortTitle": "Topps Chrome Football",
+  "year": "2025",
+  "sport": "football",
+  "brand": "topps-chrome",
+  "manufacturer": "Topps",
+  "releaseDate": "2025-11-19",
+  "status": "released",
+
+  "heroImage": "/images/2025-topps-chrome-football/hero.jpg",
+  "tagline": "[FILL IN FROM V2 — a short, punchy 1-sentence line that captures what makes this release matter]",
+  "summary": "[FILL IN FROM V2 — 2-3 sentences setting up the release: what it is, who the top rookies are, why this year matters]",
+
+  "verdict": {
+    "oneLineTake": "[FILL IN FROM V2 — your TL;DR take on whether to rip, hold, or skip]",
+    "whoThisIsFor": "[FILL IN FROM V2 — e.g., 'Collectors chasing the 2025 QB class']",
+    "keyChaseCard": "[FILL IN FROM V2 — e.g., 'Cam Ward SuperFractor 1/1']",
+    "rating": {
+      "score": 0,
+      "label": "[FILL IN FROM V2 — Rip / Hold / Skip / Must Own]"
+    }
+  },
+
+  "boxFormats": [
+    {
+      "name": "Hobby",
+      "cardsPerPack": 0,
+      "packsPerBox": 0,
+      "boxesPerCase": 0,
+      "guarantees": [
+        "[FILL IN FROM V2 — e.g., '2 Autos per box', '24 Refractors']"
+      ],
+      "exclusives": [
+        "[FILL IN FROM V2 — any hobby-only parallels]"
+      ]
+    },
+    {
+      "name": "Jumbo",
+      "cardsPerPack": 0,
+      "packsPerBox": 0,
+      "boxesPerCase": 0,
+      "guarantees": [
+        "[FILL IN FROM V2]"
+      ]
+    }
+  ],
+
+  "baseSet": {
+    "size": 0,
+    "rookieCount": 0,
+    "notes": "[FILL IN FROM V2 — notes on the base set structure]",
+    "variations": [
+      {
+        "name": "[FILL IN FROM V2 — any SP variations, image variations, etc.]",
+        "description": "[FILL IN]",
+        "odds": "[FILL IN]"
+      }
+    ]
+  },
+
+  "parallels": [
+    {
+      "appliesTo": "Base",
+      "parallels": [
+        {
+          "_note": "Full parallel ladder goes here. Replace these placeholder entries with the real ladder from your v2. Typical Topps Chrome Football ladder includes: Base Refractor, Prism Refractor, Pink Refractor, Blue Refractor, Aqua /199, Purple /150, Green /99, Gold /50, Orange /25, Red /5, SuperFractor 1/1, plus X-Fractor variants. Use your v2 workbook as the source of truth.",
+          "name": "Refractor"
+        },
+        { "name": "[FILL IN FROM V2]", "printRun": 199 },
+        { "name": "[FILL IN FROM V2]", "printRun": 150 },
+        { "name": "[FILL IN FROM V2]", "printRun": 99 },
+        { "name": "Gold Refractor", "printRun": 50 },
+        { "name": "Orange Refractor", "printRun": 25, "exclusiveTo": ["Hobby"] },
+        { "name": "Red Refractor", "printRun": 5 },
+        { "name": "SuperFractor", "printRun": 1 }
+      ]
+    }
+  ],
+
+  "inserts": [
+    {
+      "name": "[FILL IN FROM V2 — insert name]",
+      "odds": "[FILL IN]",
+      "description": "[FILL IN]"
+    }
+  ],
+
+  "autographs": [
+    {
+      "name": "Rookie Autograph Refractors",
+      "boxGuarantee": "[FILL IN FROM V2]",
+      "odds": "[FILL IN FROM V2]",
+      "description": "[FILL IN FROM V2]",
+      "notableSigners": [
+        "[FILL IN FROM V2 — top signers: Cam Ward, Shedeur Sanders, Travis Hunter, etc.]"
+      ]
+    }
+  ],
+
+  "teamBreakdown": [
+    {
+      "team": "[FILL IN FROM V2 — team name]",
+      "league": "NFL",
+      "rookieCount": 0,
+      "notableRookies": ["[FILL IN FROM V2]"],
+      "notableVeterans": ["[FILL IN FROM V2]"],
+      "headlinerCard": "[FILL IN FROM V2]"
+    }
+  ],
+
+  "commentary": {
+    "whatsNew": "[FILL IN FROM V2 — what's different about this year's product vs. last year]",
+    "whatMatters": "[FILL IN FROM V2 — your long-form take. This is the most important field on the page. What should a collector actually care about? What's the chase? What's being underrated? Write this in your voice — opinionated, specific, confident. Aim for 3-5 paragraphs.]",
+    "formatAdvice": "[FILL IN FROM V2 — Hobby vs. Jumbo vs. Mega advice]",
+    "compToLastYear": "[FILL IN FROM V2 — how does 2025 stack up vs. 2024 Topps Chrome Football?]",
+    "redFlags": "[FILL IN FROM V2 — honest critique]",
+    "bullCase": "[FILL IN FROM V2]",
+    "bearCase": "[FILL IN FROM V2]"
+  },
+
+  "chaseCards": [
+    {
+      "player": "[FILL IN FROM V2]",
+      "team": "[FILL IN FROM V2]",
+      "cardName": "[FILL IN FROM V2]",
+      "reason": "[FILL IN FROM V2]",
+      "estimatedValue": "[FILL IN FROM V2]"
+    }
+  ],
+
+  "links": {
+    "officialOddsPdf": "[FILL IN FROM V2 — link to Topps' official odds PDF for this release]",
+    "officialProductPage": "[FILL IN FROM V2]",
+    "checklistSource": "[FILL IN FROM V2]",
+    "buyLinks": [
+      {
+        "retailer": "Topps",
+        "url": "[FILL IN]",
+        "format": "Hobby"
+      }
+    ]
+  },
+
+  "lastUpdated": "2026-04-22",
+  "author": "Jake Cohen"
+}

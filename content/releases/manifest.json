@@ -1,0 +1,34 @@
+{
+  "releases": [
+    {
+      "slug": "2025-topps-chrome-football",
+      "title": "2025 Topps Chrome Football",
+      "sport": "football",
+      "brand": "topps-chrome",
+      "releaseDate": "2025-11-19",
+      "status": "released",
+      "tagline": "The definitive breakdown of every parallel, insert, and rookie auto in Topps' 2025 Chrome flagship.",
+      "featured": true
+    },
+    {
+      "slug": "2025-26-bowman-basketball",
+      "title": "2025-26 Bowman Basketball",
+      "sport": "basketball",
+      "brand": "bowman",
+      "releaseDate": "2026-04-22",
+      "status": "released",
+      "tagline": "First NBA Bowman in 17 years. Dual NCAA/NBA format. Here's what actually matters.",
+      "featured": true
+    },
+    {
+      "slug": "2026-bowman-baseball",
+      "title": "2026 Bowman Baseball",
+      "sport": "baseball",
+      "brand": "bowman",
+      "releaseDate": "2026-05-13",
+      "status": "preorder",
+      "tagline": "Prospecting's biggest day of the year. Ethan Holliday, Konnor Griffin, and the rest of a stacked 1st Bowman class.",
+      "featured": true
+    }
+  ]
+}
