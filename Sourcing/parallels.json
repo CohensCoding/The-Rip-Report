@@ -1,0 +1,5127 @@
+{
+  "editorial": {
+    "overview": "The biggest Bowman parallel ladder in years. Three parent card types \u2014 NBA base, paper NCAA prospects, and Chrome NCAA prospects \u2014 each with its own full rainbow. Six parallel families do the work: paper Border, Chrome's core refractor ladder, Reptilian pattern variants, Delight-exclusive Geometric, Sapphire-box Sapphires, and Mega-exclusive Mojo. The format matters: Orange /25, Black /10, and Black Pattern /10 live only in Hobby. Mojo only lives in Mega. Sapphire only lives in Sapphire. Chase what matches your box.",
+    "perGroupNotes": {
+      "Base": "The NBA 200-card set carries every parallel family. Purple Border /199 is the ladder floor; Platinum Border /1 and Chrome SuperFractor /1 are the twin paper + chrome peaks. Hobby is the only way to get Orange /25 and the two Black /10s.",
+      "Paper Prospects": "NCAA paper prospects run only the Border ladder \u2014 no Chrome variants on paper. Same twelve colors as the NBA base Border family, different odds, different card pool.",
+      "Chrome Prospects": "NCAA Chrome prospects run the same five Chrome families as the NBA base (no Border). The SuperFractor /1 is Hobby + Jumbo only \u2014 retail buyers cannot pull a Chrome Prospect /1 from Value or Bulk packs."
+    }
+  },
+  "rainbowSummary": {
+    "baseParallelCount": 77,
+    "chromeProspectParallelCount": 58,
+    "paperProspectParallelCount": 12,
+    "totalRainbowPieces": 147,
+    "headlineStat": "147 total parallels across three ladders \u2014 77 for the NBA base set, 58 for Chrome Prospects, and 12 paper Border variants on NCAA prospects."
+  },
+  "exclusivityMatrix": {
+    "hobbyOnly": [
+      "Orange Border",
+      "Black Border",
+      "Black Pattern Border",
+      "Chrome Orange Refractor",
+      "Chrome Orange Shimmer Refractor",
+      "Chrome Reptilian Orange Refractor",
+      "Paper Prospect Orange Border",
+      "Paper Prospect Black Border",
+      "Paper Prospect Black Pattern Border",
+      "Chrome Prospect Orange Refractor",
+      "Chrome Prospect Reptilian Orange Refractor"
+    ],
+    "retailOnly": [
+      "Green Border",
+      "Green Pattern Border",
+      "Chrome Lava Refractor",
+      "Chrome Green Refractor",
+      "Chrome Green Shimmer Refractor",
+      "Chrome Reptilian Green Refractor",
+      "Paper Prospect Green Border",
+      "Paper Prospect Green Pattern Border",
+      "Chrome Prospect Green Refractor",
+      "Chrome Prospect Green Shimmer Refractor",
+      "Chrome Prospect Reptilian Green Refractor"
+    ],
+    "breakerOnly": [
+      "Chrome Floorboard Refractor",
+      "Chrome Geometric",
+      "Chrome Green Geometric",
+      "Chrome Gold Geometric",
+      "Chrome Orange Geometric",
+      "Chrome Black Geometric",
+      "Chrome Red Geometric",
+      "Chrome Prospect Floorboard Refractor",
+      "Chrome Prospect Geometric",
+      "Chrome Prospect Green Geometric",
+      "Chrome Prospect Gold Geometric",
+      "Chrome Prospect Orange Geometric",
+      "Chrome Prospect Black Geometric",
+      "Chrome Prospect Red Geometric"
+    ],
+    "jumboOnly": [
+      "Chrome Mini-Diamond Refractor",
+      "Chrome Red X-Fractor",
+      "Chrome Prospect Mini-Diamond Refractor"
+    ],
+    "megaOnly": [
+      "Chrome Mojo",
+      "Chrome Fuchsia Mojo",
+      "Chrome Burgundy Mojo",
+      "Chrome Purple Mojo",
+      "Chrome Pink Mojo",
+      "Chrome Navy Mojo",
+      "Chrome Blue Mojo",
+      "Chrome Aqua Mojo",
+      "Chrome Green Mojo",
+      "Chrome Yellow Mojo",
+      "Chrome Gold Mojo",
+      "Chrome Orange Mojo",
+      "Chrome Red Mojo",
+      "Chrome Black Mojo",
+      "Chrome Rose Gold Mojo",
+      "Chrome Prospect Mojo",
+      "Chrome Prospect Fuchsia Mojo",
+      "Chrome Prospect Burgundy Mojo",
+      "Chrome Prospect Purple Mojo",
+      "Chrome Prospect Pink Mojo",
+      "Chrome Prospect Navy Mojo",
+      "Chrome Prospect Blue Mojo",
+      "Chrome Prospect Aqua Mojo",
+      "Chrome Prospect Green Mojo",
+      "Chrome Prospect Yellow Mojo",
+      "Chrome Prospect Gold Mojo",
+      "Chrome Prospect Orange Mojo",
+      "Chrome Prospect Red Mojo",
+      "Chrome Prospect Black Mojo",
+      "Chrome Prospect Rose Gold Mojo"
+    ],
+    "sapphireOnly": [
+      "Chrome Sapphire",
+      "Chrome Yellow Sapphire",
+      "Chrome Gold Sapphire",
+      "Chrome Orange Sapphire",
+      "Chrome Black Sapphire",
+      "Chrome Red Sapphire",
+      "Chrome Padparadscha Sapphire",
+      "Chrome Prospect Sapphire",
+      "Chrome Prospect Yellow Sapphire",
+      "Chrome Prospect Gold Sapphire",
+      "Chrome Prospect Orange Sapphire",
+      "Chrome Prospect Black Sapphire",
+      "Chrome Prospect Red Sapphire",
+      "Chrome Prospect Padparadscha Sapphire"
+    ],
+    "hobbyAndJumboOnly": [
+      "Chrome Yellow X-Fractor",
+      "Chrome Yellow Wave Refractor",
+      "Chrome SuperFractor",
+      "Chrome Prospect Aqua X-Fractor",
+      "Chrome Prospect Yellow X-Fractor",
+      "Chrome Prospect SuperFractor"
+    ]
+  },
+  "groups": [
+    {
+      "name": "Base",
+      "appliesTo": "200-card NBA base set (Cooper Flagg RC through veteran stars)",
+      "parallels": [
+        {
+          "name": "Purple Border",
+          "slug": "purple-border",
+          "family": "Border",
+          "printRun": 199,
+          "odds": {
+            "ratioDisplay": "1:188 packs (Hobby)",
+            "ratio": {
+              "onePerN": 188
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 188,
+                "ratioDisplay": "1:188 packs"
+              },
+              "Jumbo": {
+                "onePerN": 64,
+                "ratioDisplay": "1:64 packs"
+              },
+              "Value": {
+                "onePerN": 689,
+                "ratioDisplay": "1:689 packs"
+              },
+              "Bulk": {
+                "onePerN": 123,
+                "ratioDisplay": "1:123 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#6B3AA0"
+          },
+          "editorialTier": "common"
+        },
+        {
+          "name": "Pink Border",
+          "slug": "pink-border",
+          "family": "Border",
+          "printRun": 175,
+          "odds": {
+            "ratioDisplay": "1:214 packs (Hobby)",
+            "ratio": {
+              "onePerN": 214
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 214,
+                "ratioDisplay": "1:214 packs"
+              },
+              "Jumbo": {
+                "onePerN": 73,
+                "ratioDisplay": "1:73 packs"
+              },
+              "Value": {
+                "onePerN": 783,
+                "ratioDisplay": "1:783 packs"
+              },
+              "Bulk": {
+                "onePerN": 140,
+                "ratioDisplay": "1:140 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#F48FB1"
+          },
+          "editorialTier": "common"
+        },
+        {
+          "name": "Blue Border",
+          "slug": "blue-border",
+          "family": "Border",
+          "printRun": 150,
+          "odds": {
+            "ratioDisplay": "1:250 packs (Hobby)",
+            "ratio": {
+              "onePerN": 250
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 250,
+                "ratioDisplay": "1:250 packs"
+              },
+              "Jumbo": {
+                "onePerN": 85,
+                "ratioDisplay": "1:85 packs"
+              },
+              "Value": {
+                "onePerN": 914,
+                "ratioDisplay": "1:914 packs"
+              },
+              "Bulk": {
+                "onePerN": 163,
+                "ratioDisplay": "1:163 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#3A7BD5"
+          },
+          "editorialTier": "common"
+        },
+        {
+          "name": "Green Border",
+          "slug": "green-border",
+          "family": "Border",
+          "printRun": 99,
+          "odds": {
+            "ratioDisplay": "1:533 packs (Value)",
+            "ratio": {
+              "onePerN": 533
+            },
+            "perFormat": {
+              "Value": {
+                "onePerN": 533,
+                "ratioDisplay": "1:533 packs"
+              },
+              "Bulk": {
+                "onePerN": 72,
+                "ratioDisplay": "1:72 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#2EA558"
+          },
+          "exclusiveTo": [
+            "Value",
+            "Bulk"
+          ],
+          "note": "Retail-exclusive (Value + Bulk).",
+          "editorialTier": "common"
+        },
+        {
+          "name": "Green Pattern Border",
+          "slug": "green-pattern-border",
+          "family": "Border",
+          "printRun": 99,
+          "odds": {
+            "ratioDisplay": "1:533 packs (Value)",
+            "ratio": {
+              "onePerN": 533
+            },
+            "perFormat": {
+              "Value": {
+                "onePerN": 533,
+                "ratioDisplay": "1:533 packs"
+              },
+              "Bulk": {
+                "onePerN": 72,
+                "ratioDisplay": "1:72 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#2EA558"
+          },
+          "exclusiveTo": [
+            "Value",
+            "Bulk"
+          ],
+          "note": "Retail-exclusive; pattern overlay on Green.",
+          "editorialTier": "common"
+        },
+        {
+          "name": "Yellow Border",
+          "slug": "yellow-border",
+          "family": "Border",
+          "printRun": 75,
+          "odds": {
+            "ratioDisplay": "1:499 packs (Hobby)",
+            "ratio": {
+              "onePerN": 499
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 499,
+                "ratioDisplay": "1:499 packs"
+              },
+              "Jumbo": {
+                "onePerN": 138,
+                "ratioDisplay": "1:138 packs"
+              },
+              "Value": {
+                "onePerN": 1827,
+                "ratioDisplay": "1:1,827 packs"
+              },
+              "Bulk": {
+                "onePerN": 327,
+                "ratioDisplay": "1:327 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#F4C430"
+          },
+          "editorialTier": "common"
+        },
+        {
+          "name": "Gold Border",
+          "slug": "gold-border",
+          "family": "Border",
+          "printRun": 50,
+          "odds": {
+            "ratioDisplay": "1:748 packs (Hobby)",
+            "ratio": {
+              "onePerN": 748
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 748,
+                "ratioDisplay": "1:748 packs"
+              },
+              "Jumbo": {
+                "onePerN": 190,
+                "ratioDisplay": "1:190 packs"
+              },
+              "Value": {
+                "onePerN": 2741,
+                "ratioDisplay": "1:2,741 packs"
+              },
+              "Bulk": {
+                "onePerN": 491,
+                "ratioDisplay": "1:491 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#D4AF37",
+            "gradient": {
+              "from": "#E8C869",
+              "to": "#B8912C"
+            }
+          },
+          "editorialTier": "notable"
+        },
+        {
+          "name": "Orange Border",
+          "slug": "orange-border",
+          "family": "Border",
+          "printRun": 25,
+          "odds": {
+            "ratioDisplay": "1:449 packs (Hobby)",
+            "ratio": {
+              "onePerN": 449
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 449,
+                "ratioDisplay": "1:449 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#F26A1C"
+          },
+          "exclusiveTo": [
+            "Hobby"
+          ],
+          "note": "Hobby-exclusive.",
+          "editorialTier": "notable"
+        },
+        {
+          "name": "Black Border",
+          "slug": "black-border",
+          "family": "Border",
+          "printRun": 10,
+          "odds": {
+            "ratioDisplay": "1:1,123 packs (Hobby)",
+            "ratio": {
+              "onePerN": 1123
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 1123,
+                "ratioDisplay": "1:1,123 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#1A1A1D"
+          },
+          "exclusiveTo": [
+            "Hobby"
+          ],
+          "note": "Hobby-exclusive.",
+          "editorialTier": "notable"
+        },
+        {
+          "name": "Black Pattern Border",
+          "slug": "black-pattern-border",
+          "family": "Border",
+          "printRun": 10,
+          "odds": {
+            "ratioDisplay": "1:1,123 packs (Hobby)",
+            "ratio": {
+              "onePerN": 1123
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 1123,
+                "ratioDisplay": "1:1,123 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#1A1A1D"
+          },
+          "exclusiveTo": [
+            "Hobby"
+          ],
+          "note": "Hobby-exclusive; pattern overlay on Black.",
+          "editorialTier": "notable"
+        },
+        {
+          "name": "Red Border",
+          "slug": "red-border",
+          "family": "Border",
+          "printRun": 5,
+          "odds": {
+            "ratioDisplay": "1:7,496 packs (Hobby)",
+            "ratio": {
+              "onePerN": 7496
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 7496,
+                "ratioDisplay": "1:7,496 packs"
+              },
+              "Jumbo": {
+                "onePerN": 2529,
+                "ratioDisplay": "1:2,529 packs"
+              },
+              "Value": {
+                "onePerN": 27497,
+                "ratioDisplay": "1:27,497 packs"
+              },
+              "Bulk": {
+                "onePerN": 5000,
+                "ratioDisplay": "1:5,000 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#D13340"
+          },
+          "editorialTier": "chase"
+        },
+        {
+          "name": "Platinum Border",
+          "slug": "platinum-border",
+          "family": "Border",
+          "printRun": 1,
+          "odds": {
+            "ratioDisplay": "1:38,005 packs (Hobby)",
+            "ratio": {
+              "onePerN": 38005
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 38005,
+                "ratioDisplay": "1:38,005 packs"
+              },
+              "Jumbo": {
+                "onePerN": 12772,
+                "ratioDisplay": "1:12,772 packs"
+              },
+              "Value": {
+                "onePerN": 140100,
+                "ratioDisplay": "1:140,100 packs"
+              },
+              "Bulk": {
+                "onePerN": 25000,
+                "ratioDisplay": "1:25,000 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#E5E4E2",
+            "gradient": {
+              "from": "#FFFFFF",
+              "to": "#B8B6B5"
+            }
+          },
+          "note": "1-of-1 \u2014 the paper holy grail.",
+          "editorialTier": "chase"
+        },
+        {
+          "name": "Chrome",
+          "slug": "chrome",
+          "family": "Chrome",
+          "printRunLabel": "Unnumbered",
+          "odds": {
+            "ratioDisplay": "1:1 packs (Hobby)",
+            "ratio": {
+              "onePerN": 1
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 1,
+                "ratioDisplay": "1:1 packs"
+              },
+              "Jumbo": {
+                "onePerN": 1,
+                "ratioDisplay": "1:1 packs"
+              },
+              "Value": {
+                "onePerN": 2,
+                "ratioDisplay": "1:2 packs"
+              },
+              "Bulk": {
+                "onePerN": 1,
+                "ratioDisplay": "1:1 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#B8C5D1"
+          },
+          "note": "Unnumbered Chrome base card.",
+          "editorialTier": "filler"
+        },
+        {
+          "name": "Chrome Mini-Diamond Refractor",
+          "slug": "chrome-mini-diamond-refractor",
+          "family": "Chrome",
+          "printRunLabel": "Unnumbered",
+          "odds": {
+            "ratioDisplay": "1:30 packs (Jumbo)",
+            "ratio": {
+              "onePerN": 30
+            },
+            "perFormat": {
+              "Jumbo": {
+                "onePerN": 30,
+                "ratioDisplay": "1:30 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#B8C5D1"
+          },
+          "exclusiveTo": [
+            "Jumbo"
+          ],
+          "note": "Jumbo-exclusive; unnumbered.",
+          "editorialTier": "filler"
+        },
+        {
+          "name": "Chrome Refractor",
+          "slug": "chrome-refractor",
+          "family": "Chrome",
+          "printRun": 499,
+          "odds": {
+            "ratioDisplay": "1:75 packs (Hobby)",
+            "ratio": {
+              "onePerN": 75
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 75,
+                "ratioDisplay": "1:75 packs"
+              },
+              "Jumbo": {
+                "onePerN": 26,
+                "ratioDisplay": "1:26 packs"
+              },
+              "Value": {
+                "onePerN": 275,
+                "ratioDisplay": "1:275 packs"
+              },
+              "Bulk": {
+                "onePerN": 878,
+                "ratioDisplay": "1:878 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#B8C5D1"
+          },
+          "editorialTier": "common"
+        },
+        {
+          "name": "Chrome Lava Refractor",
+          "slug": "chrome-lava-refractor",
+          "family": "Chrome",
+          "printRun": 399,
+          "odds": {
+            "ratioDisplay": "1:133 packs (Value)",
+            "ratio": {
+              "onePerN": 133
+            },
+            "perFormat": {
+              "Value": {
+                "onePerN": 133,
+                "ratioDisplay": "1:133 packs"
+              },
+              "Bulk": {
+                "onePerN": 57,
+                "ratioDisplay": "1:57 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#E94325",
+            "gradient": {
+              "from": "#F87A3A",
+              "to": "#A0220A"
+            }
+          },
+          "exclusiveTo": [
+            "Value",
+            "Bulk"
+          ],
+          "note": "Retail-exclusive.",
+          "editorialTier": "common"
+        },
+        {
+          "name": "Chrome Speckle Refractor",
+          "slug": "chrome-speckle-refractor",
+          "family": "Chrome",
+          "printRun": 299,
+          "odds": {
+            "ratioDisplay": "1:126 packs (Hobby)",
+            "ratio": {
+              "onePerN": 126
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 126,
+                "ratioDisplay": "1:126 packs"
+              },
+              "Jumbo": {
+                "onePerN": 37,
+                "ratioDisplay": "1:37 packs"
+              },
+              "Value": {
+                "onePerN": 459,
+                "ratioDisplay": "1:459 packs"
+              },
+              "Bulk": {
+                "onePerN": 135,
+                "ratioDisplay": "1:135 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#9AA4B0"
+          },
+          "editorialTier": "common"
+        },
+        {
+          "name": "Chrome Purple Refractor",
+          "slug": "chrome-purple-refractor",
+          "family": "Chrome",
+          "printRun": 250,
+          "odds": {
+            "ratioDisplay": "1:150 packs (Hobby)",
+            "ratio": {
+              "onePerN": 150
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 150,
+                "ratioDisplay": "1:150 packs"
+              },
+              "Jumbo": {
+                "onePerN": 51,
+                "ratioDisplay": "1:51 packs"
+              },
+              "Value": {
+                "onePerN": 548,
+                "ratioDisplay": "1:548 packs"
+              },
+              "Bulk": {
+                "onePerN": 186,
+                "ratioDisplay": "1:186 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#6B3AA0"
+          },
+          "editorialTier": "common"
+        },
+        {
+          "name": "Chrome Fuchsia Refractor",
+          "slug": "chrome-fuchsia-refractor",
+          "family": "Chrome",
+          "printRun": 199,
+          "odds": {
+            "ratioDisplay": "1:188 packs (Hobby)",
+            "ratio": {
+              "onePerN": 188
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 188,
+                "ratioDisplay": "1:188 packs"
+              },
+              "Jumbo": {
+                "onePerN": 64,
+                "ratioDisplay": "1:64 packs"
+              },
+              "Value": {
+                "onePerN": 689,
+                "ratioDisplay": "1:689 packs"
+              },
+              "Bulk": {
+                "onePerN": 123,
+                "ratioDisplay": "1:123 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#E04B94"
+          },
+          "editorialTier": "common"
+        },
+        {
+          "name": "Chrome Blue Refractor",
+          "slug": "chrome-blue-refractor",
+          "family": "Chrome",
+          "printRun": 150,
+          "odds": {
+            "ratioDisplay": "1:250 packs (Hobby)",
+            "ratio": {
+              "onePerN": 250
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 250,
+                "ratioDisplay": "1:250 packs"
+              },
+              "Jumbo": {
+                "onePerN": 85,
+                "ratioDisplay": "1:85 packs"
+              },
+              "Value": {
+                "onePerN": 914,
+                "ratioDisplay": "1:914 packs"
+              },
+              "Bulk": {
+                "onePerN": 163,
+                "ratioDisplay": "1:163 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#3A7BD5"
+          },
+          "editorialTier": "common"
+        },
+        {
+          "name": "Chrome Blue Shimmer Refractor",
+          "slug": "chrome-blue-shimmer-refractor",
+          "family": "Chrome",
+          "printRun": 150,
+          "odds": {
+            "ratioDisplay": "1:250 packs (Hobby)",
+            "ratio": {
+              "onePerN": 250
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 250,
+                "ratioDisplay": "1:250 packs"
+              },
+              "Jumbo": {
+                "onePerN": 85,
+                "ratioDisplay": "1:85 packs"
+              },
+              "Value": {
+                "onePerN": 914,
+                "ratioDisplay": "1:914 packs"
+              },
+              "Bulk": {
+                "onePerN": 163,
+                "ratioDisplay": "1:163 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#3A7BD5"
+          },
+          "note": "Shimmer-treatment variant of Blue Refractor.",
+          "editorialTier": "common"
+        },
+        {
+          "name": "Chrome Floorboard Refractor",
+          "slug": "chrome-floorboard-refractor",
+          "family": "Chrome",
+          "printRun": 125,
+          "odds": {
+            "ratioDisplay": "1:32 packs (Breaker's Delight)",
+            "ratio": {
+              "onePerN": 32
+            },
+            "perFormat": {
+              "Breaker's Delight": {
+                "onePerN": 32,
+                "ratioDisplay": "1:32 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#8B5A2B",
+            "gradient": {
+              "from": "#A67646",
+              "to": "#5F3B1A"
+            }
+          },
+          "exclusiveTo": [
+            "Breaker's Delight"
+          ],
+          "note": "Breaker's Delight exclusive.",
+          "editorialTier": "common"
+        },
+        {
+          "name": "Chrome Steel Metal Refractor",
+          "slug": "chrome-steel-metal-refractor",
+          "family": "Chrome",
+          "printRun": 100,
+          "odds": {
+            "ratioDisplay": "1:374 packs (Hobby)",
+            "ratio": {
+              "onePerN": 374
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 374,
+                "ratioDisplay": "1:374 packs"
+              },
+              "Jumbo": {
+                "onePerN": 127,
+                "ratioDisplay": "1:127 packs"
+              },
+              "Value": {
+                "onePerN": 1371,
+                "ratioDisplay": "1:1,371 packs"
+              },
+              "Bulk": {
+                "onePerN": 246,
+                "ratioDisplay": "1:246 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#8891A0",
+            "gradient": {
+              "from": "#B5BBC7",
+              "to": "#5A6470"
+            }
+          },
+          "editorialTier": "common"
+        },
+        {
+          "name": "Chrome Green Refractor",
+          "slug": "chrome-green-refractor",
+          "family": "Chrome",
+          "printRun": 99,
+          "odds": {
+            "ratioDisplay": "1:533 packs (Value)",
+            "ratio": {
+              "onePerN": 533
+            },
+            "perFormat": {
+              "Value": {
+                "onePerN": 533,
+                "ratioDisplay": "1:533 packs"
+              },
+              "Bulk": {
+                "onePerN": 72,
+                "ratioDisplay": "1:72 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#2EA558"
+          },
+          "exclusiveTo": [
+            "Value",
+            "Bulk"
+          ],
+          "note": "Retail-exclusive.",
+          "editorialTier": "common"
+        },
+        {
+          "name": "Chrome Green Shimmer Refractor",
+          "slug": "chrome-green-shimmer-refractor",
+          "family": "Chrome",
+          "printRun": 99,
+          "odds": {
+            "ratioDisplay": "1:533 packs (Value)",
+            "ratio": {
+              "onePerN": 533
+            },
+            "perFormat": {
+              "Value": {
+                "onePerN": 533,
+                "ratioDisplay": "1:533 packs"
+              },
+              "Bulk": {
+                "onePerN": 72,
+                "ratioDisplay": "1:72 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#2EA558"
+          },
+          "exclusiveTo": [
+            "Value",
+            "Bulk"
+          ],
+          "note": "Retail-exclusive; shimmer-treatment variant.",
+          "editorialTier": "common"
+        },
+        {
+          "name": "Chrome Yellow Refractor",
+          "slug": "chrome-yellow-refractor",
+          "family": "Chrome",
+          "printRun": 75,
+          "odds": {
+            "ratioDisplay": "1:499 packs (Hobby)",
+            "ratio": {
+              "onePerN": 499
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 499,
+                "ratioDisplay": "1:499 packs"
+              },
+              "Jumbo": {
+                "onePerN": 169,
+                "ratioDisplay": "1:169 packs"
+              },
+              "Value": {
+                "onePerN": 1827,
+                "ratioDisplay": "1:1,827 packs"
+              },
+              "Bulk": {
+                "onePerN": 327,
+                "ratioDisplay": "1:327 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#F4C430"
+          },
+          "editorialTier": "common"
+        },
+        {
+          "name": "Chrome Yellow X-Fractor",
+          "slug": "chrome-yellow-x-fractor",
+          "family": "Chrome",
+          "printRun": 75,
+          "odds": {
+            "ratioDisplay": "1:307 packs (Hobby)",
+            "ratio": {
+              "onePerN": 307
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 307,
+                "ratioDisplay": "1:307 packs"
+              },
+              "Jumbo": {
+                "onePerN": 104,
+                "ratioDisplay": "1:104 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#B8C5D1"
+          },
+          "exclusiveTo": [
+            "Hobby",
+            "Jumbo"
+          ],
+          "note": "Hobby + Jumbo only; X-pattern overlay.",
+          "editorialTier": "common"
+        },
+        {
+          "name": "Chrome Yellow Wave Refractor",
+          "slug": "chrome-yellow-wave-refractor",
+          "family": "Chrome",
+          "printRun": 75,
+          "odds": {
+            "ratioDisplay": "1:307 packs (Hobby)",
+            "ratio": {
+              "onePerN": 307
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 307,
+                "ratioDisplay": "1:307 packs"
+              },
+              "Jumbo": {
+                "onePerN": 104,
+                "ratioDisplay": "1:104 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#F4C430"
+          },
+          "exclusiveTo": [
+            "Hobby",
+            "Jumbo"
+          ],
+          "note": "Hobby + Jumbo only; wave pattern.",
+          "editorialTier": "common"
+        },
+        {
+          "name": "Chrome Gold Refractor",
+          "slug": "chrome-gold-refractor",
+          "family": "Chrome",
+          "printRun": 50,
+          "odds": {
+            "ratioDisplay": "1:748 packs (Hobby)",
+            "ratio": {
+              "onePerN": 748
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 748,
+                "ratioDisplay": "1:748 packs"
+              },
+              "Jumbo": {
+                "onePerN": 253,
+                "ratioDisplay": "1:253 packs"
+              },
+              "Value": {
+                "onePerN": 2741,
+                "ratioDisplay": "1:2,741 packs"
+              },
+              "Bulk": {
+                "onePerN": 491,
+                "ratioDisplay": "1:491 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#D4AF37",
+            "gradient": {
+              "from": "#E8C869",
+              "to": "#B8912C"
+            }
+          },
+          "editorialTier": "notable"
+        },
+        {
+          "name": "Chrome Gold Shimmer Refractor",
+          "slug": "chrome-gold-shimmer-refractor",
+          "family": "Chrome",
+          "printRun": 50,
+          "odds": {
+            "ratioDisplay": "1:748 packs (Hobby)",
+            "ratio": {
+              "onePerN": 748
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 748,
+                "ratioDisplay": "1:748 packs"
+              },
+              "Jumbo": {
+                "onePerN": 253,
+                "ratioDisplay": "1:253 packs"
+              },
+              "Value": {
+                "onePerN": 2741,
+                "ratioDisplay": "1:2,741 packs"
+              },
+              "Bulk": {
+                "onePerN": 491,
+                "ratioDisplay": "1:491 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#D4AF37",
+            "gradient": {
+              "from": "#E8C869",
+              "to": "#B8912C"
+            }
+          },
+          "note": "Shimmer-treatment variant of Gold Refractor.",
+          "editorialTier": "notable"
+        },
+        {
+          "name": "Chrome Orange Refractor",
+          "slug": "chrome-orange-refractor",
+          "family": "Chrome",
+          "printRun": 25,
+          "odds": {
+            "ratioDisplay": "1:449 packs (Hobby)",
+            "ratio": {
+              "onePerN": 449
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 449,
+                "ratioDisplay": "1:449 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#F26A1C"
+          },
+          "exclusiveTo": [
+            "Hobby"
+          ],
+          "note": "Hobby-exclusive.",
+          "editorialTier": "notable"
+        },
+        {
+          "name": "Chrome Orange Shimmer Refractor",
+          "slug": "chrome-orange-shimmer-refractor",
+          "family": "Chrome",
+          "printRun": 25,
+          "odds": {
+            "ratioDisplay": "1:449 packs (Hobby)",
+            "ratio": {
+              "onePerN": 449
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 449,
+                "ratioDisplay": "1:449 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#F26A1C"
+          },
+          "exclusiveTo": [
+            "Hobby"
+          ],
+          "note": "Hobby-exclusive; shimmer variant.",
+          "editorialTier": "notable"
+        },
+        {
+          "name": "Chrome Rose Gold Refractor",
+          "slug": "chrome-rose-gold-refractor",
+          "family": "Chrome",
+          "printRun": 15,
+          "odds": {
+            "ratioDisplay": "1:2,167 packs (Hobby)",
+            "ratio": {
+              "onePerN": 2167
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 2167,
+                "ratioDisplay": "1:2,167 packs"
+              },
+              "Jumbo": {
+                "onePerN": 665,
+                "ratioDisplay": "1:665 packs"
+              },
+              "Value": {
+                "onePerN": 9137,
+                "ratioDisplay": "1:9,137 packs"
+              },
+              "Bulk": {
+                "onePerN": 1667,
+                "ratioDisplay": "1:1,667 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#B76E79",
+            "gradient": {
+              "from": "#D4948E",
+              "to": "#8B4A52"
+            }
+          },
+          "editorialTier": "notable"
+        },
+        {
+          "name": "Chrome Rose Gold Mini-Diamond Refractor",
+          "slug": "chrome-rose-gold-mini-diamond-refractor",
+          "family": "Chrome",
+          "printRun": 15,
+          "odds": {
+            "ratioDisplay": "1:2,167 packs (Hobby)",
+            "ratio": {
+              "onePerN": 2167
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 2167,
+                "ratioDisplay": "1:2,167 packs"
+              },
+              "Jumbo": {
+                "onePerN": 665,
+                "ratioDisplay": "1:665 packs"
+              },
+              "Value": {
+                "onePerN": 9137,
+                "ratioDisplay": "1:9,137 packs"
+              },
+              "Bulk": {
+                "onePerN": 1667,
+                "ratioDisplay": "1:1,667 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#B76E79",
+            "gradient": {
+              "from": "#D4948E",
+              "to": "#8B4A52"
+            }
+          },
+          "note": "Rose Gold base with mini-diamond pattern.",
+          "editorialTier": "notable"
+        },
+        {
+          "name": "Chrome Rose Gold X-Fractor",
+          "slug": "chrome-rose-gold-x-fractor",
+          "family": "Chrome",
+          "printRun": 15,
+          "odds": {
+            "ratioDisplay": "1:2,167 packs (Hobby)",
+            "ratio": {
+              "onePerN": 2167
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 2167,
+                "ratioDisplay": "1:2,167 packs"
+              },
+              "Jumbo": {
+                "onePerN": 728,
+                "ratioDisplay": "1:728 packs"
+              },
+              "Value": {
+                "onePerN": 7265,
+                "ratioDisplay": "1:7,265 packs"
+              },
+              "Bulk": {
+                "onePerN": 1667,
+                "ratioDisplay": "1:1,667 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#B76E79",
+            "gradient": {
+              "from": "#D4948E",
+              "to": "#8B4A52"
+            }
+          },
+          "note": "Rose Gold with X-pattern overlay.",
+          "editorialTier": "notable"
+        },
+        {
+          "name": "Chrome Black Refractor",
+          "slug": "chrome-black-refractor",
+          "family": "Chrome",
+          "printRun": 10,
+          "odds": {
+            "ratioDisplay": "1:3,742 packs (Hobby)",
+            "ratio": {
+              "onePerN": 3742
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 3742,
+                "ratioDisplay": "1:3,742 packs"
+              },
+              "Jumbo": {
+                "onePerN": 1263,
+                "ratioDisplay": "1:1,263 packs"
+              },
+              "Value": {
+                "onePerN": 13717,
+                "ratioDisplay": "1:13,717 packs"
+              },
+              "Bulk": {
+                "onePerN": 2500,
+                "ratioDisplay": "1:2,500 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#1A1A1D"
+          },
+          "editorialTier": "notable"
+        },
+        {
+          "name": "Chrome Black X-Fractor",
+          "slug": "chrome-black-x-fractor",
+          "family": "Chrome",
+          "printRun": 10,
+          "odds": {
+            "ratioDisplay": "1:3,742 packs (Hobby)",
+            "ratio": {
+              "onePerN": 3742
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 3742,
+                "ratioDisplay": "1:3,742 packs"
+              },
+              "Jumbo": {
+                "onePerN": 1263,
+                "ratioDisplay": "1:1,263 packs"
+              },
+              "Value": {
+                "onePerN": 13717,
+                "ratioDisplay": "1:13,717 packs"
+              },
+              "Bulk": {
+                "onePerN": 2500,
+                "ratioDisplay": "1:2,500 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#1A1A1D"
+          },
+          "note": "Black with X-pattern overlay.",
+          "editorialTier": "notable"
+        },
+        {
+          "name": "Chrome Red Refractor",
+          "slug": "chrome-red-refractor",
+          "family": "Chrome",
+          "printRun": 5,
+          "odds": {
+            "ratioDisplay": "1:7,496 packs (Hobby)",
+            "ratio": {
+              "onePerN": 7496
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 7496,
+                "ratioDisplay": "1:7,496 packs"
+              },
+              "Jumbo": {
+                "onePerN": 2529,
+                "ratioDisplay": "1:2,529 packs"
+              },
+              "Value": {
+                "onePerN": 27497,
+                "ratioDisplay": "1:27,497 packs"
+              },
+              "Bulk": {
+                "onePerN": 5000,
+                "ratioDisplay": "1:5,000 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#D13340"
+          },
+          "editorialTier": "chase"
+        },
+        {
+          "name": "Chrome Red Lava Refractor",
+          "slug": "chrome-red-lava-refractor",
+          "family": "Chrome",
+          "printRun": 5,
+          "odds": {
+            "ratioDisplay": "1:7,496 packs (Hobby)",
+            "ratio": {
+              "onePerN": 7496
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 7496,
+                "ratioDisplay": "1:7,496 packs"
+              },
+              "Jumbo": {
+                "onePerN": 2529,
+                "ratioDisplay": "1:2,529 packs"
+              },
+              "Value": {
+                "onePerN": 27497,
+                "ratioDisplay": "1:27,497 packs"
+              },
+              "Bulk": {
+                "onePerN": 5000,
+                "ratioDisplay": "1:5,000 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#E94325",
+            "gradient": {
+              "from": "#F87A3A",
+              "to": "#A0220A"
+            }
+          },
+          "note": "Red + Lava fusion.",
+          "editorialTier": "chase"
+        },
+        {
+          "name": "Chrome Red X-Fractor",
+          "slug": "chrome-red-x-fractor",
+          "family": "Chrome",
+          "printRun": 5,
+          "odds": {
+            "ratioDisplay": "1:795 packs (Jumbo)",
+            "ratio": {
+              "onePerN": 795
+            },
+            "perFormat": {
+              "Jumbo": {
+                "onePerN": 795,
+                "ratioDisplay": "1:795 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#D13340"
+          },
+          "exclusiveTo": [
+            "Jumbo"
+          ],
+          "note": "Jumbo-exclusive.",
+          "editorialTier": "chase"
+        },
+        {
+          "name": "Chrome FireFractor",
+          "slug": "chrome-firefractor",
+          "family": "Chrome",
+          "printRun": 3,
+          "odds": {
+            "ratioDisplay": "1:12,522 packs (Hobby)",
+            "ratio": {
+              "onePerN": 12522
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 12522,
+                "ratioDisplay": "1:12,522 packs"
+              },
+              "Jumbo": {
+                "onePerN": 4211,
+                "ratioDisplay": "1:4,211 packs"
+              },
+              "Value": {
+                "onePerN": 45971,
+                "ratioDisplay": "1:45,971 packs"
+              },
+              "Bulk": {
+                "onePerN": 2381,
+                "ratioDisplay": "1:2,381 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#F26A1C",
+            "gradient": {
+              "from": "#FFDF00",
+              "to": "#D13340"
+            }
+          },
+          "note": "/3 \u2014 rarer than Red /5.",
+          "editorialTier": "chase"
+        },
+        {
+          "name": "Chrome SuperFractor",
+          "slug": "chrome-superfractor",
+          "family": "Chrome",
+          "printRun": 1,
+          "odds": {
+            "ratioDisplay": "1:23,046 packs (Hobby)",
+            "ratio": {
+              "onePerN": 23046
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 23046,
+                "ratioDisplay": "1:23,046 packs"
+              },
+              "Jumbo": {
+                "onePerN": 7820,
+                "ratioDisplay": "1:7,820 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#C9B8E8",
+            "gradient": {
+              "from": "#FF3B5C",
+              "to": "#3B82F6"
+            }
+          },
+          "exclusiveTo": [
+            "Hobby",
+            "Jumbo"
+          ],
+          "note": "1-of-1 \u2014 the chrome holy grail. Rainbow gradient.",
+          "editorialTier": "chase"
+        },
+        {
+          "name": "Chrome Reptilian Refractor",
+          "slug": "chrome-reptilian-refractor",
+          "family": "Reptilian",
+          "printRunLabel": "Unnumbered",
+          "odds": {
+            "ratioDisplay": "1:10 packs (Hobby)",
+            "ratio": {
+              "onePerN": 10
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 10,
+                "ratioDisplay": "1:10 packs"
+              },
+              "Jumbo": {
+                "onePerN": 3,
+                "ratioDisplay": "1:3 packs"
+              },
+              "Value": {
+                "onePerN": 8,
+                "ratioDisplay": "1:8 packs"
+              },
+              "Bulk": {
+                "onePerN": 214,
+                "ratioDisplay": "1:214 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#5A6354"
+          },
+          "note": "Unnumbered Reptilian-pattern refractor.",
+          "editorialTier": "filler"
+        },
+        {
+          "name": "Chrome Reptilian Fuchsia Refractor",
+          "slug": "chrome-reptilian-fuchsia-refractor",
+          "family": "Reptilian",
+          "printRun": 199,
+          "odds": {
+            "ratioDisplay": "1:188 packs (Hobby)",
+            "ratio": {
+              "onePerN": 188
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 188,
+                "ratioDisplay": "1:188 packs"
+              },
+              "Jumbo": {
+                "onePerN": 64,
+                "ratioDisplay": "1:64 packs"
+              },
+              "Value": {
+                "onePerN": 689,
+                "ratioDisplay": "1:689 packs"
+              },
+              "Bulk": {
+                "onePerN": 123,
+                "ratioDisplay": "1:123 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#E04B94"
+          },
+          "editorialTier": "common"
+        },
+        {
+          "name": "Chrome Reptilian Blue Refractor",
+          "slug": "chrome-reptilian-blue-refractor",
+          "family": "Reptilian",
+          "printRun": 150,
+          "odds": {
+            "ratioDisplay": "1:250 packs (Hobby)",
+            "ratio": {
+              "onePerN": 250
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 250,
+                "ratioDisplay": "1:250 packs"
+              },
+              "Jumbo": {
+                "onePerN": 85,
+                "ratioDisplay": "1:85 packs"
+              },
+              "Value": {
+                "onePerN": 914,
+                "ratioDisplay": "1:914 packs"
+              },
+              "Bulk": {
+                "onePerN": 163,
+                "ratioDisplay": "1:163 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#3A7BD5"
+          },
+          "editorialTier": "common"
+        },
+        {
+          "name": "Chrome Reptilian Green Refractor",
+          "slug": "chrome-reptilian-green-refractor",
+          "family": "Reptilian",
+          "printRun": 99,
+          "odds": {
+            "ratioDisplay": "1:533 packs (Value)",
+            "ratio": {
+              "onePerN": 533
+            },
+            "perFormat": {
+              "Value": {
+                "onePerN": 533,
+                "ratioDisplay": "1:533 packs"
+              },
+              "Bulk": {
+                "onePerN": 72,
+                "ratioDisplay": "1:72 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#2EA558"
+          },
+          "exclusiveTo": [
+            "Value",
+            "Bulk"
+          ],
+          "note": "Retail-exclusive.",
+          "editorialTier": "common"
+        },
+        {
+          "name": "Chrome Reptilian Gold Refractor",
+          "slug": "chrome-reptilian-gold-refractor",
+          "family": "Reptilian",
+          "printRun": 50,
+          "odds": {
+            "ratioDisplay": "1:748 packs (Hobby)",
+            "ratio": {
+              "onePerN": 748
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 748,
+                "ratioDisplay": "1:748 packs"
+              },
+              "Jumbo": {
+                "onePerN": 253,
+                "ratioDisplay": "1:253 packs"
+              },
+              "Value": {
+                "onePerN": 2741,
+                "ratioDisplay": "1:2,741 packs"
+              },
+              "Bulk": {
+                "onePerN": 491,
+                "ratioDisplay": "1:491 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#D4AF37",
+            "gradient": {
+              "from": "#E8C869",
+              "to": "#B8912C"
+            }
+          },
+          "editorialTier": "notable"
+        },
+        {
+          "name": "Chrome Reptilian Orange Refractor",
+          "slug": "chrome-reptilian-orange-refractor",
+          "family": "Reptilian",
+          "printRun": 25,
+          "odds": {
+            "ratioDisplay": "1:449 packs (Hobby)",
+            "ratio": {
+              "onePerN": 449
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 449,
+                "ratioDisplay": "1:449 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#F26A1C"
+          },
+          "exclusiveTo": [
+            "Hobby"
+          ],
+          "note": "Hobby-exclusive.",
+          "editorialTier": "notable"
+        },
+        {
+          "name": "Chrome Reptilian Red Refractor",
+          "slug": "chrome-reptilian-red-refractor",
+          "family": "Reptilian",
+          "printRun": 5,
+          "odds": {
+            "ratioDisplay": "1:7,496 packs (Hobby)",
+            "ratio": {
+              "onePerN": 7496
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 7496,
+                "ratioDisplay": "1:7,496 packs"
+              },
+              "Jumbo": {
+                "onePerN": 2529,
+                "ratioDisplay": "1:2,529 packs"
+              },
+              "Value": {
+                "onePerN": 27497,
+                "ratioDisplay": "1:27,497 packs"
+              },
+              "Bulk": {
+                "onePerN": 5000,
+                "ratioDisplay": "1:5,000 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#D13340"
+          },
+          "editorialTier": "chase"
+        },
+        {
+          "name": "Chrome Geometric",
+          "slug": "chrome-geometric",
+          "family": "Geometric",
+          "printRunLabel": "Unnumbered",
+          "odds": {
+            "ratioDisplay": "1:3 packs (Breaker's Delight)",
+            "ratio": {
+              "onePerN": 3
+            },
+            "perFormat": {
+              "Breaker's Delight": {
+                "onePerN": 3,
+                "ratioDisplay": "1:3 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#222633"
+          },
+          "exclusiveTo": [
+            "Breaker's Delight"
+          ],
+          "note": "Breaker's Delight exclusive.",
+          "editorialTier": "filler"
+        },
+        {
+          "name": "Chrome Green Geometric",
+          "slug": "chrome-green-geometric",
+          "family": "Geometric",
+          "printRun": 99,
+          "odds": {
+            "ratioDisplay": "1:2 packs (Breaker's Delight)",
+            "ratio": {
+              "onePerN": 2
+            },
+            "perFormat": {
+              "Breaker's Delight": {
+                "onePerN": 2,
+                "ratioDisplay": "1:2 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#2EA558"
+          },
+          "exclusiveTo": [
+            "Breaker's Delight"
+          ],
+          "editorialTier": "common"
+        },
+        {
+          "name": "Chrome Gold Geometric",
+          "slug": "chrome-gold-geometric",
+          "family": "Geometric",
+          "printRun": 50,
+          "odds": {
+            "ratioDisplay": "1:3 packs (Breaker's Delight)",
+            "ratio": {
+              "onePerN": 3
+            },
+            "perFormat": {
+              "Breaker's Delight": {
+                "onePerN": 3,
+                "ratioDisplay": "1:3 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#D4AF37",
+            "gradient": {
+              "from": "#E8C869",
+              "to": "#B8912C"
+            }
+          },
+          "exclusiveTo": [
+            "Breaker's Delight"
+          ],
+          "editorialTier": "notable"
+        },
+        {
+          "name": "Chrome Orange Geometric",
+          "slug": "chrome-orange-geometric",
+          "family": "Geometric",
+          "printRun": 25,
+          "odds": {
+            "ratioDisplay": "1:5 packs (Breaker's Delight)",
+            "ratio": {
+              "onePerN": 5
+            },
+            "perFormat": {
+              "Breaker's Delight": {
+                "onePerN": 5,
+                "ratioDisplay": "1:5 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#F26A1C"
+          },
+          "exclusiveTo": [
+            "Breaker's Delight"
+          ],
+          "editorialTier": "notable"
+        },
+        {
+          "name": "Chrome Black Geometric",
+          "slug": "chrome-black-geometric",
+          "family": "Geometric",
+          "printRun": 10,
+          "odds": {
+            "ratioDisplay": "1:13 packs (Breaker's Delight)",
+            "ratio": {
+              "onePerN": 13
+            },
+            "perFormat": {
+              "Breaker's Delight": {
+                "onePerN": 13,
+                "ratioDisplay": "1:13 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#1A1A1D"
+          },
+          "exclusiveTo": [
+            "Breaker's Delight"
+          ],
+          "editorialTier": "notable"
+        },
+        {
+          "name": "Chrome Red Geometric",
+          "slug": "chrome-red-geometric",
+          "family": "Geometric",
+          "printRun": 5,
+          "odds": {
+            "ratioDisplay": "1:25 packs (Breaker's Delight)",
+            "ratio": {
+              "onePerN": 25
+            },
+            "perFormat": {
+              "Breaker's Delight": {
+                "onePerN": 25,
+                "ratioDisplay": "1:25 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#D13340"
+          },
+          "exclusiveTo": [
+            "Breaker's Delight"
+          ],
+          "editorialTier": "chase"
+        },
+        {
+          "name": "Chrome Sapphire",
+          "slug": "chrome-sapphire",
+          "family": "Sapphire",
+          "printRunLabel": "Unnumbered",
+          "color": {
+            "hex": "#0F52BA"
+          },
+          "exclusiveTo": [
+            "Sapphire"
+          ],
+          "note": "Sapphire-box exclusive; 1 per pack.",
+          "editorialTier": "filler"
+        },
+        {
+          "name": "Chrome Yellow Sapphire",
+          "slug": "chrome-yellow-sapphire",
+          "family": "Sapphire",
+          "printRun": 75,
+          "color": {
+            "hex": "#F4C430"
+          },
+          "exclusiveTo": [
+            "Sapphire"
+          ],
+          "editorialTier": "common"
+        },
+        {
+          "name": "Chrome Gold Sapphire",
+          "slug": "chrome-gold-sapphire",
+          "family": "Sapphire",
+          "printRun": 50,
+          "color": {
+            "hex": "#D4AF37",
+            "gradient": {
+              "from": "#E8C869",
+              "to": "#B8912C"
+            }
+          },
+          "exclusiveTo": [
+            "Sapphire"
+          ],
+          "editorialTier": "notable"
+        },
+        {
+          "name": "Chrome Orange Sapphire",
+          "slug": "chrome-orange-sapphire",
+          "family": "Sapphire",
+          "printRun": 25,
+          "color": {
+            "hex": "#F26A1C"
+          },
+          "exclusiveTo": [
+            "Sapphire"
+          ],
+          "editorialTier": "notable"
+        },
+        {
+          "name": "Chrome Black Sapphire",
+          "slug": "chrome-black-sapphire",
+          "family": "Sapphire",
+          "printRun": 10,
+          "color": {
+            "hex": "#1A1A1D"
+          },
+          "exclusiveTo": [
+            "Sapphire"
+          ],
+          "editorialTier": "notable"
+        },
+        {
+          "name": "Chrome Red Sapphire",
+          "slug": "chrome-red-sapphire",
+          "family": "Sapphire",
+          "printRun": 5,
+          "color": {
+            "hex": "#D13340"
+          },
+          "exclusiveTo": [
+            "Sapphire"
+          ],
+          "editorialTier": "chase"
+        },
+        {
+          "name": "Chrome Padparadscha Sapphire",
+          "slug": "chrome-padparadscha-sapphire",
+          "family": "Sapphire",
+          "printRun": 1,
+          "color": {
+            "hex": "#F48A60",
+            "gradient": {
+              "from": "#FFB08C",
+              "to": "#D65533"
+            }
+          },
+          "exclusiveTo": [
+            "Sapphire"
+          ],
+          "note": "1-of-1 \u2014 sapphire-set holy grail.",
+          "editorialTier": "chase"
+        },
+        {
+          "name": "Chrome Mojo",
+          "slug": "chrome-mojo",
+          "family": "Mojo",
+          "printRunLabel": "Unnumbered",
+          "odds": {
+            "ratioDisplay": "1:2 packs (Mega)",
+            "ratio": {
+              "onePerN": 2
+            },
+            "perFormat": {
+              "Mega": {
+                "onePerN": 2,
+                "ratioDisplay": "1:2 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#7B2CBF",
+            "gradient": {
+              "from": "#B388EB",
+              "to": "#4A0E7F"
+            }
+          },
+          "exclusiveTo": [
+            "Mega"
+          ],
+          "note": "Mega-box exclusive; unnumbered base Mojo.",
+          "editorialTier": "filler"
+        },
+        {
+          "name": "Chrome Fuchsia Mojo",
+          "slug": "chrome-fuchsia-mojo",
+          "family": "Mojo",
+          "printRun": 299,
+          "odds": {
+            "ratioDisplay": "1:39 packs (Mega)",
+            "ratio": {
+              "onePerN": 39
+            },
+            "perFormat": {
+              "Mega": {
+                "onePerN": 39,
+                "ratioDisplay": "1:39 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#E04B94"
+          },
+          "exclusiveTo": [
+            "Mega"
+          ],
+          "editorialTier": "common"
+        },
+        {
+          "name": "Chrome Burgundy Mojo",
+          "slug": "chrome-burgundy-mojo",
+          "family": "Mojo",
+          "printRun": 275,
+          "odds": {
+            "ratioDisplay": "1:43 packs (Mega)",
+            "ratio": {
+              "onePerN": 43
+            },
+            "perFormat": {
+              "Mega": {
+                "onePerN": 43,
+                "ratioDisplay": "1:43 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#8A1F2A"
+          },
+          "exclusiveTo": [
+            "Mega"
+          ],
+          "editorialTier": "common"
+        },
+        {
+          "name": "Chrome Purple Mojo",
+          "slug": "chrome-purple-mojo",
+          "family": "Mojo",
+          "printRun": 250,
+          "odds": {
+            "ratioDisplay": "1:47 packs (Mega)",
+            "ratio": {
+              "onePerN": 47
+            },
+            "perFormat": {
+              "Mega": {
+                "onePerN": 47,
+                "ratioDisplay": "1:47 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#6B3AA0"
+          },
+          "exclusiveTo": [
+            "Mega"
+          ],
+          "editorialTier": "common"
+        },
+        {
+          "name": "Chrome Pink Mojo",
+          "slug": "chrome-pink-mojo",
+          "family": "Mojo",
+          "printRun": 199,
+          "odds": {
+            "ratioDisplay": "1:59 packs (Mega)",
+            "ratio": {
+              "onePerN": 59
+            },
+            "perFormat": {
+              "Mega": {
+                "onePerN": 59,
+                "ratioDisplay": "1:59 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#F48FB1"
+          },
+          "exclusiveTo": [
+            "Mega"
+          ],
+          "editorialTier": "common"
+        },
+        {
+          "name": "Chrome Navy Mojo",
+          "slug": "chrome-navy-mojo",
+          "family": "Mojo",
+          "printRun": 175,
+          "odds": {
+            "ratioDisplay": "1:67 packs (Mega)",
+            "ratio": {
+              "onePerN": 67
+            },
+            "perFormat": {
+              "Mega": {
+                "onePerN": 67,
+                "ratioDisplay": "1:67 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#1A2847"
+          },
+          "exclusiveTo": [
+            "Mega"
+          ],
+          "editorialTier": "common"
+        },
+        {
+          "name": "Chrome Blue Mojo",
+          "slug": "chrome-blue-mojo",
+          "family": "Mojo",
+          "printRun": 150,
+          "odds": {
+            "ratioDisplay": "1:78 packs (Mega)",
+            "ratio": {
+              "onePerN": 78
+            },
+            "perFormat": {
+              "Mega": {
+                "onePerN": 78,
+                "ratioDisplay": "1:78 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#3A7BD5"
+          },
+          "exclusiveTo": [
+            "Mega"
+          ],
+          "editorialTier": "common"
+        },
+        {
+          "name": "Chrome Aqua Mojo",
+          "slug": "chrome-aqua-mojo",
+          "family": "Mojo",
+          "printRun": 125,
+          "odds": {
+            "ratioDisplay": "1:94 packs (Mega)",
+            "ratio": {
+              "onePerN": 94
+            },
+            "perFormat": {
+              "Mega": {
+                "onePerN": 94,
+                "ratioDisplay": "1:94 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#43C6DB"
+          },
+          "exclusiveTo": [
+            "Mega"
+          ],
+          "editorialTier": "common"
+        },
+        {
+          "name": "Chrome Green Mojo",
+          "slug": "chrome-green-mojo",
+          "family": "Mojo",
+          "printRun": 99,
+          "odds": {
+            "ratioDisplay": "1:118 packs (Mega)",
+            "ratio": {
+              "onePerN": 118
+            },
+            "perFormat": {
+              "Mega": {
+                "onePerN": 118,
+                "ratioDisplay": "1:118 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#2EA558"
+          },
+          "exclusiveTo": [
+            "Mega"
+          ],
+          "editorialTier": "common"
+        },
+        {
+          "name": "Chrome Yellow Mojo",
+          "slug": "chrome-yellow-mojo",
+          "family": "Mojo",
+          "printRun": 75,
+          "odds": {
+            "ratioDisplay": "1:156 packs (Mega)",
+            "ratio": {
+              "onePerN": 156
+            },
+            "perFormat": {
+              "Mega": {
+                "onePerN": 156,
+                "ratioDisplay": "1:156 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#F4C430"
+          },
+          "exclusiveTo": [
+            "Mega"
+          ],
+          "editorialTier": "common"
+        },
+        {
+          "name": "Chrome Gold Mojo",
+          "slug": "chrome-gold-mojo",
+          "family": "Mojo",
+          "printRun": 50,
+          "odds": {
+            "ratioDisplay": "1:233 packs (Mega)",
+            "ratio": {
+              "onePerN": 233
+            },
+            "perFormat": {
+              "Mega": {
+                "onePerN": 233,
+                "ratioDisplay": "1:233 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#D4AF37",
+            "gradient": {
+              "from": "#E8C869",
+              "to": "#B8912C"
+            }
+          },
+          "exclusiveTo": [
+            "Mega"
+          ],
+          "editorialTier": "notable"
+        },
+        {
+          "name": "Chrome Orange Mojo",
+          "slug": "chrome-orange-mojo",
+          "family": "Mojo",
+          "printRun": 25,
+          "odds": {
+            "ratioDisplay": "1:466 packs (Mega)",
+            "ratio": {
+              "onePerN": 466
+            },
+            "perFormat": {
+              "Mega": {
+                "onePerN": 466,
+                "ratioDisplay": "1:466 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#F26A1C"
+          },
+          "exclusiveTo": [
+            "Mega"
+          ],
+          "editorialTier": "notable"
+        },
+        {
+          "name": "Chrome Red Mojo",
+          "slug": "chrome-red-mojo",
+          "family": "Mojo",
+          "printRun": 5,
+          "odds": {
+            "ratioDisplay": "1:2,330 packs (Mega)",
+            "ratio": {
+              "onePerN": 2330
+            },
+            "perFormat": {
+              "Mega": {
+                "onePerN": 2330,
+                "ratioDisplay": "1:2,330 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#D13340"
+          },
+          "exclusiveTo": [
+            "Mega"
+          ],
+          "editorialTier": "chase"
+        },
+        {
+          "name": "Chrome Black Mojo",
+          "slug": "chrome-black-mojo",
+          "family": "Mojo",
+          "printRun": 1,
+          "odds": {
+            "ratioDisplay": "1:1,165 packs (Mega)",
+            "ratio": {
+              "onePerN": 1165
+            },
+            "perFormat": {
+              "Mega": {
+                "onePerN": 1165,
+                "ratioDisplay": "1:1,165 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#1A1A1D"
+          },
+          "exclusiveTo": [
+            "Mega"
+          ],
+          "note": "1-of-1 \u2014 mega-set holy grail.",
+          "editorialTier": "chase"
+        },
+        {
+          "name": "Chrome Rose Gold Mojo",
+          "slug": "chrome-rose-gold-mojo",
+          "family": "Mojo",
+          "printRun": 1,
+          "odds": {
+            "ratioDisplay": "1:11,650 packs (Mega)",
+            "ratio": {
+              "onePerN": 11650
+            },
+            "perFormat": {
+              "Mega": {
+                "onePerN": 11650,
+                "ratioDisplay": "1:11,650 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#B76E79",
+            "gradient": {
+              "from": "#D4948E",
+              "to": "#8B4A52"
+            }
+          },
+          "exclusiveTo": [
+            "Mega"
+          ],
+          "note": "1-of-1 \u2014 the rarest Mojo pull.",
+          "editorialTier": "chase"
+        }
+      ]
+    },
+    {
+      "name": "Paper Prospects",
+      "appliesTo": "100-card NCAA paper prospect set (AJ Dybantsa, Darryn Peterson, Cameron Boozer, JuJu Watkins, etc.)",
+      "parallels": [
+        {
+          "name": "Paper Prospect Purple Border",
+          "slug": "paper-prospect-purple-border",
+          "family": "Border",
+          "printRun": 199,
+          "odds": {
+            "ratioDisplay": "1:376 packs (Hobby)",
+            "ratio": {
+              "onePerN": 376
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 376,
+                "ratioDisplay": "1:376 packs"
+              },
+              "Jumbo": {
+                "onePerN": 127,
+                "ratioDisplay": "1:127 packs"
+              },
+              "Value": {
+                "onePerN": 1377,
+                "ratioDisplay": "1:1,377 packs"
+              },
+              "Bulk": {
+                "onePerN": 247,
+                "ratioDisplay": "1:247 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#6B3AA0"
+          },
+          "editorialTier": "common"
+        },
+        {
+          "name": "Paper Prospect Pink Border",
+          "slug": "paper-prospect-pink-border",
+          "family": "Border",
+          "printRun": 175,
+          "odds": {
+            "ratioDisplay": "1:428 packs (Hobby)",
+            "ratio": {
+              "onePerN": 428
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 428,
+                "ratioDisplay": "1:428 packs"
+              },
+              "Jumbo": {
+                "onePerN": 145,
+                "ratioDisplay": "1:145 packs"
+              },
+              "Value": {
+                "onePerN": 1566,
+                "ratioDisplay": "1:1,566 packs"
+              },
+              "Bulk": {
+                "onePerN": 280,
+                "ratioDisplay": "1:280 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#F48FB1"
+          },
+          "editorialTier": "common"
+        },
+        {
+          "name": "Paper Prospect Blue Border",
+          "slug": "paper-prospect-blue-border",
+          "family": "Border",
+          "printRun": 150,
+          "odds": {
+            "ratioDisplay": "1:499 packs (Hobby)",
+            "ratio": {
+              "onePerN": 499
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 499,
+                "ratioDisplay": "1:499 packs"
+              },
+              "Jumbo": {
+                "onePerN": 169,
+                "ratioDisplay": "1:169 packs"
+              },
+              "Value": {
+                "onePerN": 1827,
+                "ratioDisplay": "1:1,827 packs"
+              },
+              "Bulk": {
+                "onePerN": 327,
+                "ratioDisplay": "1:327 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#3A7BD5"
+          },
+          "editorialTier": "common"
+        },
+        {
+          "name": "Paper Prospect Green Border",
+          "slug": "paper-prospect-green-border",
+          "family": "Border",
+          "printRun": 99,
+          "odds": {
+            "ratioDisplay": "1:1,066 packs (Value)",
+            "ratio": {
+              "onePerN": 1066
+            },
+            "perFormat": {
+              "Value": {
+                "onePerN": 1066,
+                "ratioDisplay": "1:1,066 packs"
+              },
+              "Bulk": {
+                "onePerN": 144,
+                "ratioDisplay": "1:144 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#2EA558"
+          },
+          "exclusiveTo": [
+            "Value",
+            "Bulk"
+          ],
+          "note": "Retail-exclusive.",
+          "editorialTier": "common"
+        },
+        {
+          "name": "Paper Prospect Green Pattern Border",
+          "slug": "paper-prospect-green-pattern-border",
+          "family": "Border",
+          "printRun": 99,
+          "odds": {
+            "ratioDisplay": "1:1,066 packs (Value)",
+            "ratio": {
+              "onePerN": 1066
+            },
+            "perFormat": {
+              "Value": {
+                "onePerN": 1066,
+                "ratioDisplay": "1:1,066 packs"
+              },
+              "Bulk": {
+                "onePerN": 144,
+                "ratioDisplay": "1:144 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#2EA558"
+          },
+          "exclusiveTo": [
+            "Value",
+            "Bulk"
+          ],
+          "note": "Retail-exclusive.",
+          "editorialTier": "common"
+        },
+        {
+          "name": "Paper Prospect Yellow Border",
+          "slug": "paper-prospect-yellow-border",
+          "family": "Border",
+          "printRun": 75,
+          "odds": {
+            "ratioDisplay": "1:998 packs (Hobby)",
+            "ratio": {
+              "onePerN": 998
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 998,
+                "ratioDisplay": "1:998 packs"
+              },
+              "Jumbo": {
+                "onePerN": 337,
+                "ratioDisplay": "1:337 packs"
+              },
+              "Value": {
+                "onePerN": 3655,
+                "ratioDisplay": "1:3,655 packs"
+              },
+              "Bulk": {
+                "onePerN": 658,
+                "ratioDisplay": "1:658 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#F4C430"
+          },
+          "editorialTier": "common"
+        },
+        {
+          "name": "Paper Prospect Gold Border",
+          "slug": "paper-prospect-gold-border",
+          "family": "Border",
+          "printRun": 50,
+          "odds": {
+            "ratioDisplay": "1:1,497 packs (Hobby)",
+            "ratio": {
+              "onePerN": 1497
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 1497,
+                "ratioDisplay": "1:1,497 packs"
+              },
+              "Jumbo": {
+                "onePerN": 505,
+                "ratioDisplay": "1:505 packs"
+              },
+              "Value": {
+                "onePerN": 5484,
+                "ratioDisplay": "1:5,484 packs"
+              },
+              "Bulk": {
+                "onePerN": 981,
+                "ratioDisplay": "1:981 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#D4AF37",
+            "gradient": {
+              "from": "#E8C869",
+              "to": "#B8912C"
+            }
+          },
+          "editorialTier": "notable"
+        },
+        {
+          "name": "Paper Prospect Orange Border",
+          "slug": "paper-prospect-orange-border",
+          "family": "Border",
+          "printRun": 25,
+          "odds": {
+            "ratioDisplay": "1:899 packs (Hobby)",
+            "ratio": {
+              "onePerN": 899
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 899,
+                "ratioDisplay": "1:899 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#F26A1C"
+          },
+          "exclusiveTo": [
+            "Hobby"
+          ],
+          "note": "Hobby-exclusive.",
+          "editorialTier": "notable"
+        },
+        {
+          "name": "Paper Prospect Black Border",
+          "slug": "paper-prospect-black-border",
+          "family": "Border",
+          "printRun": 10,
+          "odds": {
+            "ratioDisplay": "1:2,245 packs (Hobby)",
+            "ratio": {
+              "onePerN": 2245
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 2245,
+                "ratioDisplay": "1:2,245 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#1A1A1D"
+          },
+          "exclusiveTo": [
+            "Hobby"
+          ],
+          "note": "Hobby-exclusive.",
+          "editorialTier": "notable"
+        },
+        {
+          "name": "Paper Prospect Black Pattern Border",
+          "slug": "paper-prospect-black-pattern-border",
+          "family": "Border",
+          "printRun": 10,
+          "odds": {
+            "ratioDisplay": "1:2,245 packs (Hobby)",
+            "ratio": {
+              "onePerN": 2245
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 2245,
+                "ratioDisplay": "1:2,245 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#1A1A1D"
+          },
+          "exclusiveTo": [
+            "Hobby"
+          ],
+          "note": "Hobby-exclusive.",
+          "editorialTier": "notable"
+        },
+        {
+          "name": "Paper Prospect Red Border",
+          "slug": "paper-prospect-red-border",
+          "family": "Border",
+          "printRun": 5,
+          "odds": {
+            "ratioDisplay": "1:15,044 packs (Hobby)",
+            "ratio": {
+              "onePerN": 15044
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 15044,
+                "ratioDisplay": "1:15,044 packs"
+              },
+              "Jumbo": {
+                "onePerN": 5075,
+                "ratioDisplay": "1:5,075 packs"
+              },
+              "Value": {
+                "onePerN": 54993,
+                "ratioDisplay": "1:54,993 packs"
+              },
+              "Bulk": {
+                "onePerN": 10000,
+                "ratioDisplay": "1:10,000 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#D13340"
+          },
+          "editorialTier": "chase"
+        },
+        {
+          "name": "Paper Prospect Platinum Border",
+          "slug": "paper-prospect-platinum-border",
+          "family": "Border",
+          "printRun": 1,
+          "odds": {
+            "ratioDisplay": "1:77,366 packs (Hobby)",
+            "ratio": {
+              "onePerN": 77366
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 77366,
+                "ratioDisplay": "1:77,366 packs"
+              },
+              "Jumbo": {
+                "onePerN": 25543,
+                "ratioDisplay": "1:25,543 packs"
+              },
+              "Value": {
+                "onePerN": 280200,
+                "ratioDisplay": "1:280,200 packs"
+              },
+              "Bulk": {
+                "onePerN": 50000,
+                "ratioDisplay": "1:50,000 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#E5E4E2",
+            "gradient": {
+              "from": "#FFFFFF",
+              "to": "#B8B6B5"
+            }
+          },
+          "note": "1-of-1 \u2014 paper prospect holy grail.",
+          "editorialTier": "chase"
+        }
+      ]
+    },
+    {
+      "name": "Chrome Prospects",
+      "appliesTo": "100-card NCAA Chrome prospect set (same player pool as Paper Prospects, Chrome-finish variants)",
+      "parallels": [
+        {
+          "name": "Chrome Prospect",
+          "slug": "chrome-prospect",
+          "family": "Chrome",
+          "printRunLabel": "Unnumbered",
+          "odds": {
+            "ratioDisplay": "1:1 packs (Hobby)",
+            "ratio": {
+              "onePerN": 1
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 1,
+                "ratioDisplay": "1:1 packs"
+              },
+              "Jumbo": {
+                "onePerN": 1,
+                "ratioDisplay": "1:1 packs"
+              },
+              "Breaker's Delight": {
+                "onePerN": 1,
+                "ratioDisplay": "1:1 packs"
+              },
+              "Value": {
+                "onePerN": 2,
+                "ratioDisplay": "1:2 packs"
+              },
+              "Bulk": {
+                "onePerN": 1,
+                "ratioDisplay": "1:1 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#B8C5D1"
+          },
+          "note": "Unnumbered Chrome Prospect base card.",
+          "editorialTier": "filler"
+        },
+        {
+          "name": "Chrome Prospect Mini-Diamond Refractor",
+          "slug": "chrome-prospect-mini-diamond-refractor",
+          "family": "Chrome",
+          "printRunLabel": "Unnumbered",
+          "odds": {
+            "ratioDisplay": "1:60 packs (Jumbo)",
+            "ratio": {
+              "onePerN": 60
+            },
+            "perFormat": {
+              "Jumbo": {
+                "onePerN": 60,
+                "ratioDisplay": "1:60 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#B8C5D1"
+          },
+          "exclusiveTo": [
+            "Jumbo"
+          ],
+          "note": "Jumbo-exclusive.",
+          "editorialTier": "filler"
+        },
+        {
+          "name": "Chrome Prospect Refractor",
+          "slug": "chrome-prospect-refractor",
+          "family": "Chrome",
+          "printRun": 499,
+          "odds": {
+            "ratioDisplay": "1:150 packs (Hobby)",
+            "ratio": {
+              "onePerN": 150
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 150,
+                "ratioDisplay": "1:150 packs"
+              },
+              "Jumbo": {
+                "onePerN": 51,
+                "ratioDisplay": "1:51 packs"
+              },
+              "Value": {
+                "onePerN": 550,
+                "ratioDisplay": "1:550 packs"
+              },
+              "Bulk": {
+                "onePerN": 98,
+                "ratioDisplay": "1:98 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#B8C5D1"
+          },
+          "editorialTier": "common"
+        },
+        {
+          "name": "Chrome Prospect Lava Refractor",
+          "slug": "chrome-prospect-lava-refractor",
+          "family": "Chrome",
+          "printRun": 399,
+          "odds": {
+            "ratioDisplay": "1:188 packs (Hobby)",
+            "ratio": {
+              "onePerN": 188
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 188,
+                "ratioDisplay": "1:188 packs"
+              },
+              "Jumbo": {
+                "onePerN": 64,
+                "ratioDisplay": "1:64 packs"
+              },
+              "Value": {
+                "onePerN": 687,
+                "ratioDisplay": "1:687 packs"
+              },
+              "Bulk": {
+                "onePerN": 123,
+                "ratioDisplay": "1:123 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#E94325",
+            "gradient": {
+              "from": "#F87A3A",
+              "to": "#A0220A"
+            }
+          },
+          "editorialTier": "common"
+        },
+        {
+          "name": "Chrome Prospect Speckle Refractor",
+          "slug": "chrome-prospect-speckle-refractor",
+          "family": "Chrome",
+          "printRun": 299,
+          "odds": {
+            "ratioDisplay": "1:251 packs (Hobby)",
+            "ratio": {
+              "onePerN": 251
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 251,
+                "ratioDisplay": "1:251 packs"
+              },
+              "Jumbo": {
+                "onePerN": 85,
+                "ratioDisplay": "1:85 packs"
+              },
+              "Value": {
+                "onePerN": 917,
+                "ratioDisplay": "1:917 packs"
+              },
+              "Bulk": {
+                "onePerN": 164,
+                "ratioDisplay": "1:164 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#9AA4B0"
+          },
+          "editorialTier": "common"
+        },
+        {
+          "name": "Chrome Prospect Purple Refractor",
+          "slug": "chrome-prospect-purple-refractor",
+          "family": "Chrome",
+          "printRun": 250,
+          "odds": {
+            "ratioDisplay": "1:300 packs (Hobby)",
+            "ratio": {
+              "onePerN": 300
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 300,
+                "ratioDisplay": "1:300 packs"
+              },
+              "Jumbo": {
+                "onePerN": 101,
+                "ratioDisplay": "1:101 packs"
+              },
+              "Value": {
+                "onePerN": 1096,
+                "ratioDisplay": "1:1,096 packs"
+              },
+              "Bulk": {
+                "onePerN": 196,
+                "ratioDisplay": "1:196 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#6B3AA0"
+          },
+          "editorialTier": "common"
+        },
+        {
+          "name": "Chrome Prospect Fuchsia Refractor",
+          "slug": "chrome-prospect-fuchsia-refractor",
+          "family": "Chrome",
+          "printRun": 199,
+          "odds": {
+            "ratioDisplay": "1:376 packs (Hobby)",
+            "ratio": {
+              "onePerN": 376
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 376,
+                "ratioDisplay": "1:376 packs"
+              },
+              "Jumbo": {
+                "onePerN": 127,
+                "ratioDisplay": "1:127 packs"
+              },
+              "Value": {
+                "onePerN": 1377,
+                "ratioDisplay": "1:1,377 packs"
+              },
+              "Bulk": {
+                "onePerN": 247,
+                "ratioDisplay": "1:247 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#E04B94"
+          },
+          "editorialTier": "common"
+        },
+        {
+          "name": "Chrome Prospect Blue Refractor",
+          "slug": "chrome-prospect-blue-refractor",
+          "family": "Chrome",
+          "printRun": 150,
+          "odds": {
+            "ratioDisplay": "1:499 packs (Hobby)",
+            "ratio": {
+              "onePerN": 499
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 499,
+                "ratioDisplay": "1:499 packs"
+              },
+              "Jumbo": {
+                "onePerN": 169,
+                "ratioDisplay": "1:169 packs"
+              },
+              "Value": {
+                "onePerN": 1827,
+                "ratioDisplay": "1:1,827 packs"
+              },
+              "Bulk": {
+                "onePerN": 327,
+                "ratioDisplay": "1:327 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#3A7BD5"
+          },
+          "editorialTier": "common"
+        },
+        {
+          "name": "Chrome Prospect Aqua X-Fractor",
+          "slug": "chrome-prospect-aqua-x-fractor",
+          "family": "Chrome",
+          "printRun": 125,
+          "odds": {
+            "ratioDisplay": "1:368 packs (Hobby)",
+            "ratio": {
+              "onePerN": 368
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 368,
+                "ratioDisplay": "1:368 packs"
+              },
+              "Jumbo": {
+                "onePerN": 125,
+                "ratioDisplay": "1:125 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#43C6DB"
+          },
+          "exclusiveTo": [
+            "Hobby",
+            "Jumbo"
+          ],
+          "note": "Hobby + Jumbo only; X-pattern overlay.",
+          "editorialTier": "common"
+        },
+        {
+          "name": "Chrome Prospect Floorboard Refractor",
+          "slug": "chrome-prospect-floorboard-refractor",
+          "family": "Chrome",
+          "printRun": 125,
+          "odds": {
+            "ratioDisplay": "1:64 packs (Breaker's Delight)",
+            "ratio": {
+              "onePerN": 64
+            },
+            "perFormat": {
+              "Breaker's Delight": {
+                "onePerN": 64,
+                "ratioDisplay": "1:64 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#8B5A2B",
+            "gradient": {
+              "from": "#A67646",
+              "to": "#5F3B1A"
+            }
+          },
+          "exclusiveTo": [
+            "Breaker's Delight"
+          ],
+          "note": "Breaker's Delight exclusive.",
+          "editorialTier": "common"
+        },
+        {
+          "name": "Chrome Prospect Steel Metal Refractor",
+          "slug": "chrome-prospect-steel-metal-refractor",
+          "family": "Chrome",
+          "printRun": 100,
+          "odds": {
+            "ratioDisplay": "1:748 packs (Hobby)",
+            "ratio": {
+              "onePerN": 748
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 748,
+                "ratioDisplay": "1:748 packs"
+              },
+              "Jumbo": {
+                "onePerN": 253,
+                "ratioDisplay": "1:253 packs"
+              },
+              "Value": {
+                "onePerN": 2741,
+                "ratioDisplay": "1:2,741 packs"
+              },
+              "Bulk": {
+                "onePerN": 491,
+                "ratioDisplay": "1:491 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#8891A0",
+            "gradient": {
+              "from": "#B5BBC7",
+              "to": "#5A6470"
+            }
+          },
+          "editorialTier": "common"
+        },
+        {
+          "name": "Chrome Prospect Green Refractor",
+          "slug": "chrome-prospect-green-refractor",
+          "family": "Chrome",
+          "printRun": 99,
+          "odds": {
+            "ratioDisplay": "1:1,066 packs (Value)",
+            "ratio": {
+              "onePerN": 1066
+            },
+            "perFormat": {
+              "Value": {
+                "onePerN": 1066,
+                "ratioDisplay": "1:1,066 packs"
+              },
+              "Bulk": {
+                "onePerN": 144,
+                "ratioDisplay": "1:144 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#2EA558"
+          },
+          "exclusiveTo": [
+            "Value",
+            "Bulk"
+          ],
+          "note": "Retail-exclusive.",
+          "editorialTier": "common"
+        },
+        {
+          "name": "Chrome Prospect Green Shimmer Refractor",
+          "slug": "chrome-prospect-green-shimmer-refractor",
+          "family": "Chrome",
+          "printRun": 99,
+          "odds": {
+            "ratioDisplay": "1:1,066 packs (Value)",
+            "ratio": {
+              "onePerN": 1066
+            },
+            "perFormat": {
+              "Value": {
+                "onePerN": 1066,
+                "ratioDisplay": "1:1,066 packs"
+              },
+              "Bulk": {
+                "onePerN": 144,
+                "ratioDisplay": "1:144 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#2EA558"
+          },
+          "exclusiveTo": [
+            "Value",
+            "Bulk"
+          ],
+          "note": "Retail-exclusive.",
+          "editorialTier": "common"
+        },
+        {
+          "name": "Chrome Prospect Yellow Refractor",
+          "slug": "chrome-prospect-yellow-refractor",
+          "family": "Chrome",
+          "printRun": 75,
+          "odds": {
+            "ratioDisplay": "1:998 packs (Hobby)",
+            "ratio": {
+              "onePerN": 998
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 998,
+                "ratioDisplay": "1:998 packs"
+              },
+              "Jumbo": {
+                "onePerN": 337,
+                "ratioDisplay": "1:337 packs"
+              },
+              "Value": {
+                "onePerN": 3655,
+                "ratioDisplay": "1:3,655 packs"
+              },
+              "Bulk": {
+                "onePerN": 658,
+                "ratioDisplay": "1:658 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#F4C430"
+          },
+          "editorialTier": "common"
+        },
+        {
+          "name": "Chrome Prospect Yellow X-Fractor",
+          "slug": "chrome-prospect-yellow-x-fractor",
+          "family": "Chrome",
+          "printRun": 75,
+          "odds": {
+            "ratioDisplay": "1:614 packs (Hobby)",
+            "ratio": {
+              "onePerN": 614
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 614,
+                "ratioDisplay": "1:614 packs"
+              },
+              "Jumbo": {
+                "onePerN": 207,
+                "ratioDisplay": "1:207 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#B8C5D1"
+          },
+          "exclusiveTo": [
+            "Hobby",
+            "Jumbo"
+          ],
+          "editorialTier": "common"
+        },
+        {
+          "name": "Chrome Prospect Gold Refractor",
+          "slug": "chrome-prospect-gold-refractor",
+          "family": "Chrome",
+          "printRun": 50,
+          "odds": {
+            "ratioDisplay": "1:1,497 packs (Hobby)",
+            "ratio": {
+              "onePerN": 1497
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 1497,
+                "ratioDisplay": "1:1,497 packs"
+              },
+              "Jumbo": {
+                "onePerN": 505,
+                "ratioDisplay": "1:505 packs"
+              },
+              "Value": {
+                "onePerN": 5484,
+                "ratioDisplay": "1:5,484 packs"
+              },
+              "Bulk": {
+                "onePerN": 981,
+                "ratioDisplay": "1:981 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#D4AF37",
+            "gradient": {
+              "from": "#E8C869",
+              "to": "#B8912C"
+            }
+          },
+          "editorialTier": "notable"
+        },
+        {
+          "name": "Chrome Prospect Orange Refractor",
+          "slug": "chrome-prospect-orange-refractor",
+          "family": "Chrome",
+          "printRun": 25,
+          "odds": {
+            "ratioDisplay": "1:899 packs (Hobby)",
+            "ratio": {
+              "onePerN": 899
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 899,
+                "ratioDisplay": "1:899 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#F26A1C"
+          },
+          "exclusiveTo": [
+            "Hobby"
+          ],
+          "note": "Hobby-exclusive.",
+          "editorialTier": "notable"
+        },
+        {
+          "name": "Chrome Prospect Rose Gold Refractor",
+          "slug": "chrome-prospect-rose-gold-refractor",
+          "family": "Chrome",
+          "printRun": 15,
+          "odds": {
+            "ratioDisplay": "1:4,992 packs (Hobby)",
+            "ratio": {
+              "onePerN": 4992
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 4992,
+                "ratioDisplay": "1:4,992 packs"
+              },
+              "Jumbo": {
+                "onePerN": 1685,
+                "ratioDisplay": "1:1,685 packs"
+              },
+              "Value": {
+                "onePerN": 18274,
+                "ratioDisplay": "1:18,274 packs"
+              },
+              "Bulk": {
+                "onePerN": 3334,
+                "ratioDisplay": "1:3,334 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#B76E79",
+            "gradient": {
+              "from": "#D4948E",
+              "to": "#8B4A52"
+            }
+          },
+          "editorialTier": "notable"
+        },
+        {
+          "name": "Chrome Prospect Rose Gold Mini-Diamond Refractor",
+          "slug": "chrome-prospect-rose-gold-mini-diamond-refractor",
+          "family": "Chrome",
+          "printRun": 15,
+          "odds": {
+            "ratioDisplay": "1:4,992 packs (Hobby)",
+            "ratio": {
+              "onePerN": 4992
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 4992,
+                "ratioDisplay": "1:4,992 packs"
+              },
+              "Jumbo": {
+                "onePerN": 1685,
+                "ratioDisplay": "1:1,685 packs"
+              },
+              "Value": {
+                "onePerN": 18274,
+                "ratioDisplay": "1:18,274 packs"
+              },
+              "Bulk": {
+                "onePerN": 3334,
+                "ratioDisplay": "1:3,334 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#B76E79",
+            "gradient": {
+              "from": "#D4948E",
+              "to": "#8B4A52"
+            }
+          },
+          "editorialTier": "notable"
+        },
+        {
+          "name": "Chrome Prospect Black Refractor",
+          "slug": "chrome-prospect-black-refractor",
+          "family": "Chrome",
+          "printRun": 10,
+          "odds": {
+            "ratioDisplay": "1:7,496 packs (Hobby)",
+            "ratio": {
+              "onePerN": 7496
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 7496,
+                "ratioDisplay": "1:7,496 packs"
+              },
+              "Jumbo": {
+                "onePerN": 2529,
+                "ratioDisplay": "1:2,529 packs"
+              },
+              "Value": {
+                "onePerN": 27497,
+                "ratioDisplay": "1:27,497 packs"
+              },
+              "Bulk": {
+                "onePerN": 5000,
+                "ratioDisplay": "1:5,000 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#1A1A1D"
+          },
+          "editorialTier": "notable"
+        },
+        {
+          "name": "Chrome Prospect Black X-Fractor",
+          "slug": "chrome-prospect-black-x-fractor",
+          "family": "Chrome",
+          "printRun": 10,
+          "odds": {
+            "ratioDisplay": "1:7,496 packs (Hobby)",
+            "ratio": {
+              "onePerN": 7496
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 7496,
+                "ratioDisplay": "1:7,496 packs"
+              },
+              "Jumbo": {
+                "onePerN": 2529,
+                "ratioDisplay": "1:2,529 packs"
+              },
+              "Value": {
+                "onePerN": 27497,
+                "ratioDisplay": "1:27,497 packs"
+              },
+              "Bulk": {
+                "onePerN": 5000,
+                "ratioDisplay": "1:5,000 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#1A1A1D"
+          },
+          "editorialTier": "notable"
+        },
+        {
+          "name": "Chrome Prospect Red Refractor",
+          "slug": "chrome-prospect-red-refractor",
+          "family": "Chrome",
+          "printRun": 5,
+          "odds": {
+            "ratioDisplay": "1:15,044 packs (Hobby)",
+            "ratio": {
+              "onePerN": 15044
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 15044,
+                "ratioDisplay": "1:15,044 packs"
+              },
+              "Jumbo": {
+                "onePerN": 5075,
+                "ratioDisplay": "1:5,075 packs"
+              },
+              "Value": {
+                "onePerN": 54993,
+                "ratioDisplay": "1:54,993 packs"
+              },
+              "Bulk": {
+                "onePerN": 10000,
+                "ratioDisplay": "1:10,000 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#D13340"
+          },
+          "editorialTier": "chase"
+        },
+        {
+          "name": "Chrome Prospect FireFractor",
+          "slug": "chrome-prospect-firefractor",
+          "family": "Chrome",
+          "printRun": 3,
+          "odds": {
+            "ratioDisplay": "1:25,189 packs (Hobby)",
+            "ratio": {
+              "onePerN": 25189
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 25189,
+                "ratioDisplay": "1:25,189 packs"
+              },
+              "Jumbo": {
+                "onePerN": 8421,
+                "ratioDisplay": "1:8,421 packs"
+              },
+              "Value": {
+                "onePerN": 91941,
+                "ratioDisplay": "1:91,941 packs"
+              },
+              "Bulk": {
+                "onePerN": 5000,
+                "ratioDisplay": "1:5,000 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#F26A1C",
+            "gradient": {
+              "from": "#FFDF00",
+              "to": "#D13340"
+            }
+          },
+          "editorialTier": "chase"
+        },
+        {
+          "name": "Chrome Prospect SuperFractor",
+          "slug": "chrome-prospect-superfractor",
+          "family": "Chrome",
+          "printRun": 1,
+          "odds": {
+            "ratioDisplay": "1:46,091 packs (Hobby)",
+            "ratio": {
+              "onePerN": 46091
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 46091,
+                "ratioDisplay": "1:46,091 packs"
+              },
+              "Jumbo": {
+                "onePerN": 15639,
+                "ratioDisplay": "1:15,639 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#C9B8E8",
+            "gradient": {
+              "from": "#FF3B5C",
+              "to": "#3B82F6"
+            }
+          },
+          "exclusiveTo": [
+            "Hobby",
+            "Jumbo"
+          ],
+          "note": "1-of-1 \u2014 chrome prospect holy grail.",
+          "editorialTier": "chase"
+        },
+        {
+          "name": "Chrome Prospect Reptilian Refractor",
+          "slug": "chrome-prospect-reptilian-refractor",
+          "family": "Reptilian",
+          "printRunLabel": "Unnumbered",
+          "odds": {
+            "ratioDisplay": "1:20 packs (Hobby)",
+            "ratio": {
+              "onePerN": 20
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 20,
+                "ratioDisplay": "1:20 packs"
+              },
+              "Jumbo": {
+                "onePerN": 6,
+                "ratioDisplay": "1:6 packs"
+              },
+              "Value": {
+                "onePerN": 7,
+                "ratioDisplay": "1:7 packs"
+              },
+              "Bulk": {
+                "onePerN": 14,
+                "ratioDisplay": "1:14 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#5A6354"
+          },
+          "editorialTier": "filler"
+        },
+        {
+          "name": "Chrome Prospect Reptilian Blue Refractor",
+          "slug": "chrome-prospect-reptilian-blue-refractor",
+          "family": "Reptilian",
+          "printRun": 150,
+          "odds": {
+            "ratioDisplay": "1:499 packs (Hobby)",
+            "ratio": {
+              "onePerN": 499
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 499,
+                "ratioDisplay": "1:499 packs"
+              },
+              "Jumbo": {
+                "onePerN": 169,
+                "ratioDisplay": "1:169 packs"
+              },
+              "Value": {
+                "onePerN": 1827,
+                "ratioDisplay": "1:1,827 packs"
+              },
+              "Bulk": {
+                "onePerN": 327,
+                "ratioDisplay": "1:327 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#3A7BD5"
+          },
+          "editorialTier": "common"
+        },
+        {
+          "name": "Chrome Prospect Reptilian Green Refractor",
+          "slug": "chrome-prospect-reptilian-green-refractor",
+          "family": "Reptilian",
+          "printRun": 99,
+          "odds": {
+            "ratioDisplay": "1:1,066 packs (Value)",
+            "ratio": {
+              "onePerN": 1066
+            },
+            "perFormat": {
+              "Value": {
+                "onePerN": 1066,
+                "ratioDisplay": "1:1,066 packs"
+              },
+              "Bulk": {
+                "onePerN": 144,
+                "ratioDisplay": "1:144 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#2EA558"
+          },
+          "exclusiveTo": [
+            "Value",
+            "Bulk"
+          ],
+          "note": "Retail-exclusive.",
+          "editorialTier": "common"
+        },
+        {
+          "name": "Chrome Prospect Reptilian Gold Refractor",
+          "slug": "chrome-prospect-reptilian-gold-refractor",
+          "family": "Reptilian",
+          "printRun": 50,
+          "odds": {
+            "ratioDisplay": "1:1,497 packs (Hobby)",
+            "ratio": {
+              "onePerN": 1497
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 1497,
+                "ratioDisplay": "1:1,497 packs"
+              },
+              "Jumbo": {
+                "onePerN": 505,
+                "ratioDisplay": "1:505 packs"
+              },
+              "Value": {
+                "onePerN": 5484,
+                "ratioDisplay": "1:5,484 packs"
+              },
+              "Bulk": {
+                "onePerN": 981,
+                "ratioDisplay": "1:981 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#D4AF37",
+            "gradient": {
+              "from": "#E8C869",
+              "to": "#B8912C"
+            }
+          },
+          "editorialTier": "notable"
+        },
+        {
+          "name": "Chrome Prospect Reptilian Orange Refractor",
+          "slug": "chrome-prospect-reptilian-orange-refractor",
+          "family": "Reptilian",
+          "printRun": 25,
+          "odds": {
+            "ratioDisplay": "1:899 packs (Hobby)",
+            "ratio": {
+              "onePerN": 899
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 899,
+                "ratioDisplay": "1:899 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#F26A1C"
+          },
+          "exclusiveTo": [
+            "Hobby"
+          ],
+          "note": "Hobby-exclusive.",
+          "editorialTier": "notable"
+        },
+        {
+          "name": "Chrome Prospect Reptilian Red Refractor",
+          "slug": "chrome-prospect-reptilian-red-refractor",
+          "family": "Reptilian",
+          "printRun": 5,
+          "odds": {
+            "ratioDisplay": "1:15,044 packs (Hobby)",
+            "ratio": {
+              "onePerN": 15044
+            },
+            "perFormat": {
+              "Hobby": {
+                "onePerN": 15044,
+                "ratioDisplay": "1:15,044 packs"
+              },
+              "Jumbo": {
+                "onePerN": 5075,
+                "ratioDisplay": "1:5,075 packs"
+              },
+              "Value": {
+                "onePerN": 54993,
+                "ratioDisplay": "1:54,993 packs"
+              },
+              "Bulk": {
+                "onePerN": 10000,
+                "ratioDisplay": "1:10,000 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#D13340"
+          },
+          "editorialTier": "chase"
+        },
+        {
+          "name": "Chrome Prospect Geometric",
+          "slug": "chrome-prospect-geometric",
+          "family": "Geometric",
+          "printRunLabel": "Unnumbered",
+          "odds": {
+            "ratioDisplay": "1:5 packs (Breaker's Delight)",
+            "ratio": {
+              "onePerN": 5
+            },
+            "perFormat": {
+              "Breaker's Delight": {
+                "onePerN": 5,
+                "ratioDisplay": "1:5 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#222633"
+          },
+          "exclusiveTo": [
+            "Breaker's Delight"
+          ],
+          "editorialTier": "filler"
+        },
+        {
+          "name": "Chrome Prospect Green Geometric",
+          "slug": "chrome-prospect-green-geometric",
+          "family": "Geometric",
+          "printRun": 99,
+          "odds": {
+            "ratioDisplay": "1:3 packs (Breaker's Delight)",
+            "ratio": {
+              "onePerN": 3
+            },
+            "perFormat": {
+              "Breaker's Delight": {
+                "onePerN": 3,
+                "ratioDisplay": "1:3 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#2EA558"
+          },
+          "exclusiveTo": [
+            "Breaker's Delight"
+          ],
+          "editorialTier": "common"
+        },
+        {
+          "name": "Chrome Prospect Gold Geometric",
+          "slug": "chrome-prospect-gold-geometric",
+          "family": "Geometric",
+          "printRun": 50,
+          "odds": {
+            "ratioDisplay": "1:5 packs (Breaker's Delight)",
+            "ratio": {
+              "onePerN": 5
+            },
+            "perFormat": {
+              "Breaker's Delight": {
+                "onePerN": 5,
+                "ratioDisplay": "1:5 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#D4AF37",
+            "gradient": {
+              "from": "#E8C869",
+              "to": "#B8912C"
+            }
+          },
+          "exclusiveTo": [
+            "Breaker's Delight"
+          ],
+          "editorialTier": "notable"
+        },
+        {
+          "name": "Chrome Prospect Orange Geometric",
+          "slug": "chrome-prospect-orange-geometric",
+          "family": "Geometric",
+          "printRun": 25,
+          "odds": {
+            "ratioDisplay": "1:10 packs (Breaker's Delight)",
+            "ratio": {
+              "onePerN": 10
+            },
+            "perFormat": {
+              "Breaker's Delight": {
+                "onePerN": 10,
+                "ratioDisplay": "1:10 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#F26A1C"
+          },
+          "exclusiveTo": [
+            "Breaker's Delight"
+          ],
+          "editorialTier": "notable"
+        },
+        {
+          "name": "Chrome Prospect Black Geometric",
+          "slug": "chrome-prospect-black-geometric",
+          "family": "Geometric",
+          "printRun": 10,
+          "odds": {
+            "ratioDisplay": "1:25 packs (Breaker's Delight)",
+            "ratio": {
+              "onePerN": 25
+            },
+            "perFormat": {
+              "Breaker's Delight": {
+                "onePerN": 25,
+                "ratioDisplay": "1:25 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#1A1A1D"
+          },
+          "exclusiveTo": [
+            "Breaker's Delight"
+          ],
+          "editorialTier": "notable"
+        },
+        {
+          "name": "Chrome Prospect Red Geometric",
+          "slug": "chrome-prospect-red-geometric",
+          "family": "Geometric",
+          "printRun": 5,
+          "odds": {
+            "ratioDisplay": "1:50 packs (Breaker's Delight)",
+            "ratio": {
+              "onePerN": 50
+            },
+            "perFormat": {
+              "Breaker's Delight": {
+                "onePerN": 50,
+                "ratioDisplay": "1:50 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#D13340"
+          },
+          "exclusiveTo": [
+            "Breaker's Delight"
+          ],
+          "editorialTier": "chase"
+        },
+        {
+          "name": "Chrome Prospect Sapphire",
+          "slug": "chrome-prospect-sapphire",
+          "family": "Sapphire",
+          "printRunLabel": "Unnumbered",
+          "color": {
+            "hex": "#0F52BA"
+          },
+          "exclusiveTo": [
+            "Sapphire"
+          ],
+          "note": "Sapphire-box exclusive; 1 per pack.",
+          "editorialTier": "filler"
+        },
+        {
+          "name": "Chrome Prospect Yellow Sapphire",
+          "slug": "chrome-prospect-yellow-sapphire",
+          "family": "Sapphire",
+          "printRun": 75,
+          "color": {
+            "hex": "#F4C430"
+          },
+          "exclusiveTo": [
+            "Sapphire"
+          ],
+          "editorialTier": "common"
+        },
+        {
+          "name": "Chrome Prospect Gold Sapphire",
+          "slug": "chrome-prospect-gold-sapphire",
+          "family": "Sapphire",
+          "printRun": 50,
+          "color": {
+            "hex": "#D4AF37",
+            "gradient": {
+              "from": "#E8C869",
+              "to": "#B8912C"
+            }
+          },
+          "exclusiveTo": [
+            "Sapphire"
+          ],
+          "editorialTier": "notable"
+        },
+        {
+          "name": "Chrome Prospect Orange Sapphire",
+          "slug": "chrome-prospect-orange-sapphire",
+          "family": "Sapphire",
+          "printRun": 25,
+          "color": {
+            "hex": "#F26A1C"
+          },
+          "exclusiveTo": [
+            "Sapphire"
+          ],
+          "editorialTier": "notable"
+        },
+        {
+          "name": "Chrome Prospect Black Sapphire",
+          "slug": "chrome-prospect-black-sapphire",
+          "family": "Sapphire",
+          "printRun": 10,
+          "color": {
+            "hex": "#1A1A1D"
+          },
+          "exclusiveTo": [
+            "Sapphire"
+          ],
+          "editorialTier": "notable"
+        },
+        {
+          "name": "Chrome Prospect Red Sapphire",
+          "slug": "chrome-prospect-red-sapphire",
+          "family": "Sapphire",
+          "printRun": 5,
+          "color": {
+            "hex": "#D13340"
+          },
+          "exclusiveTo": [
+            "Sapphire"
+          ],
+          "editorialTier": "chase"
+        },
+        {
+          "name": "Chrome Prospect Padparadscha Sapphire",
+          "slug": "chrome-prospect-padparadscha-sapphire",
+          "family": "Sapphire",
+          "printRun": 1,
+          "color": {
+            "hex": "#F48A60",
+            "gradient": {
+              "from": "#FFB08C",
+              "to": "#D65533"
+            }
+          },
+          "exclusiveTo": [
+            "Sapphire"
+          ],
+          "note": "1-of-1 \u2014 chrome prospect sapphire grail.",
+          "editorialTier": "chase"
+        },
+        {
+          "name": "Chrome Prospect Mojo",
+          "slug": "chrome-prospect-mojo",
+          "family": "Mojo",
+          "printRunLabel": "Unnumbered",
+          "odds": {
+            "ratioDisplay": "1:2 packs (Mega)",
+            "ratio": {
+              "onePerN": 2
+            },
+            "perFormat": {
+              "Mega": {
+                "onePerN": 2,
+                "ratioDisplay": "1:2 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#7B2CBF",
+            "gradient": {
+              "from": "#B388EB",
+              "to": "#4A0E7F"
+            }
+          },
+          "exclusiveTo": [
+            "Mega"
+          ],
+          "editorialTier": "filler"
+        },
+        {
+          "name": "Chrome Prospect Fuchsia Mojo",
+          "slug": "chrome-prospect-fuchsia-mojo",
+          "family": "Mojo",
+          "printRun": 299,
+          "odds": {
+            "ratioDisplay": "1:78 packs (Mega)",
+            "ratio": {
+              "onePerN": 78
+            },
+            "perFormat": {
+              "Mega": {
+                "onePerN": 78,
+                "ratioDisplay": "1:78 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#E04B94"
+          },
+          "exclusiveTo": [
+            "Mega"
+          ],
+          "editorialTier": "common"
+        },
+        {
+          "name": "Chrome Prospect Burgundy Mojo",
+          "slug": "chrome-prospect-burgundy-mojo",
+          "family": "Mojo",
+          "printRun": 275,
+          "odds": {
+            "ratioDisplay": "1:85 packs (Mega)",
+            "ratio": {
+              "onePerN": 85
+            },
+            "perFormat": {
+              "Mega": {
+                "onePerN": 85,
+                "ratioDisplay": "1:85 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#8A1F2A"
+          },
+          "exclusiveTo": [
+            "Mega"
+          ],
+          "editorialTier": "common"
+        },
+        {
+          "name": "Chrome Prospect Purple Mojo",
+          "slug": "chrome-prospect-purple-mojo",
+          "family": "Mojo",
+          "printRun": 250,
+          "odds": {
+            "ratioDisplay": "1:94 packs (Mega)",
+            "ratio": {
+              "onePerN": 94
+            },
+            "perFormat": {
+              "Mega": {
+                "onePerN": 94,
+                "ratioDisplay": "1:94 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#6B3AA0"
+          },
+          "exclusiveTo": [
+            "Mega"
+          ],
+          "editorialTier": "common"
+        },
+        {
+          "name": "Chrome Prospect Pink Mojo",
+          "slug": "chrome-prospect-pink-mojo",
+          "family": "Mojo",
+          "printRun": 199,
+          "odds": {
+            "ratioDisplay": "1:118 packs (Mega)",
+            "ratio": {
+              "onePerN": 118
+            },
+            "perFormat": {
+              "Mega": {
+                "onePerN": 118,
+                "ratioDisplay": "1:118 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#F48FB1"
+          },
+          "exclusiveTo": [
+            "Mega"
+          ],
+          "editorialTier": "common"
+        },
+        {
+          "name": "Chrome Prospect Navy Mojo",
+          "slug": "chrome-prospect-navy-mojo",
+          "family": "Mojo",
+          "printRun": 175,
+          "odds": {
+            "ratioDisplay": "1:134 packs (Mega)",
+            "ratio": {
+              "onePerN": 134
+            },
+            "perFormat": {
+              "Mega": {
+                "onePerN": 134,
+                "ratioDisplay": "1:134 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#1A2847"
+          },
+          "exclusiveTo": [
+            "Mega"
+          ],
+          "editorialTier": "common"
+        },
+        {
+          "name": "Chrome Prospect Blue Mojo",
+          "slug": "chrome-prospect-blue-mojo",
+          "family": "Mojo",
+          "printRun": 150,
+          "odds": {
+            "ratioDisplay": "1:156 packs (Mega)",
+            "ratio": {
+              "onePerN": 156
+            },
+            "perFormat": {
+              "Mega": {
+                "onePerN": 156,
+                "ratioDisplay": "1:156 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#3A7BD5"
+          },
+          "exclusiveTo": [
+            "Mega"
+          ],
+          "editorialTier": "common"
+        },
+        {
+          "name": "Chrome Prospect Aqua Mojo",
+          "slug": "chrome-prospect-aqua-mojo",
+          "family": "Mojo",
+          "printRun": 125,
+          "odds": {
+            "ratioDisplay": "1:187 packs (Mega)",
+            "ratio": {
+              "onePerN": 187
+            },
+            "perFormat": {
+              "Mega": {
+                "onePerN": 187,
+                "ratioDisplay": "1:187 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#43C6DB"
+          },
+          "exclusiveTo": [
+            "Mega"
+          ],
+          "editorialTier": "common"
+        },
+        {
+          "name": "Chrome Prospect Green Mojo",
+          "slug": "chrome-prospect-green-mojo",
+          "family": "Mojo",
+          "printRun": 99,
+          "odds": {
+            "ratioDisplay": "1:236 packs (Mega)",
+            "ratio": {
+              "onePerN": 236
+            },
+            "perFormat": {
+              "Mega": {
+                "onePerN": 236,
+                "ratioDisplay": "1:236 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#2EA558"
+          },
+          "exclusiveTo": [
+            "Mega"
+          ],
+          "editorialTier": "common"
+        },
+        {
+          "name": "Chrome Prospect Yellow Mojo",
+          "slug": "chrome-prospect-yellow-mojo",
+          "family": "Mojo",
+          "printRun": 75,
+          "odds": {
+            "ratioDisplay": "1:311 packs (Mega)",
+            "ratio": {
+              "onePerN": 311
+            },
+            "perFormat": {
+              "Mega": {
+                "onePerN": 311,
+                "ratioDisplay": "1:311 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#F4C430"
+          },
+          "exclusiveTo": [
+            "Mega"
+          ],
+          "editorialTier": "common"
+        },
+        {
+          "name": "Chrome Prospect Gold Mojo",
+          "slug": "chrome-prospect-gold-mojo",
+          "family": "Mojo",
+          "printRun": 50,
+          "odds": {
+            "ratioDisplay": "1:466 packs (Mega)",
+            "ratio": {
+              "onePerN": 466
+            },
+            "perFormat": {
+              "Mega": {
+                "onePerN": 466,
+                "ratioDisplay": "1:466 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#D4AF37",
+            "gradient": {
+              "from": "#E8C869",
+              "to": "#B8912C"
+            }
+          },
+          "exclusiveTo": [
+            "Mega"
+          ],
+          "editorialTier": "notable"
+        },
+        {
+          "name": "Chrome Prospect Orange Mojo",
+          "slug": "chrome-prospect-orange-mojo",
+          "family": "Mojo",
+          "printRun": 25,
+          "odds": {
+            "ratioDisplay": "1:932 packs (Mega)",
+            "ratio": {
+              "onePerN": 932
+            },
+            "perFormat": {
+              "Mega": {
+                "onePerN": 932,
+                "ratioDisplay": "1:932 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#F26A1C"
+          },
+          "exclusiveTo": [
+            "Mega"
+          ],
+          "editorialTier": "notable"
+        },
+        {
+          "name": "Chrome Prospect Red Mojo",
+          "slug": "chrome-prospect-red-mojo",
+          "family": "Mojo",
+          "printRun": 5,
+          "odds": {
+            "ratioDisplay": "1:4,660 packs (Mega)",
+            "ratio": {
+              "onePerN": 4660
+            },
+            "perFormat": {
+              "Mega": {
+                "onePerN": 4660,
+                "ratioDisplay": "1:4,660 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#D13340"
+          },
+          "exclusiveTo": [
+            "Mega"
+          ],
+          "editorialTier": "chase"
+        },
+        {
+          "name": "Chrome Prospect Black Mojo",
+          "slug": "chrome-prospect-black-mojo",
+          "family": "Mojo",
+          "printRun": 1,
+          "odds": {
+            "ratioDisplay": "1:2,330 packs (Mega)",
+            "ratio": {
+              "onePerN": 2330
+            },
+            "perFormat": {
+              "Mega": {
+                "onePerN": 2330,
+                "ratioDisplay": "1:2,330 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#1A1A1D"
+          },
+          "exclusiveTo": [
+            "Mega"
+          ],
+          "note": "1-of-1.",
+          "editorialTier": "chase"
+        },
+        {
+          "name": "Chrome Prospect Rose Gold Mojo",
+          "slug": "chrome-prospect-rose-gold-mojo",
+          "family": "Mojo",
+          "printRun": 1,
+          "odds": {
+            "ratioDisplay": "1:23,300 packs (Mega)",
+            "ratio": {
+              "onePerN": 23300
+            },
+            "perFormat": {
+              "Mega": {
+                "onePerN": 23300,
+                "ratioDisplay": "1:23,300 packs"
+              }
+            },
+            "source": {
+              "type": "official-topps-pdf",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+              "asOf": "2026-04-24"
+            }
+          },
+          "color": {
+            "hex": "#B76E79",
+            "gradient": {
+              "from": "#D4948E",
+              "to": "#8B4A52"
+            }
+          },
+          "exclusiveTo": [
+            "Mega"
+          ],
+          "note": "1-of-1 \u2014 the rarest Chrome Prospect Mojo.",
+          "editorialTier": "chase"
+        }
+      ]
+    }
+  ]
+}
