@@ -1,11 +1,11 @@
 import { sportConfig } from "@/lib/sport-config";
 import { cn } from "@/lib/utils";
-import type { Release } from "@/types/release";
+import type { LegacyRelease } from "@/types/legacy-release";
 
 import { formatUsd } from "./_utils";
 import { ReleaseSection } from "./Section";
 
-export function BoxFormats({ release }: { release: Release }) {
+export function BoxFormats({ release }: { release: LegacyRelease }) {
   const sport = sportConfig[release.sport];
   const formatAdvice = release.commentary.formatAdvice;
 

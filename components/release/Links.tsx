@@ -3,11 +3,11 @@ import Image from "next/image";
 import Link from "next/link";
 
 import { getReleaseBySlug } from "@/lib/releases";
-import type { Release } from "@/types/release";
+import type { LegacyRelease } from "@/types/legacy-release";
 
 import { ReleaseSection } from "./Section";
 
-export function Links({ release }: { release: Release }) {
+export function Links({ release }: { release: LegacyRelease }) {
   const { links } = release;
 
   const isProbablyUrl = (value: string) => /^https?:\/\//i.test(value.trim());

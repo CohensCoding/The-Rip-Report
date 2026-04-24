@@ -1,10 +1,16 @@
 import { sportConfig } from "@/lib/sport-config";
 import { cn } from "@/lib/utils";
-import type { InsertSet, Release } from "@/types/release";
+import type { LegacyInsertSet, LegacyRelease } from "@/types/legacy-release";
 
 import { ReleaseSection } from "./Section";
 
-function InsertBlock({ release, insert }: { release: Release; insert: InsertSet }) {
+function InsertBlock({
+  release,
+  insert,
+}: {
+  release: LegacyRelease;
+  insert: LegacyInsertSet;
+}) {
   const sport = sportConfig[release.sport];
 
   return (
@@ -48,7 +54,7 @@ function InsertBlock({ release, insert }: { release: Release; insert: InsertSet 
   );
 }
 
-export function InsertArchitecture({ release }: { release: Release }) {
+export function InsertArchitecture({ release }: { release: LegacyRelease }) {
   const inserts = release.inserts ?? [];
   if (!inserts.length) return null;
   const standard = inserts.filter((i) => !i.isCaseHit);

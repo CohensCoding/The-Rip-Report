@@ -1,0 +1,522 @@
+{
+  "boxFormatDeepDive": [
+    {
+      "formatName": "Hobby",
+      "imageSlug": "box-hobby",
+      "spec": {
+        "cardsPerPack": 8,
+        "packsPerBox": 20,
+        "boxesPerCase": 12,
+        "totalCards": 160
+      },
+      "pricing": {
+        "msrp": 339.99,
+        "currentPrice": null,
+        "asOf": "2026-04-24",
+        "source": "Topps pre-sale MSRP"
+      },
+      "guarantees": [
+        "2 autographs per box (1 NBA + 1 NIL)",
+        "12 inserts per box (unless replaced by a case hit)",
+        "1 Chrome Mini-Diamond Refractor per box",
+        "6 additional base parallels per box",
+        "~1.5 Base Chrome Red RC Variations per box (on average)"
+      ],
+      "exclusives": [
+        "Orange Border",
+        "Black Border",
+        "Black Pattern Border",
+        "Chrome Orange Refractor",
+        "Chrome Orange Shimmer Refractor",
+        "Chrome Reptilian Orange Refractor",
+        "Paper Prospect Orange Border",
+        "Paper Prospect Black Border",
+        "Paper Prospect Black Pattern Border",
+        "Chrome Prospect Orange Refractor",
+        "Chrome Prospect Reptilian Orange Refractor",
+        "Chrome Yellow X-Fractor",
+        "Chrome Yellow Wave Refractor",
+        "Chrome SuperFractor",
+        "Chrome Prospect Aqua X-Fractor",
+        "Chrome Prospect Yellow X-Fractor",
+        "Chrome Prospect SuperFractor"
+      ],
+      "expectedValueNote": "Hobby is the only format with access to Orange Border /25, Black Border /10, Black Pattern Border /10, Chrome SuperFractor /1, and many Reptilian/Shimmer refractors. If you want the full base-set rainbow as reachable, Hobby is the only path.",
+      "bestForVerdict": {
+        "audience": "Rainbow chasers and the full Bowman experience",
+        "reasoning": "Premium per-pack content guarantees two autographs (one NBA rookie/vet, one NIL prospect) and the SuperFractor / Orange / Black parallel ecosystem. Jumbo gives you more per box but Hobby gets you into SuperFractor territory with 12 boxes per case \u2014 which is the serious rainbow builder's format. At $339.99 MSRP, it's also the most expensive non-Breaker's Delight SKU, so only rip Hobby if you're actually chasing the full rainbow."
+      }
+    },
+    {
+      "formatName": "Jumbo",
+      "imageSlug": "box-jumbo",
+      "spec": {
+        "cardsPerPack": 24,
+        "packsPerBox": 12,
+        "boxesPerCase": 8,
+        "totalCards": 288
+      },
+      "pricing": {
+        "msrp": 599.99,
+        "currentPrice": null,
+        "asOf": "2026-04-24",
+        "source": "Topps pre-sale MSRP"
+      },
+      "guarantees": [
+        "4 autographs per box",
+        "18 inserts per box",
+        "12 base parallels per box",
+        "~2.5 Base Chrome Red RC Variations per box"
+      ],
+      "exclusives": [
+        "Chrome Mini-Diamond Refractor",
+        "Chrome Red X-Fractor",
+        "Chrome Prospect Mini-Diamond Refractor",
+        "Chrome Yellow X-Fractor",
+        "Chrome Yellow Wave Refractor",
+        "Chrome SuperFractor",
+        "Chrome Prospect Aqua X-Fractor",
+        "Chrome Prospect Yellow X-Fractor",
+        "Chrome Prospect SuperFractor"
+      ],
+      "expectedValueNote": "Jumbo delivers 2x the autographs of Hobby per box at ~1.75x the price. Best value for collectors prioritizing autograph volume over SuperFractor-tier chase. Floorboard Refractor (/200 in Chrome Prospects) is Jumbo-exclusive.",
+      "bestForVerdict": {
+        "audience": "Autograph hunters and volume collectors",
+        "reasoning": "The 4-auto guarantee is the best per-box auto hit rate in the product. If your goal is maximizing NCAA 1st Bowman autograph exposure (Dybantsa, Peterson, Wilson, etc.), Jumbo is the smart play. You sacrifice Hobby-exclusive parallels but gain per-box auto quantity. Also the only format beyond Breaker's Delight for the Chrome Prospect Floorboard Refractor."
+      }
+    },
+    {
+      "formatName": "Breaker's Delight",
+      "imageSlug": "box-breakers-delight",
+      "spec": {
+        "cardsPerPack": 10,
+        "packsPerBox": 1,
+        "boxesPerCase": 6,
+        "totalCards": 10
+      },
+      "pricing": {
+        "msrp": 2499.95,
+        "currentPrice": null,
+        "asOf": "2026-04-24",
+        "source": "The Hobby Wire analysis"
+      },
+      "guarantees": [
+        "3 autographs per box (2 NBA + 1 NIL)",
+        "3 exclusive Chrome Geometric parallels",
+        "1 Chrome Prospect base + 1 Chrome NBA base",
+        "1 Base Chrome Red RC Variation",
+        "1 exclusive Geometric insert"
+      ],
+      "exclusives": [
+        "Chrome Floorboard Refractor",
+        "Chrome Geometric",
+        "Chrome Green Geometric",
+        "Chrome Gold Geometric",
+        "Chrome Orange Geometric",
+        "Chrome Black Geometric",
+        "Chrome Red Geometric",
+        "Chrome Prospect Floorboard Refractor",
+        "Chrome Prospect Geometric",
+        "Chrome Prospect Green Geometric",
+        "Chrome Prospect Gold Geometric",
+        "Chrome Prospect Orange Geometric",
+        "Chrome Prospect Black Geometric",
+        "Chrome Prospect Red Geometric"
+      ],
+      "expectedValueNote": "At $250 per card, this is the most per-card-expensive format in the product. Worth it only for the Geometric parallel exclusivity \u2014 every Geometric parallel in the entire release is Breaker's Delight-only. If you don't care about Geometrics, this format is economically indefensible. If you do, it's the only path.",
+      "bestForVerdict": {
+        "audience": "Group breakers and Geometric parallel completionists",
+        "reasoning": "Built for group break operators who want a high-auto-density single pack to sell slots on. 3 autos and 3 Geometric parallels guaranteed in 10 cards. Individual collectors should probably skip unless they're specifically chasing the Geometric rainbow, which doesn't exist anywhere else."
+      }
+    },
+    {
+      "formatName": "Mega",
+      "imageSlug": "box-mega",
+      "spec": {
+        "cardsPerPack": 7,
+        "packsPerBox": 6,
+        "boxesPerCase": 20,
+        "totalCards": 42
+      },
+      "pricing": {
+        "msrp": 59.99,
+        "currentPrice": null,
+        "asOf": "2026-04-24",
+        "source": "Topps pre-sale MSRP"
+      },
+      "guarantees": [
+        "11 exclusive Mojo base parallels per box on average",
+        "1 Mega Rookies or Mega Prospects card per box",
+        "1 insert per box on average",
+        "~1 autograph per 5 boxes (4 per case)"
+      ],
+      "exclusives": [
+        "Chrome Mojo",
+        "Chrome Fuchsia Mojo",
+        "Chrome Burgundy Mojo",
+        "Chrome Purple Mojo",
+        "Chrome Pink Mojo",
+        "Chrome Navy Mojo",
+        "Chrome Blue Mojo",
+        "Chrome Aqua Mojo",
+        "Chrome Green Mojo",
+        "Chrome Yellow Mojo",
+        "Chrome Gold Mojo",
+        "Chrome Orange Mojo",
+        "Chrome Red Mojo",
+        "Chrome Black Mojo",
+        "Chrome Rose Gold Mojo",
+        "Chrome Prospect Mojo",
+        "Chrome Prospect Fuchsia Mojo",
+        "Chrome Prospect Burgundy Mojo",
+        "Chrome Prospect Purple Mojo",
+        "Chrome Prospect Pink Mojo",
+        "Chrome Prospect Navy Mojo",
+        "Chrome Prospect Blue Mojo",
+        "Chrome Prospect Aqua Mojo",
+        "Chrome Prospect Green Mojo",
+        "Chrome Prospect Yellow Mojo",
+        "Chrome Prospect Gold Mojo",
+        "Chrome Prospect Orange Mojo",
+        "Chrome Prospect Red Mojo",
+        "Chrome Prospect Black Mojo",
+        "Chrome Prospect Rose Gold Mojo"
+      ],
+      "expectedValueNote": "The entire Mojo rainbow \u2014 8 parallels from Blue Mojo /150 down to Rose Gold Mojo /1 \u2014 is Mega-exclusive. So are the Mega Rookies and Mega Prospects inserts. If you want any Mojo card, Mega is your only option. At $59.99, it's also the most approachable format for casual collectors \u2014 but auto rates are low.",
+      "bestForVerdict": {
+        "audience": "Mojo parallel chasers and casual collectors",
+        "reasoning": "The product's clearest format-driven incentive. No Mojo exists outside Mega. If you want the Rose Gold Mojo /1 of any player, you buy Mega. At $59.99, accessibility is high \u2014 but understand you're trading Hobby's auto rate for Mojo access. Released two weeks after Hobby (May 7, 2026)."
+      }
+    },
+    {
+      "formatName": "Value",
+      "imageSlug": "box-value",
+      "spec": {
+        "cardsPerPack": 10,
+        "packsPerBox": 6,
+        "boxesPerCase": 40,
+        "totalCards": 60
+      },
+      "pricing": {
+        "msrp": 29.99,
+        "currentPrice": null,
+        "asOf": "2026-04-24",
+        "source": "Topps pre-sale MSRP"
+      },
+      "guarantees": [
+        "4 inserts per box on average",
+        "~1 autograph per 10 boxes (4 per case)",
+        "Access to Green Border /99 and Green Pattern Border /99 retail-exclusive parallels"
+      ],
+      "exclusives": [
+        "Green Border",
+        "Green Pattern Border",
+        "Chrome Lava Refractor",
+        "Chrome Green Refractor",
+        "Chrome Green Shimmer Refractor",
+        "Chrome Reptilian Green Refractor",
+        "Paper Prospect Green Border",
+        "Paper Prospect Green Pattern Border",
+        "Chrome Prospect Green Refractor",
+        "Chrome Prospect Green Shimmer Refractor",
+        "Chrome Prospect Reptilian Green Refractor"
+      ],
+      "expectedValueNote": "Cheapest entry into the product and the only path (alongside Bulk) to Green Border /99, Green Pattern Border /99, and several retail-exclusive refractor parallels. Auto rate is low (1 per 10 boxes average) but paper autos carry their own collector following.",
+      "bestForVerdict": {
+        "audience": "Entry-level collectors and paper-auto collectors",
+        "reasoning": "At $29.99 MSRP, the lowest-cost path to ripping this product. The Green Border /99 parallels give Value its own rainbow lane. Best used as a supplemental format \u2014 rip Hobby/Jumbo for chase, rip Value for Green parallels and the occasional Paper Prospect Retail Autograph."
+      }
+    },
+    {
+      "formatName": "Bulk",
+      "imageSlug": "box-bulk",
+      "spec": {
+        "cardsPerPack": 16,
+        "packsPerBox": null,
+        "boxesPerCase": null,
+        "totalCards": null
+      },
+      "pricing": {
+        "msrp": null,
+        "currentPrice": null,
+        "asOf": "2026-04-24",
+        "source": "Release date TBD, no official pricing at sourcing time"
+      },
+      "guarantees": [
+        "Approximately 13 paper base + 2 chrome + 1 insert per pack (inferred from odds PDF)",
+        "Retail-channel autographs at deeper rates than Value"
+      ],
+      "exclusives": [
+        "Green Border",
+        "Green Pattern Border",
+        "Chrome Lava Refractor",
+        "Chrome Green Refractor",
+        "Chrome Green Shimmer Refractor",
+        "Chrome Reptilian Green Refractor",
+        "Paper Prospect Green Border",
+        "Paper Prospect Green Pattern Border",
+        "Chrome Prospect Green Refractor",
+        "Chrome Prospect Green Shimmer Refractor",
+        "Chrome Prospect Reptilian Green Refractor"
+      ],
+      "expectedValueNote": "Bulk Packs appear in the Topps odds PDF but have not been officially marketed as of the Hobby release date. Best-available configuration guess: 16-card retail packs sold out of display boxes. Price and availability details will emerge post-launch \u2014 treat this entry as provisional and update once Topps confirms.",
+      "bestForVerdict": {
+        "audience": "Unclear \u2014 pending Topps clarification",
+        "reasoning": "Bulk Packs are the product's biggest configuration mystery. Per the Hobby Wire analysis, odds math suggests bulk packs deliver the best rate for Base Chrome Autos (including Rookie Autos) \u2014 but official configuration and price haven't been published. Watch this section for updates."
+      }
+    }
+  ],
+  "officialResources": [
+    {
+      "type": "odds-pdf",
+      "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+      "label": "Official Topps Odds PDF",
+      "postedAt": "2026-04-21",
+      "size": "PDF, ~8 pages"
+    },
+    {
+      "type": "product-page",
+      "url": "https://www.topps.com/pages/bowman-basketball",
+      "label": "Topps Bowman Basketball brand page",
+      "postedAt": "2026-03-20"
+    },
+    {
+      "type": "product-page",
+      "url": "https://www.topps.com/products/2025-26-bowman-basketball-hobby-box",
+      "label": "Topps Hobby Box product page",
+      "postedAt": "2026-03-24"
+    },
+    {
+      "type": "product-page",
+      "url": "https://www.topps.com/products/2025-26-bowman-basketball-hobby-jumbo-box",
+      "label": "Topps Hobby Jumbo Box product page",
+      "postedAt": "2026-03-24"
+    },
+    {
+      "type": "product-page",
+      "url": "https://www.topps.com/products/2025-26-bowman-basketball-mega-box",
+      "label": "Topps Mega Box product page",
+      "postedAt": "2026-03-24"
+    },
+    {
+      "type": "product-page",
+      "url": "https://www.topps.com/products/2025-26-bowman-basketball-value-box",
+      "label": "Topps Value Blaster Box product page",
+      "postedAt": "2026-03-24"
+    },
+    {
+      "type": "sell-sheet",
+      "url": "https://ripped.topps.com/2025-26-bowman-basketball-checklist-spotlight/",
+      "label": "Topps Ripped Checklist Spotlight",
+      "postedAt": "2026-04-10"
+    },
+    {
+      "type": "sell-sheet",
+      "url": "https://ripped.topps.com/2025-26-bowman-basketball-chase-guide-cards/",
+      "label": "Topps Ripped Chase Guide",
+      "postedAt": "2026-04-22"
+    }
+  ],
+  "buyLinks": [
+    {
+      "format": "Hobby",
+      "retailers": [
+        {
+          "name": "Topps (Official)",
+          "url": "https://www.topps.com/products/2025-26-bowman-basketball-hobby-box",
+          "price": 339.99,
+          "asOf": "2026-04-22",
+          "trustLevel": "official"
+        },
+        {
+          "name": "Steel City Collectibles",
+          "url": "https://www.steelcitycollectibles.com/i/2025-26-bowman-basketball-hobby-box",
+          "price": null,
+          "asOf": "2026-04-24",
+          "trustLevel": "vetted-secondary"
+        },
+        {
+          "name": "Layton Sports Cards",
+          "url": "https://laytonsportscards.com/products/2025-26-bowman-basketball-hobby-box",
+          "price": null,
+          "asOf": "2026-04-24",
+          "trustLevel": "vetted-secondary"
+        },
+        {
+          "name": "Hit Kings Sports Cards",
+          "url": "https://hitkings.com/products/2025-26-bowman-basketball-hobby-box",
+          "price": null,
+          "asOf": "2026-04-24",
+          "trustLevel": "vetted-secondary"
+        },
+        {
+          "name": "eBay",
+          "url": "https://www.ebay.com/sch/i.html?_nkw=2025-26+Bowman+Basketball+Hobby+Box",
+          "price": null,
+          "asOf": "2026-04-24",
+          "trustLevel": "marketplace"
+        }
+      ]
+    },
+    {
+      "format": "Jumbo",
+      "retailers": [
+        {
+          "name": "Topps (Official)",
+          "url": "https://www.topps.com/products/2025-26-bowman-basketball-hobby-jumbo-box",
+          "price": 599.99,
+          "asOf": "2026-04-22",
+          "trustLevel": "official"
+        },
+        {
+          "name": "Layton Sports Cards",
+          "url": "https://laytonsportscards.com/products/2025-26-bowman-basketball-jumbo-box",
+          "price": null,
+          "asOf": "2026-04-24",
+          "trustLevel": "vetted-secondary"
+        },
+        {
+          "name": "eBay",
+          "url": "https://www.ebay.com/sch/i.html?_nkw=2025-26+Bowman+Basketball+Jumbo+Box",
+          "price": null,
+          "asOf": "2026-04-24",
+          "trustLevel": "marketplace"
+        }
+      ]
+    },
+    {
+      "format": "Breaker's Delight",
+      "retailers": [
+        {
+          "name": "Layton Sports Cards",
+          "url": "https://laytonsportscards.com/products/2025-26-bowman-basketball-delight-box",
+          "price": 2499.95,
+          "asOf": "2026-04-22",
+          "trustLevel": "vetted-secondary"
+        }
+      ]
+    },
+    {
+      "format": "Mega",
+      "retailers": [
+        {
+          "name": "Topps (Official)",
+          "url": "https://www.topps.com/products/2025-26-bowman-basketball-mega-box",
+          "price": 59.99,
+          "asOf": "2026-05-07",
+          "trustLevel": "official"
+        },
+        {
+          "name": "Target",
+          "url": "https://www.target.com/s?searchTerm=2025-26+Bowman+Basketball+Mega",
+          "price": null,
+          "asOf": "2026-05-07",
+          "trustLevel": "official"
+        },
+        {
+          "name": "Walmart",
+          "url": "https://www.walmart.com/search?q=2025-26+Bowman+Basketball+Mega",
+          "price": null,
+          "asOf": "2026-05-07",
+          "trustLevel": "official"
+        }
+      ]
+    },
+    {
+      "format": "Value",
+      "retailers": [
+        {
+          "name": "Topps (Official)",
+          "url": "https://www.topps.com/products/2025-26-bowman-basketball-value-box",
+          "price": 29.99,
+          "asOf": "2026-04-22",
+          "trustLevel": "official"
+        },
+        {
+          "name": "Target",
+          "url": "https://www.target.com/s?searchTerm=2025-26+Bowman+Basketball+Blaster",
+          "price": null,
+          "asOf": "2026-04-22",
+          "trustLevel": "official"
+        },
+        {
+          "name": "Walmart",
+          "url": "https://www.walmart.com/search?q=2025-26+Bowman+Basketball+Blaster",
+          "price": null,
+          "asOf": "2026-04-22",
+          "trustLevel": "official"
+        }
+      ]
+    }
+  ],
+  "breakProviders": [
+    {
+      "name": "Meelypops Breaks",
+      "url": "https://www.meelypops.com/shops/basketball-cards/basketball-breaks/",
+      "note": "Live streaming breaks Wed/Thu/Fri/Sun evenings. Pick Your Team + Pick Your Price formats."
+    },
+    {
+      "name": "The Clubhouse",
+      "url": "https://www.clubhousebreaks.com/",
+      "note": "Group break house offering Pick Your Price auctions on Hobby and Delight boxes."
+    },
+    {
+      "name": "Layton Sports Cards",
+      "url": "https://laytonsportscards.com/collections/breaks",
+      "note": "Established breaker with vetted product sourcing."
+    },
+    {
+      "name": "Steel City Collectibles Live Breaks",
+      "url": "https://www.steelcitycollectibles.com/live-breaks",
+      "note": "Retailer-adjacent breaks with in-house product supply."
+    },
+    {
+      "name": "Firehand Cards",
+      "url": "https://www.firehandcards.com/",
+      "note": "Active Bowman baseball breaker likely to cover basketball release."
+    },
+    {
+      "name": "eBay Live Breaks",
+      "url": "https://www.ebay.com/b/Live/21879",
+      "note": "Marketplace-hosted breaks with multi-operator coverage. Use caution \u2014 verify operator reputation."
+    }
+  ],
+  "gradingConsiderations": "For 2025-26 Bowman Basketball, the grading calculus is familiar for Chrome-heavy products: centering and edge integrity matter more than for paper stock. The cards worth grading are concentrated at the top of the rarity ladder \u2014 Chrome SuperFractor /1s, Platinum Border /1s, Padparadscha Sapphire /1s, and numbered parallels /25 or lower. PSA remains the volume leader for Bowman grading with the strongest resale premium, but SGC has gained significant share for Chrome cards given faster turnaround and competitive slab aesthetics. BGS is a distant third for this product category. For NCAA prospect autos (Dybantsa, Peterson, Watkins), grade the auto card \u2014 untouched autograph surfaces grade cleanest. For Retrofractor autograph variations of Shaq, consider preserving the college-era design integrity \u2014 these are already novelty-scarce without any grading premium. Avoid grading base cards and high-count parallels (/199+) unless you have a specific PC use case; economics won't support it.",
+  "errata": [
+    {
+      "date": "2026-04-24",
+      "summary": "Initial data sourcing complete. All 9 JSON files built from verified Topps odds PDF, Excel checklist, education sheet, and cross-referenced third-party coverage.",
+      "sectionsAffected": [
+        "parallels",
+        "checklist",
+        "autographs",
+        "inserts",
+        "teams",
+        "insights",
+        "resources"
+      ]
+    }
+  ],
+  "relatedReading": [
+    {
+      "slug": "2008-09-bowman-basketball",
+      "relationship": "previous-year",
+      "editorialBlurb": "The last full-scale Bowman Basketball NBA release \u2014 17 years before 2025-26. Features the 2008 NBA rookie class (Derrick Rose, Russell Westbrook, Kevin Love). Historical context for what returning Bowman Basketball means to The Hobby."
+    },
+    {
+      "slug": "2024-25-bowman-university-basketball",
+      "relationship": "previous-year",
+      "editorialBlurb": "The most recent Bowman U basketball release. NCAA-only, no NBA. The 2024-25 class was the last college-focused Bowman product before NBA licensing returned."
+    },
+    {
+      "slug": "2025-26-topps-chrome-basketball",
+      "relationship": "chrome-version",
+      "editorialBlurb": "The companion Topps Chrome Basketball release covering the same 2025 NBA rookie class. Watch for overlap on rookies like Cooper Flagg and Dylan Harper who appear in both products."
+    },
+    {
+      "slug": "2025-bowman-draft-baseball",
+      "relationship": "companion-set",
+      "editorialBlurb": "The baseball Bowman Draft release that debuted the Crystalized insert now making its basketball debut. Useful comparison for evaluating case-hit market patterns across sports."
+    }
+  ]
+}

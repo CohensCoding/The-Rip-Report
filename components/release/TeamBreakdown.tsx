@@ -1,8 +1,8 @@
-import type { Release } from "@/types/release";
+import type { LegacyRelease } from "@/types/legacy-release";
 
 import { ReleaseSection } from "./Section";
 
-export function TeamBreakdown({ release }: { release: Release }) {
+export function TeamBreakdown({ release }: { release: LegacyRelease }) {
   const teams = release.teamBreakdown ?? [];
   if (!teams.length) return null;
 

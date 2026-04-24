@@ -1,13 +1,11 @@
 import fs from "node:fs";
 import path from "node:path";
 
-import type {
-  Brand,
-  Manifest,
-  Release,
-  ReleaseManifestEntry,
-  Sport,
-} from "@/types/release";
+import type { Brand, Sport } from "@/types/common";
+import type { Manifest, ReleaseManifestEntry } from "@/types/manifest";
+import type { LegacyRelease } from "@/types/legacy-release";
+import { isV2ReleaseBundle, loadV2ReleaseBundle } from "@/lib/v2-release";
+import { v2BundleToLegacyRelease } from "@/lib/v2-to-legacy-release";
 
 const RELEASES_DIR = path.join(process.cwd(), "content", "releases");
 
@@ -61,16 +59,21 @@ export function getAllReleaseSlugs(): string[] {
   return getManifest().releases.map((r) => r.slug);
 }
 
-export function getReleaseBySlug(slug: string): Release | null {
+export function getReleaseBySlug(slug: string): LegacyRelease | null {
+  if (isV2ReleaseBundle(slug)) {
+    const bundle = loadV2ReleaseBundle(slug);
+    if (!bundle) return null;
+    return v2BundleToLegacyRelease(bundle);
+  }
   const filePath = path.join(RELEASES_DIR, `${slug}.json`);
-  const release = readJsonFile<Release>(filePath);
+  const release = readJsonFile<LegacyRelease>(filePath);
   if (!release) return null;
   return release;
 }
 
-export function getAllReleases(): Release[] {
+export function getAllReleases(): LegacyRelease[] {
   const manifest = getManifest();
-  const releases: Release[] = [];
+  const releases: LegacyRelease[] = [];
 
   for (const entry of manifest.releases) {
     const r = getReleaseBySlug(entry.slug);
@@ -86,7 +89,7 @@ export function getAllReleases(): Release[] {
   return sortByReleaseDateDesc(releases);
 }
 
-export function getFeaturedReleases(): Release[] {
+export function getFeaturedReleases(): LegacyRelease[] {
   const featuredSlugs = new Set(
     getManifest()
       .releases.filter((r) => r.featured === true)
@@ -96,11 +99,11 @@ export function getFeaturedReleases(): Release[] {
   return getAllReleases().filter((r) => featuredSlugs.has(r.slug));
 }
 
-export function getReleasesBySport(sport: Sport): Release[] {
+export function getReleasesBySport(sport: Sport): LegacyRelease[] {
   return getAllReleases().filter((r) => r.sport === sport);
 }
 
-export function getReleasesByBrand(brand: Brand): Release[] {
+export function getReleasesByBrand(brand: Brand): LegacyRelease[] {
   return getAllReleases().filter((r) => r.brand === brand);
 }
 

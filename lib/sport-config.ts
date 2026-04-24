@@ -1,4 +1,4 @@
-import type { Brand, Sport } from "@/types/release";
+import type { Brand, Sport } from "@/types/common";
 
 export const sportConfig: Record<
   Sport,
@@ -91,6 +91,7 @@ export const brandLabels: Record<Brand, string> = {
   bowman: "Bowman",
   "bowman-chrome": "Bowman Chrome",
   "bowman-draft": "Bowman Draft",
+  "bowman-university": "Bowman University",
   "panini-prizm": "Prizm",
   "panini-select": "Select",
   "panini-donruss": "Donruss",

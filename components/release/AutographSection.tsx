@@ -1,8 +1,8 @@
-import type { AutographSet, Release } from "@/types/release";
+import type { LegacyAutographSet, LegacyRelease } from "@/types/legacy-release";
 
 import { ReleaseSection } from "./Section";
 
-function AutographBlock({ set }: { set: AutographSet }) {
+function AutographBlock({ set }: { set: LegacyAutographSet }) {
   return (
     <div className="rounded-2xl border border-zinc-900 bg-zinc-950/25 p-6">
       <div className="flex flex-wrap items-start justify-between gap-4">
@@ -51,7 +51,7 @@ function AutographBlock({ set }: { set: AutographSet }) {
   );
 }
 
-export function AutographSection({ release }: { release: Release }) {
+export function AutographSection({ release }: { release: LegacyRelease }) {
   if (!release.autographs?.length) return null;
 
   return (

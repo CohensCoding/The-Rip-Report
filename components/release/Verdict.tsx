@@ -1,8 +1,8 @@
-import type { Release } from "@/types/release";
+import type { LegacyRelease } from "@/types/legacy-release";
 
 import { ReleaseSection } from "./Section";
 
-export function Verdict({ release }: { release: Release }) {
+export function Verdict({ release }: { release: LegacyRelease }) {
   const { verdict } = release;
   const gridCols = verdict.rating ? "md:grid-cols-3" : "md:grid-cols-2";
 

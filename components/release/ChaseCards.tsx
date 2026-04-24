@@ -1,10 +1,16 @@
 import { sportConfig } from "@/lib/sport-config";
 import { cn } from "@/lib/utils";
-import type { ChaseCard, Release } from "@/types/release";
+import type { LegacyChaseCard, LegacyRelease } from "@/types/legacy-release";
 
 import { ReleaseSection } from "./Section";
 
-function ChaseCardBlock({ release, card }: { release: Release; card: ChaseCard }) {
+function ChaseCardBlock({
+  release,
+  card,
+}: {
+  release: LegacyRelease;
+  card: LegacyChaseCard;
+}) {
   const sport = sportConfig[release.sport];
 
   return (
@@ -27,7 +33,7 @@ function ChaseCardBlock({ release, card }: { release: Release; card: ChaseCard }
   );
 }
 
-export function ChaseCards({ release }: { release: Release }) {
+export function ChaseCards({ release }: { release: LegacyRelease }) {
   const cards = release.chaseCards ?? [];
   if (!cards.length) return null;
 

@@ -2,7 +2,7 @@ import Link from "next/link";
 
 import { brandLabels, sportConfig } from "@/lib/sport-config";
 import { cn } from "@/lib/utils";
-import type { Release } from "@/types/release";
+import type { LegacyRelease } from "@/types/legacy-release";
 
 import { ReleaseHeroMedia } from "./ReleaseHeroMedia";
 
@@ -17,8 +17,15 @@ function formatReleaseDate(iso: string): string {
   }).format(d);
 }
 
-function StatusChip({ status }: { status: Release["status"] }) {
+function StatusChip({ status }: { status: LegacyRelease["status"] }) {
   if (status === "released") return null;
+  if (status === "dropped") {
+    return (
+      <span className="inline-flex items-center rounded-full bg-emerald-500/20 px-2 py-0.5 text-[10px] font-medium tracking-wide text-emerald-300 uppercase">
+        New
+      </span>
+    );
+  }
   if (status === "preorder") {
     return (
       <span className="inline-flex items-center rounded-full bg-amber-500/20 px-2 py-0.5 text-[10px] font-medium tracking-wide text-amber-400 uppercase">
@@ -33,7 +40,7 @@ function StatusChip({ status }: { status: Release["status"] }) {
   );
 }
 
-export function ReleaseTile({ release }: { release: Release }) {
+export function ReleaseTile({ release }: { release: LegacyRelease }) {
   const sport = sportConfig[release.sport];
   const brandLabel = brandLabels[release.brand] ?? release.brand;
 

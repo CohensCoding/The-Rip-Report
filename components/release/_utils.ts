@@ -1,4 +1,4 @@
-import type { Parallel } from "@/types/release";
+import type { LegacyParallel } from "@/types/legacy-release";
 
 export function formatUsd(amount: number): string {
   return new Intl.NumberFormat("en-US", {
@@ -21,7 +21,7 @@ export function formatLongDate(iso: string): string {
     .toUpperCase();
 }
 
-export function parallelBarWidthPercent(parallel: Parallel): number {
+export function parallelBarWidthPercent(parallel: LegacyParallel): number {
   const pr = parallel.printRun;
 
   if (typeof pr === "number" && Number.isFinite(pr) && pr > 0) {
@@ -44,7 +44,7 @@ export function parallelBarWidthPercent(parallel: Parallel): number {
   return 52;
 }
 
-export function printRunLabel(parallel: Parallel): string {
+export function printRunLabel(parallel: LegacyParallel): string {
   if (typeof parallel.printRun === "number" && Number.isFinite(parallel.printRun)) {
     return `/${parallel.printRun}`;
   }
@@ -54,7 +54,10 @@ export function printRunLabel(parallel: Parallel): string {
   return "UNNUMBERED";
 }
 
-export function printRunDisplay(parallel: Parallel): { kind: "slash" | "text"; value: string } {
+export function printRunDisplay(parallel: LegacyParallel): {
+  kind: "slash" | "text";
+  value: string;
+} {
   if (typeof parallel.printRun === "number" && Number.isFinite(parallel.printRun)) {
     return { kind: "slash", value: `/${parallel.printRun}` };
   }

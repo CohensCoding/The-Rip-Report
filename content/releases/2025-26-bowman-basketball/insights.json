@@ -1,0 +1,2054 @@
+{
+  "featuredTiles": [
+    {
+      "slug": "top-7-rookies-no-autos",
+      "headline": "Three top-7 rookies have zero autos",
+      "stat": "VJ Edgecombe, Tre Johnson III, Jeremiah Fears",
+      "caption": "The #3, #6, and #7 picks in the 2025 NBA Draft have base cards and inserts but not a single autograph. Two more first-rounders (Carter Bryant #14, Hugo Gonzalez #28) are also auto-less \u2014 but the top-7 cluster is the Panini-exclusive fingerprint.",
+      "iconType": "number",
+      "tier": "featured"
+    },
+    {
+      "slug": "flagg-brothers",
+      "headline": "The Flagg brothers share a 1st Bowman",
+      "stat": "Cooper #1 \u2014 Ace BPP-91",
+      "caption": "Cooper Flagg anchors the NBA base set at #1. Younger brother Ace Flagg lands on BPP-91 at Maine. Sibling set chase is real.",
+      "iconType": "player",
+      "iconSlug": "player-cooper-flagg",
+      "tier": "featured"
+    },
+    {
+      "slug": "ray-allen-sonics",
+      "headline": "Ray Allen's Young Kings card is a Supersonic",
+      "stat": "A team that hasn't existed since 2008",
+      "caption": "YK-25 features Ray Allen in Seattle green \u2014 the franchise Oklahoma City took over. Topps deliberately chose the signature era.",
+      "iconType": "team",
+      "tier": "featured"
+    },
+    {
+      "slug": "universal-one-of-one",
+      "headline": "Every card has a 1/1 parallel",
+      "stat": "400 cards, 400 holy grails",
+      "caption": "Every Base has Platinum Border /1. Every Paper Prospect has Platinum Border /1. Every Chrome Prospect has SuperFractor /1. Holy Grail ceiling is universal.",
+      "iconType": "parallel",
+      "tier": "featured"
+    },
+    {
+      "slug": "brooklyn-kentucky-uconn-tied",
+      "headline": "Three teams tied for most cards",
+      "stat": "Brooklyn, Kentucky, UConn \u2014 10 each",
+      "caption": "The deepest allocations in the product: Brooklyn's loaded rookie class, Kentucky's men-plus-women mix, UConn's Sarah Strong-led depth.",
+      "iconType": "team",
+      "tier": "featured"
+    },
+    {
+      "slug": "boozer-absence",
+      "headline": "Cameron Boozer: zero cards, full marketing",
+      "stat": "0 checklist, 0 autos, prominent education sheet",
+      "caption": "Topps' education sheet features Boozer as a top 2026 prospect. The actual checklist doesn't include him. Twin brother Cayden is also missing.",
+      "iconType": "player",
+      "tier": "featured"
+    }
+  ],
+  "allTiles": [
+    {
+      "slug": "top-7-rookies-no-autos",
+      "headline": "Three top-7 rookies have zero autos",
+      "stat": "VJ Edgecombe, Tre Johnson III, Jeremiah Fears",
+      "caption": "The #3, #6, and #7 picks in the 2025 NBA Draft have base cards and inserts but not a single autograph. Two more first-rounders (Carter Bryant #14, Hugo Gonzalez #28) are also auto-less \u2014 but the top-7 cluster is the Panini-exclusive fingerprint.",
+      "iconType": "number",
+      "tier": "featured"
+    },
+    {
+      "slug": "flagg-brothers",
+      "headline": "The Flagg brothers share a 1st Bowman",
+      "stat": "Cooper #1 \u2014 Ace BPP-91",
+      "caption": "Cooper Flagg anchors the NBA base set at #1. Younger brother Ace Flagg lands on BPP-91 at Maine. Sibling set chase is real.",
+      "iconType": "player",
+      "iconSlug": "player-cooper-flagg",
+      "tier": "featured"
+    },
+    {
+      "slug": "ray-allen-sonics",
+      "headline": "Ray Allen's Young Kings card is a Supersonic",
+      "stat": "A team that hasn't existed since 2008",
+      "caption": "YK-25 features Ray Allen in Seattle green \u2014 the franchise Oklahoma City took over. Topps deliberately chose the signature era.",
+      "iconType": "team",
+      "tier": "featured"
+    },
+    {
+      "slug": "universal-one-of-one",
+      "headline": "Every card has a 1/1 parallel",
+      "stat": "400 cards, 400 holy grails",
+      "caption": "Every Base has Platinum Border /1. Every Paper Prospect has Platinum Border /1. Every Chrome Prospect has SuperFractor /1. Holy Grail ceiling is universal.",
+      "iconType": "parallel",
+      "tier": "featured"
+    },
+    {
+      "slug": "brooklyn-kentucky-uconn-tied",
+      "headline": "Three teams tied for most cards",
+      "stat": "Brooklyn, Kentucky, UConn \u2014 10 each",
+      "caption": "The deepest allocations in the product: Brooklyn's loaded rookie class, Kentucky's men-plus-women mix, UConn's Sarah Strong-led depth.",
+      "iconType": "team",
+      "tier": "featured"
+    },
+    {
+      "slug": "boozer-absence",
+      "headline": "Cameron Boozer: zero cards, full marketing",
+      "stat": "0 checklist, 0 autos, prominent education sheet",
+      "caption": "Topps' education sheet features Boozer as a top 2026 prospect. The actual checklist doesn't include him. Twin brother Cayden is also missing.",
+      "iconType": "player",
+      "tier": "featured"
+    },
+    {
+      "slug": "four-identical-inserts",
+      "headline": "Four insert sets. Same 25 players. Same odds.",
+      "stat": "Talent Tracker \u00b7 Gen Next \u00b7 VIP \u00b7 Bowman Verified",
+      "caption": "Topps shipped the same 25-player NCAA pool across four structurally identical inserts with different wrapper art. Talent Tracker is the flagship; the rest are filler.",
+      "iconType": "number",
+      "tier": "secondary"
+    },
+    {
+      "slug": "shaqs-three-lives",
+      "headline": "Shaq is in this product three different ways",
+      "stat": "Young Kings (Lakers) \u00b7 Retrofractor (LSU) \u00b7 Retrofractor Auto (LSU)",
+      "caption": "One player, three eras, three cards. Modern star, college throwback, college throwback autograph. Only Shaq in the Retrofractor auto since Bill Russell is deceased.",
+      "iconType": "player",
+      "tier": "secondary"
+    },
+    {
+      "slug": "wcbb-split",
+      "headline": "30% of prospects are women",
+      "stat": "60 WCBB / 140 NCAA-M",
+      "caption": "First serious women's basketball representation in a Bowman NBA product. Juju Watkins, Madison Booker, and Sarah Strong headline.",
+      "iconType": "chart",
+      "tier": "secondary"
+    },
+    {
+      "slug": "hannah-hidalgo-missing",
+      "headline": "Hannah Hidalgo is the glaring WCBB absence",
+      "stat": "Notre Dame superstar, zero inclusion",
+      "caption": "The most obvious omission in the women's lineup. One of the most-demanded NIL names in college basketball, not in the product.",
+      "iconType": "player",
+      "tier": "secondary"
+    },
+    {
+      "slug": "timeless-touch-easiest-auto",
+      "headline": "Easiest auto pull in the product: 1:72",
+      "stat": "Timeless Touch Signatures",
+      "caption": "Wemby, Cade, Edey, Risacher sign here. Most accessible path to an NBA star auto \u2014 though the individual print runs are wide.",
+      "iconType": "number",
+      "tier": "secondary"
+    },
+    {
+      "slug": "mega-mojo-rainbow",
+      "headline": "The entire Mojo rainbow is Mega-only",
+      "stat": "8 Mojo parallels, zero in Hobby/Jumbo/Value",
+      "caption": "If you want Mojo, you buy Mega. Blue Mojo /150 down to Rose Gold Mojo /1 \u2014 the rarest single parallel in the product, and only in one format.",
+      "iconType": "parallel",
+      "tier": "secondary"
+    },
+    {
+      "slug": "sapphire-mystery",
+      "headline": "Sapphire parallels have no per-pack odds",
+      "stat": "14 Sapphire cards, zero odds data",
+      "caption": "Topps doesn't publish odds for Sapphire because every pack in a Sapphire Box is a Sapphire. Format economics replace pack economics.",
+      "iconType": "parallel",
+      "tier": "secondary"
+    },
+    {
+      "slug": "mass-one-of-ones",
+      "headline": "1,500+ unique 1/1 cards in the base checklist alone",
+      "stat": "10 /1 parallels \u00d7 400 cards = 1,500 /1 instances",
+      "caption": "Platinum Border, Chrome SuperFractor, Padparadscha Sapphire, Black Mojo, Rose Gold Mojo \u2014 each base, paper prospect, and chrome prospect card has multiple /1 parallels. Insert /1s push the total well above 2,000. Scarcity at scale.",
+      "iconType": "chart",
+      "tier": "secondary"
+    },
+    {
+      "slug": "retrofractor-legends",
+      "headline": "Retrofractor is a 2-card legend variation",
+      "stat": "Bill Russell (San Francisco) \u00b7 Shaquille O'Neal (LSU)",
+      "caption": "The sneaky best case hit. College-era photography of two HOFers who never had a 1st Bowman before. Russell's imagery alone is a rarity.",
+      "iconType": "player",
+      "tier": "secondary"
+    },
+    {
+      "slug": "dallas-flagg-only",
+      "headline": "Dallas has 5 cards. One is Flagg.",
+      "stat": "Dallas Mavericks roster",
+      "caption": "The smallest NBA team allocation pairs 4 veterans with the face of the draft. Per-card, Dallas is the most Flagg-dependent team in the product.",
+      "iconType": "team",
+      "tier": "secondary"
+    },
+    {
+      "slug": "duke-boozer-paradox",
+      "headline": "Duke's Boozer paradox",
+      "stat": "Top 2026 prospects \u00b7 zero Duke Boozer cards",
+      "caption": "Cameron and Cayden Boozer both play for Duke. Both are top 2026 NBA Draft projections. Neither is in the product. The Boozer no-show is Duke's biggest storyline.",
+      "iconType": "team",
+      "tier": "secondary"
+    },
+    {
+      "slug": "first-nba-bowman-in-17-years",
+      "headline": "First NBA Bowman in 17 years",
+      "stat": "Last full release: 2008-09",
+      "caption": "Bowman Basketball's NBA identity has been dormant since 2008-09. The Fanatics/Topps NBA exclusive reopens the door \u2014 this is the first product through it.",
+      "iconType": "number",
+      "tier": "secondary"
+    },
+    {
+      "slug": "anime-chase-lead",
+      "headline": "Anime is projected to outperform every other case hit",
+      "stat": "Carryover from Bowman Baseball's biggest chase",
+      "caption": "Anime has been Topps' most consistently over-performing case hit in baseball. Basketball demand projected to match or exceed. Flagg and Dybantsa lead the 25-card NBA run.",
+      "iconType": "chart",
+      "tier": "secondary"
+    },
+    {
+      "slug": "kentucky-depth",
+      "headline": "Kentucky's 10 cards span both genders",
+      "stat": "5 men + 2 women (\u00d72 subsets) = 10 cards",
+      "caption": "Jasper Johnson anchors the men. Kaelyn Carroll leads the women. Kentucky is the deepest dual-gender NCAA allocation in the product.",
+      "iconType": "team",
+      "tier": "secondary"
+    },
+    {
+      "slug": "uconn-womens-anchor",
+      "headline": "UConn's 10 cards are anchored by Sarah Strong",
+      "stat": "3 women + 2 men (\u00d72 subsets)",
+      "caption": "UConn shows up heavier on the women's side than most programs. Strong is the Juju Watkins of New England \u2014 only with more room to grow.",
+      "iconType": "team",
+      "tier": "secondary"
+    }
+  ],
+  "playerRainbows": [
+    {
+      "playerSlug": "cooper-flagg",
+      "playerName": "Cooper Flagg",
+      "teamSlug": "dallas-mavericks",
+      "totalParallels": 77,
+      "breakdown": [
+        {
+          "groupName": "Base",
+          "parallelSlugs": [
+            "purple-border",
+            "pink-border",
+            "blue-border",
+            "green-border",
+            "green-pattern-border",
+            "yellow-border",
+            "gold-border",
+            "orange-border",
+            "black-border",
+            "black-pattern-border",
+            "red-border",
+            "platinum-border",
+            "chrome",
+            "chrome-mini-diamond-refractor",
+            "chrome-refractor",
+            "chrome-lava-refractor",
+            "chrome-speckle-refractor",
+            "chrome-purple-refractor",
+            "chrome-fuchsia-refractor",
+            "chrome-blue-refractor",
+            "chrome-blue-shimmer-refractor",
+            "chrome-floorboard-refractor",
+            "chrome-steel-metal-refractor",
+            "chrome-green-refractor",
+            "chrome-green-shimmer-refractor",
+            "chrome-yellow-refractor",
+            "chrome-yellow-x-fractor",
+            "chrome-yellow-wave-refractor",
+            "chrome-gold-refractor",
+            "chrome-gold-shimmer-refractor",
+            "chrome-orange-refractor",
+            "chrome-orange-shimmer-refractor",
+            "chrome-rose-gold-refractor",
+            "chrome-rose-gold-mini-diamond-refractor",
+            "chrome-rose-gold-x-fractor",
+            "chrome-black-refractor",
+            "chrome-black-x-fractor",
+            "chrome-red-refractor",
+            "chrome-red-lava-refractor",
+            "chrome-red-x-fractor",
+            "chrome-firefractor",
+            "chrome-superfractor",
+            "chrome-reptilian-refractor",
+            "chrome-reptilian-fuchsia-refractor",
+            "chrome-reptilian-blue-refractor",
+            "chrome-reptilian-green-refractor",
+            "chrome-reptilian-gold-refractor",
+            "chrome-reptilian-orange-refractor",
+            "chrome-reptilian-red-refractor",
+            "chrome-geometric",
+            "chrome-green-geometric",
+            "chrome-gold-geometric",
+            "chrome-orange-geometric",
+            "chrome-black-geometric",
+            "chrome-red-geometric",
+            "chrome-sapphire",
+            "chrome-yellow-sapphire",
+            "chrome-gold-sapphire",
+            "chrome-orange-sapphire",
+            "chrome-black-sapphire",
+            "chrome-red-sapphire",
+            "chrome-padparadscha-sapphire",
+            "chrome-mojo",
+            "chrome-fuchsia-mojo",
+            "chrome-burgundy-mojo",
+            "chrome-purple-mojo",
+            "chrome-pink-mojo",
+            "chrome-navy-mojo",
+            "chrome-blue-mojo",
+            "chrome-aqua-mojo",
+            "chrome-green-mojo",
+            "chrome-yellow-mojo",
+            "chrome-gold-mojo",
+            "chrome-orange-mojo",
+            "chrome-red-mojo",
+            "chrome-black-mojo",
+            "chrome-rose-gold-mojo"
+          ]
+        }
+      ],
+      "insertAppearances": [
+        "roy-favorites",
+        "hobby-stars",
+        "rockstar-rookies",
+        "greatness-loading",
+        "mega-rookies",
+        "base-etched-in-glass-variation",
+        "bowman-spotlights-nba",
+        "crystalized-nba",
+        "anime-nba",
+        "bowman-gpk-nba"
+      ],
+      "autoSetCount": 3,
+      "autoSets": [
+        "chrome-autographs",
+        "opening-statement-signatures",
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "rarestParallelSlug": "chrome-superfractor"
+    },
+    {
+      "playerSlug": "aj-dybantsa",
+      "playerName": "AJ Dybantsa",
+      "teamSlug": "ncaa-byu",
+      "totalParallels": 70,
+      "breakdown": [
+        {
+          "groupName": "Paper Prospects",
+          "parallelSlugs": [
+            "paper-prospect-purple-border",
+            "paper-prospect-pink-border",
+            "paper-prospect-blue-border",
+            "paper-prospect-green-border",
+            "paper-prospect-green-pattern-border",
+            "paper-prospect-yellow-border",
+            "paper-prospect-gold-border",
+            "paper-prospect-orange-border",
+            "paper-prospect-black-border",
+            "paper-prospect-black-pattern-border",
+            "paper-prospect-red-border",
+            "paper-prospect-platinum-border"
+          ]
+        },
+        {
+          "groupName": "Chrome Prospects",
+          "parallelSlugs": [
+            "chrome-prospect",
+            "chrome-prospect-mini-diamond-refractor",
+            "chrome-prospect-refractor",
+            "chrome-prospect-lava-refractor",
+            "chrome-prospect-speckle-refractor",
+            "chrome-prospect-purple-refractor",
+            "chrome-prospect-fuchsia-refractor",
+            "chrome-prospect-blue-refractor",
+            "chrome-prospect-aqua-x-fractor",
+            "chrome-prospect-floorboard-refractor",
+            "chrome-prospect-steel-metal-refractor",
+            "chrome-prospect-green-refractor",
+            "chrome-prospect-green-shimmer-refractor",
+            "chrome-prospect-yellow-refractor",
+            "chrome-prospect-yellow-x-fractor",
+            "chrome-prospect-gold-refractor",
+            "chrome-prospect-orange-refractor",
+            "chrome-prospect-rose-gold-refractor",
+            "chrome-prospect-rose-gold-mini-diamond-refractor",
+            "chrome-prospect-black-refractor",
+            "chrome-prospect-black-x-fractor",
+            "chrome-prospect-red-refractor",
+            "chrome-prospect-firefractor",
+            "chrome-prospect-superfractor",
+            "chrome-prospect-reptilian-refractor",
+            "chrome-prospect-reptilian-blue-refractor",
+            "chrome-prospect-reptilian-green-refractor",
+            "chrome-prospect-reptilian-gold-refractor",
+            "chrome-prospect-reptilian-orange-refractor",
+            "chrome-prospect-reptilian-red-refractor",
+            "chrome-prospect-geometric",
+            "chrome-prospect-green-geometric",
+            "chrome-prospect-gold-geometric",
+            "chrome-prospect-orange-geometric",
+            "chrome-prospect-black-geometric",
+            "chrome-prospect-red-geometric",
+            "chrome-prospect-sapphire",
+            "chrome-prospect-yellow-sapphire",
+            "chrome-prospect-gold-sapphire",
+            "chrome-prospect-orange-sapphire",
+            "chrome-prospect-black-sapphire",
+            "chrome-prospect-red-sapphire",
+            "chrome-prospect-padparadscha-sapphire",
+            "chrome-prospect-mojo",
+            "chrome-prospect-fuchsia-mojo",
+            "chrome-prospect-burgundy-mojo",
+            "chrome-prospect-purple-mojo",
+            "chrome-prospect-pink-mojo",
+            "chrome-prospect-navy-mojo",
+            "chrome-prospect-blue-mojo",
+            "chrome-prospect-aqua-mojo",
+            "chrome-prospect-green-mojo",
+            "chrome-prospect-yellow-mojo",
+            "chrome-prospect-gold-mojo",
+            "chrome-prospect-orange-mojo",
+            "chrome-prospect-red-mojo",
+            "chrome-prospect-black-mojo",
+            "chrome-prospect-rose-gold-mojo"
+          ]
+        }
+      ],
+      "insertAppearances": [
+        "talent-tracker",
+        "gen-next",
+        "very-important-prospects",
+        "bowman-verified",
+        "mega-prospects",
+        "chrome-prospect-etched-in-glass-variation",
+        "bowman-spotlights-nil",
+        "crystalized-nil",
+        "anime-nil",
+        "bowman-gpk-nil"
+      ],
+      "autoSetCount": 4,
+      "autoSets": [
+        "bowman-dual-autographs",
+        "chrome-prospect-autographs",
+        "future-script",
+        "paper-prospect-retail-autograph"
+      ],
+      "rarestParallelSlug": "superfractor"
+    },
+    {
+      "playerSlug": "darryn-peterson",
+      "playerName": "Darryn Peterson",
+      "teamSlug": "ncaa-kansas",
+      "totalParallels": 70,
+      "breakdown": [
+        {
+          "groupName": "Paper Prospects",
+          "parallelSlugs": [
+            "paper-prospect-purple-border",
+            "paper-prospect-pink-border",
+            "paper-prospect-blue-border",
+            "paper-prospect-green-border",
+            "paper-prospect-green-pattern-border",
+            "paper-prospect-yellow-border",
+            "paper-prospect-gold-border",
+            "paper-prospect-orange-border",
+            "paper-prospect-black-border",
+            "paper-prospect-black-pattern-border",
+            "paper-prospect-red-border",
+            "paper-prospect-platinum-border"
+          ]
+        },
+        {
+          "groupName": "Chrome Prospects",
+          "parallelSlugs": [
+            "chrome-prospect",
+            "chrome-prospect-mini-diamond-refractor",
+            "chrome-prospect-refractor",
+            "chrome-prospect-lava-refractor",
+            "chrome-prospect-speckle-refractor",
+            "chrome-prospect-purple-refractor",
+            "chrome-prospect-fuchsia-refractor",
+            "chrome-prospect-blue-refractor",
+            "chrome-prospect-aqua-x-fractor",
+            "chrome-prospect-floorboard-refractor",
+            "chrome-prospect-steel-metal-refractor",
+            "chrome-prospect-green-refractor",
+            "chrome-prospect-green-shimmer-refractor",
+            "chrome-prospect-yellow-refractor",
+            "chrome-prospect-yellow-x-fractor",
+            "chrome-prospect-gold-refractor",
+            "chrome-prospect-orange-refractor",
+            "chrome-prospect-rose-gold-refractor",
+            "chrome-prospect-rose-gold-mini-diamond-refractor",
+            "chrome-prospect-black-refractor",
+            "chrome-prospect-black-x-fractor",
+            "chrome-prospect-red-refractor",
+            "chrome-prospect-firefractor",
+            "chrome-prospect-superfractor",
+            "chrome-prospect-reptilian-refractor",
+            "chrome-prospect-reptilian-blue-refractor",
+            "chrome-prospect-reptilian-green-refractor",
+            "chrome-prospect-reptilian-gold-refractor",
+            "chrome-prospect-reptilian-orange-refractor",
+            "chrome-prospect-reptilian-red-refractor",
+            "chrome-prospect-geometric",
+            "chrome-prospect-green-geometric",
+            "chrome-prospect-gold-geometric",
+            "chrome-prospect-orange-geometric",
+            "chrome-prospect-black-geometric",
+            "chrome-prospect-red-geometric",
+            "chrome-prospect-sapphire",
+            "chrome-prospect-yellow-sapphire",
+            "chrome-prospect-gold-sapphire",
+            "chrome-prospect-orange-sapphire",
+            "chrome-prospect-black-sapphire",
+            "chrome-prospect-red-sapphire",
+            "chrome-prospect-padparadscha-sapphire",
+            "chrome-prospect-mojo",
+            "chrome-prospect-fuchsia-mojo",
+            "chrome-prospect-burgundy-mojo",
+            "chrome-prospect-purple-mojo",
+            "chrome-prospect-pink-mojo",
+            "chrome-prospect-navy-mojo",
+            "chrome-prospect-blue-mojo",
+            "chrome-prospect-aqua-mojo",
+            "chrome-prospect-green-mojo",
+            "chrome-prospect-yellow-mojo",
+            "chrome-prospect-gold-mojo",
+            "chrome-prospect-orange-mojo",
+            "chrome-prospect-red-mojo",
+            "chrome-prospect-black-mojo",
+            "chrome-prospect-rose-gold-mojo"
+          ]
+        }
+      ],
+      "insertAppearances": [
+        "talent-tracker",
+        "gen-next",
+        "very-important-prospects",
+        "bowman-verified",
+        "mega-prospects",
+        "chrome-prospect-etched-in-glass-variation",
+        "bowman-spotlights-nil",
+        "crystalized-nil",
+        "anime-nil",
+        "bowman-gpk-nil"
+      ],
+      "autoSetCount": 4,
+      "autoSets": [
+        "bowman-dual-autographs",
+        "chrome-prospect-autographs",
+        "future-script",
+        "paper-prospect-retail-autograph"
+      ],
+      "rarestParallelSlug": "superfractor"
+    },
+    {
+      "playerSlug": "juju-watkins",
+      "playerName": "Juju Watkins",
+      "teamSlug": "ncaa-usc",
+      "totalParallels": 70,
+      "breakdown": [
+        {
+          "groupName": "Paper Prospects",
+          "parallelSlugs": [
+            "paper-prospect-purple-border",
+            "paper-prospect-pink-border",
+            "paper-prospect-blue-border",
+            "paper-prospect-green-border",
+            "paper-prospect-green-pattern-border",
+            "paper-prospect-yellow-border",
+            "paper-prospect-gold-border",
+            "paper-prospect-orange-border",
+            "paper-prospect-black-border",
+            "paper-prospect-black-pattern-border",
+            "paper-prospect-red-border",
+            "paper-prospect-platinum-border"
+          ]
+        },
+        {
+          "groupName": "Chrome Prospects",
+          "parallelSlugs": [
+            "chrome-prospect",
+            "chrome-prospect-mini-diamond-refractor",
+            "chrome-prospect-refractor",
+            "chrome-prospect-lava-refractor",
+            "chrome-prospect-speckle-refractor",
+            "chrome-prospect-purple-refractor",
+            "chrome-prospect-fuchsia-refractor",
+            "chrome-prospect-blue-refractor",
+            "chrome-prospect-aqua-x-fractor",
+            "chrome-prospect-floorboard-refractor",
+            "chrome-prospect-steel-metal-refractor",
+            "chrome-prospect-green-refractor",
+            "chrome-prospect-green-shimmer-refractor",
+            "chrome-prospect-yellow-refractor",
+            "chrome-prospect-yellow-x-fractor",
+            "chrome-prospect-gold-refractor",
+            "chrome-prospect-orange-refractor",
+            "chrome-prospect-rose-gold-refractor",
+            "chrome-prospect-rose-gold-mini-diamond-refractor",
+            "chrome-prospect-black-refractor",
+            "chrome-prospect-black-x-fractor",
+            "chrome-prospect-red-refractor",
+            "chrome-prospect-firefractor",
+            "chrome-prospect-superfractor",
+            "chrome-prospect-reptilian-refractor",
+            "chrome-prospect-reptilian-blue-refractor",
+            "chrome-prospect-reptilian-green-refractor",
+            "chrome-prospect-reptilian-gold-refractor",
+            "chrome-prospect-reptilian-orange-refractor",
+            "chrome-prospect-reptilian-red-refractor",
+            "chrome-prospect-geometric",
+            "chrome-prospect-green-geometric",
+            "chrome-prospect-gold-geometric",
+            "chrome-prospect-orange-geometric",
+            "chrome-prospect-black-geometric",
+            "chrome-prospect-red-geometric",
+            "chrome-prospect-sapphire",
+            "chrome-prospect-yellow-sapphire",
+            "chrome-prospect-gold-sapphire",
+            "chrome-prospect-orange-sapphire",
+            "chrome-prospect-black-sapphire",
+            "chrome-prospect-red-sapphire",
+            "chrome-prospect-padparadscha-sapphire",
+            "chrome-prospect-mojo",
+            "chrome-prospect-fuchsia-mojo",
+            "chrome-prospect-burgundy-mojo",
+            "chrome-prospect-purple-mojo",
+            "chrome-prospect-pink-mojo",
+            "chrome-prospect-navy-mojo",
+            "chrome-prospect-blue-mojo",
+            "chrome-prospect-aqua-mojo",
+            "chrome-prospect-green-mojo",
+            "chrome-prospect-yellow-mojo",
+            "chrome-prospect-gold-mojo",
+            "chrome-prospect-orange-mojo",
+            "chrome-prospect-red-mojo",
+            "chrome-prospect-black-mojo",
+            "chrome-prospect-rose-gold-mojo"
+          ]
+        }
+      ],
+      "insertAppearances": [
+        "talent-tracker",
+        "gen-next",
+        "very-important-prospects",
+        "bowman-verified",
+        "mega-prospects",
+        "chrome-prospect-etched-in-glass-variation",
+        "bowman-spotlights-nil",
+        "crystalized-nil",
+        "anime-nil"
+      ],
+      "autoSetCount": 3,
+      "autoSets": [
+        "bowman-dual-autographs",
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "rarestParallelSlug": "superfractor"
+    },
+    {
+      "playerSlug": "dylan-harper",
+      "playerName": "Dylan Harper",
+      "teamSlug": "san-antonio-spurs",
+      "totalParallels": 77,
+      "breakdown": [
+        {
+          "groupName": "Base",
+          "parallelSlugs": [
+            "purple-border",
+            "pink-border",
+            "blue-border",
+            "green-border",
+            "green-pattern-border",
+            "yellow-border",
+            "gold-border",
+            "orange-border",
+            "black-border",
+            "black-pattern-border",
+            "red-border",
+            "platinum-border",
+            "chrome",
+            "chrome-mini-diamond-refractor",
+            "chrome-refractor",
+            "chrome-lava-refractor",
+            "chrome-speckle-refractor",
+            "chrome-purple-refractor",
+            "chrome-fuchsia-refractor",
+            "chrome-blue-refractor",
+            "chrome-blue-shimmer-refractor",
+            "chrome-floorboard-refractor",
+            "chrome-steel-metal-refractor",
+            "chrome-green-refractor",
+            "chrome-green-shimmer-refractor",
+            "chrome-yellow-refractor",
+            "chrome-yellow-x-fractor",
+            "chrome-yellow-wave-refractor",
+            "chrome-gold-refractor",
+            "chrome-gold-shimmer-refractor",
+            "chrome-orange-refractor",
+            "chrome-orange-shimmer-refractor",
+            "chrome-rose-gold-refractor",
+            "chrome-rose-gold-mini-diamond-refractor",
+            "chrome-rose-gold-x-fractor",
+            "chrome-black-refractor",
+            "chrome-black-x-fractor",
+            "chrome-red-refractor",
+            "chrome-red-lava-refractor",
+            "chrome-red-x-fractor",
+            "chrome-firefractor",
+            "chrome-superfractor",
+            "chrome-reptilian-refractor",
+            "chrome-reptilian-fuchsia-refractor",
+            "chrome-reptilian-blue-refractor",
+            "chrome-reptilian-green-refractor",
+            "chrome-reptilian-gold-refractor",
+            "chrome-reptilian-orange-refractor",
+            "chrome-reptilian-red-refractor",
+            "chrome-geometric",
+            "chrome-green-geometric",
+            "chrome-gold-geometric",
+            "chrome-orange-geometric",
+            "chrome-black-geometric",
+            "chrome-red-geometric",
+            "chrome-sapphire",
+            "chrome-yellow-sapphire",
+            "chrome-gold-sapphire",
+            "chrome-orange-sapphire",
+            "chrome-black-sapphire",
+            "chrome-red-sapphire",
+            "chrome-padparadscha-sapphire",
+            "chrome-mojo",
+            "chrome-fuchsia-mojo",
+            "chrome-burgundy-mojo",
+            "chrome-purple-mojo",
+            "chrome-pink-mojo",
+            "chrome-navy-mojo",
+            "chrome-blue-mojo",
+            "chrome-aqua-mojo",
+            "chrome-green-mojo",
+            "chrome-yellow-mojo",
+            "chrome-gold-mojo",
+            "chrome-orange-mojo",
+            "chrome-red-mojo",
+            "chrome-black-mojo",
+            "chrome-rose-gold-mojo"
+          ]
+        }
+      ],
+      "insertAppearances": [
+        "roy-favorites",
+        "hobby-stars",
+        "rockstar-rookies",
+        "greatness-loading",
+        "mega-rookies",
+        "base-etched-in-glass-variation",
+        "bowman-spotlights-nba",
+        "crystalized-nba",
+        "anime-nba",
+        "bowman-gpk-nba"
+      ],
+      "autoSetCount": 3,
+      "autoSets": [
+        "chrome-autographs",
+        "opening-statement-signatures",
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "rarestParallelSlug": "chrome-superfractor"
+    }
+  ],
+  "teamDataViz": {
+    "autographDensityByTeam": [
+      {
+        "teamSlug": "orlando-magic",
+        "teamName": "Orlando Magic",
+        "autoSignerCount": 6,
+        "totalCards": 7,
+        "densityRatio": 0.857
+      },
+      {
+        "teamSlug": "charlotte-hornets",
+        "teamName": "Charlotte Hornets",
+        "autoSignerCount": 6,
+        "totalCards": 8,
+        "densityRatio": 0.75
+      },
+      {
+        "teamSlug": "oklahoma-city-thunder",
+        "teamName": "Oklahoma City Thunder",
+        "autoSignerCount": 6,
+        "totalCards": 8,
+        "densityRatio": 0.75
+      },
+      {
+        "teamSlug": "utah-jazz",
+        "teamName": "Utah Jazz",
+        "autoSignerCount": 6,
+        "totalCards": 8,
+        "densityRatio": 0.75
+      },
+      {
+        "teamSlug": "phoenix-suns",
+        "teamName": "Phoenix Suns",
+        "autoSignerCount": 5,
+        "totalCards": 7,
+        "densityRatio": 0.714
+      },
+      {
+        "teamSlug": "los-angeles-clippers",
+        "teamName": "LA Clippers",
+        "autoSignerCount": 4,
+        "totalCards": 6,
+        "densityRatio": 0.667
+      },
+      {
+        "teamSlug": "minnesota-timberwolves",
+        "teamName": "Minnesota Timberwolves",
+        "autoSignerCount": 4,
+        "totalCards": 6,
+        "densityRatio": 0.667
+      },
+      {
+        "teamSlug": "san-antonio-spurs",
+        "teamName": "San Antonio Spurs",
+        "autoSignerCount": 4,
+        "totalCards": 7,
+        "densityRatio": 0.571
+      },
+      {
+        "teamSlug": "atlanta-hawks",
+        "teamName": "Atlanta Hawks",
+        "autoSignerCount": 3,
+        "totalCards": 6,
+        "densityRatio": 0.5
+      },
+      {
+        "teamSlug": "brooklyn-nets",
+        "teamName": "Brooklyn Nets",
+        "autoSignerCount": 5,
+        "totalCards": 10,
+        "densityRatio": 0.5
+      },
+      {
+        "teamSlug": "cleveland-cavaliers",
+        "teamName": "Cleveland Cavaliers",
+        "autoSignerCount": 3,
+        "totalCards": 6,
+        "densityRatio": 0.5
+      },
+      {
+        "teamSlug": "detroit-pistons",
+        "teamName": "Detroit Pistons",
+        "autoSignerCount": 3,
+        "totalCards": 6,
+        "densityRatio": 0.5
+      },
+      {
+        "teamSlug": "indiana-pacers",
+        "teamName": "Indiana Pacers",
+        "autoSignerCount": 4,
+        "totalCards": 8,
+        "densityRatio": 0.5
+      },
+      {
+        "teamSlug": "los-angeles-lakers",
+        "teamName": "Los Angeles Lakers",
+        "autoSignerCount": 3,
+        "totalCards": 6,
+        "densityRatio": 0.5
+      },
+      {
+        "teamSlug": "memphis-grizzlies",
+        "teamName": "Memphis Grizzlies",
+        "autoSignerCount": 4,
+        "totalCards": 8,
+        "densityRatio": 0.5
+      },
+      {
+        "teamSlug": "miami-heat",
+        "teamName": "Miami Heat",
+        "autoSignerCount": 3,
+        "totalCards": 6,
+        "densityRatio": 0.5
+      },
+      {
+        "teamSlug": "sacramento-kings",
+        "teamName": "Sacramento Kings",
+        "autoSignerCount": 3,
+        "totalCards": 6,
+        "densityRatio": 0.5
+      },
+      {
+        "teamSlug": "toronto-raptors",
+        "teamName": "Toronto Raptors",
+        "autoSignerCount": 3,
+        "totalCards": 6,
+        "densityRatio": 0.5
+      },
+      {
+        "teamSlug": "boston-celtics",
+        "teamName": "Boston Celtics",
+        "autoSignerCount": 3,
+        "totalCards": 7,
+        "densityRatio": 0.429
+      },
+      {
+        "teamSlug": "golden-state-warriors",
+        "teamName": "Golden State Warriors",
+        "autoSignerCount": 3,
+        "totalCards": 7,
+        "densityRatio": 0.429
+      },
+      {
+        "teamSlug": "denver-nuggets",
+        "teamName": "Denver Nuggets",
+        "autoSignerCount": 2,
+        "totalCards": 6,
+        "densityRatio": 0.333
+      },
+      {
+        "teamSlug": "new-orleans-pelicans",
+        "teamName": "New Orleans Pelicans",
+        "autoSignerCount": 2,
+        "totalCards": 6,
+        "densityRatio": 0.333
+      },
+      {
+        "teamSlug": "portland-trail-blazers",
+        "teamName": "Portland Trail Blazers",
+        "autoSignerCount": 2,
+        "totalCards": 6,
+        "densityRatio": 0.333
+      },
+      {
+        "teamSlug": "washington-wizards",
+        "teamName": "Washington Wizards",
+        "autoSignerCount": 3,
+        "totalCards": 9,
+        "densityRatio": 0.333
+      },
+      {
+        "teamSlug": "chicago-bulls",
+        "teamName": "Chicago Bulls",
+        "autoSignerCount": 2,
+        "totalCards": 7,
+        "densityRatio": 0.286
+      },
+      {
+        "teamSlug": "dallas-mavericks",
+        "teamName": "Dallas Mavericks",
+        "autoSignerCount": 1,
+        "totalCards": 5,
+        "densityRatio": 0.2
+      },
+      {
+        "teamSlug": "houston-rockets",
+        "teamName": "Houston Rockets",
+        "autoSignerCount": 1,
+        "totalCards": 5,
+        "densityRatio": 0.2
+      },
+      {
+        "teamSlug": "milwaukee-bucks",
+        "teamName": "Milwaukee Bucks",
+        "autoSignerCount": 1,
+        "totalCards": 5,
+        "densityRatio": 0.2
+      },
+      {
+        "teamSlug": "new-york-knicks",
+        "teamName": "New York Knicks",
+        "autoSignerCount": 1,
+        "totalCards": 5,
+        "densityRatio": 0.2
+      },
+      {
+        "teamSlug": "philadelphia-76ers",
+        "teamName": "Philadelphia 76ers",
+        "autoSignerCount": 1,
+        "totalCards": 7,
+        "densityRatio": 0.143
+      }
+    ],
+    "rookieDistributionByConference": [
+      {
+        "conference": "Big 12",
+        "rookieCount": 16,
+        "schoolCount": 7,
+        "notableRookies": [
+          "AJ Dybantsa",
+          "Darryn Peterson"
+        ]
+      },
+      {
+        "conference": "ACC",
+        "rookieCount": 15,
+        "schoolCount": 10,
+        "notableRookies": []
+      },
+      {
+        "conference": "SEC",
+        "rookieCount": 13,
+        "schoolCount": 8,
+        "notableRookies": []
+      },
+      {
+        "conference": "Big Ten",
+        "rookieCount": 12,
+        "schoolCount": 10,
+        "notableRookies": []
+      },
+      {
+        "conference": "Big East",
+        "rookieCount": 11,
+        "schoolCount": 6,
+        "notableRookies": []
+      },
+      {
+        "conference": "WCC",
+        "rookieCount": 1,
+        "schoolCount": 1,
+        "notableRookies": []
+      },
+      {
+        "conference": "America East",
+        "rookieCount": 1,
+        "schoolCount": 1,
+        "notableRookies": []
+      },
+      {
+        "conference": "Atlantic 10",
+        "rookieCount": 1,
+        "schoolCount": 1,
+        "notableRookies": []
+      }
+    ]
+  },
+  "productDataViz": {
+    "parallelCountDistribution": [
+      {
+        "label": "Unnumbered",
+        "printRunRange": "unnumbered",
+        "parallelCount": 12
+      },
+      {
+        "label": "/1",
+        "printRunRange": [
+          1,
+          1
+        ],
+        "parallelCount": 10
+      },
+      {
+        "label": "/2-5",
+        "printRunRange": [
+          2,
+          5
+        ],
+        "parallelCount": 16
+      },
+      {
+        "label": "/6-10",
+        "printRunRange": [
+          6,
+          10
+        ],
+        "parallelCount": 12
+      },
+      {
+        "label": "/11-25",
+        "printRunRange": [
+          11,
+          25
+        ],
+        "parallelCount": 18
+      },
+      {
+        "label": "/26-50",
+        "printRunRange": [
+          26,
+          50
+        ],
+        "parallelCount": 13
+      },
+      {
+        "label": "/51-99",
+        "printRunRange": [
+          51,
+          99
+        ],
+        "parallelCount": 25
+      },
+      {
+        "label": "/100-150",
+        "printRunRange": [
+          100,
+          150
+        ],
+        "parallelCount": 16
+      },
+      {
+        "label": "/151-250",
+        "printRunRange": [
+          151,
+          250
+        ],
+        "parallelCount": 15
+      },
+      {
+        "label": "/251+",
+        "printRunRange": [
+          251,
+          9999
+        ],
+        "parallelCount": 10
+      }
+    ],
+    "caseHitProbability": {
+      "description": "Approximate case-level case-hit probability across all 11 case-hit inserts and variations. Assumes standard 12-box Hobby case.",
+      "pullRate": "~1-2 case hits per Hobby case on average",
+      "notes": "Specific case hits vary: Anime NBA and Spotlights NBA are tightest (1:1,663-1:1,733 Hobby) while Retrofractor Variation and GPK NBA are deeper (1:13,050). Multi-case orders recommended for specific chases.",
+      "source": "Calculated from individual case-hit odds in Topps odds PDF"
+    },
+    "autoTierDistribution": [
+      {
+        "tier": 1,
+        "count": 5
+      },
+      {
+        "tier": 2,
+        "count": 11
+      },
+      {
+        "tier": 3,
+        "count": 19
+      },
+      {
+        "tier": 4,
+        "count": 206
+      }
+    ]
+  },
+  "featuredVisualizations": [
+    {
+      "type": "panini-shadow",
+      "slug": "panini-shadow",
+      "title": "The Panini Shadow",
+      "subtitle": "2025 NBA Draft picks 1-30 and their Bowman auto exposure",
+      "caption": "Five first-round picks have zero autograph cards in this product: VJ Edgecombe (#3), Tre Johnson III (#6), Jeremiah Fears (#7), Carter Bryant (#14), and Hugo Gonzalez (#28). The three top-7 absences are the headline \u2014 top-pick scarcity is likely Panini-exclusive auto contracts shaping a Topps release.",
+      "draftPicks": [
+        {
+          "draftPick": 1,
+          "player": "Cooper Flagg",
+          "playerSlug": "cooper-flagg",
+          "team": "Dallas Mavericks",
+          "teamSlug": "dallas-mavericks",
+          "autoSetCount": 3,
+          "hasAuto": true
+        },
+        {
+          "draftPick": 2,
+          "player": "Dylan Harper",
+          "playerSlug": "dylan-harper",
+          "team": "San Antonio Spurs",
+          "teamSlug": "san-antonio-spurs",
+          "autoSetCount": 3,
+          "hasAuto": true
+        },
+        {
+          "draftPick": 3,
+          "player": "VJ Edgecombe",
+          "playerSlug": "vj-edgecombe",
+          "team": "Philadelphia 76ers",
+          "teamSlug": "philadelphia-76ers",
+          "autoSetCount": 0,
+          "hasAuto": false
+        },
+        {
+          "draftPick": 4,
+          "player": "Kon Knueppel",
+          "playerSlug": "kon-knueppel",
+          "team": "Charlotte Hornets",
+          "teamSlug": "charlotte-hornets",
+          "autoSetCount": 3,
+          "hasAuto": true
+        },
+        {
+          "draftPick": 5,
+          "player": "Ace Bailey",
+          "playerSlug": "ace-bailey",
+          "team": "Utah Jazz",
+          "teamSlug": "utah-jazz",
+          "autoSetCount": 3,
+          "hasAuto": true
+        },
+        {
+          "draftPick": 6,
+          "player": "Tre Johnson III",
+          "playerSlug": "tre-johnson-iii",
+          "team": "Washington Wizards",
+          "teamSlug": "washington-wizards",
+          "autoSetCount": 0,
+          "hasAuto": false
+        },
+        {
+          "draftPick": 7,
+          "player": "Jeremiah Fears",
+          "playerSlug": "jeremiah-fears",
+          "team": "New Orleans Pelicans",
+          "teamSlug": "new-orleans-pelicans",
+          "autoSetCount": 0,
+          "hasAuto": false
+        },
+        {
+          "draftPick": 8,
+          "player": "Egor D\u00ebmin",
+          "playerSlug": "egor-d\u00ebmin",
+          "team": "Brooklyn Nets",
+          "teamSlug": "brooklyn-nets",
+          "autoSetCount": 3,
+          "hasAuto": true
+        },
+        {
+          "draftPick": 9,
+          "player": "Collin Murray-Boyles",
+          "playerSlug": "collin-murray-boyles",
+          "team": "Toronto Raptors",
+          "teamSlug": "toronto-raptors",
+          "autoSetCount": 3,
+          "hasAuto": true
+        },
+        {
+          "draftPick": 10,
+          "player": "Khaman Maluach",
+          "playerSlug": "khaman-maluach",
+          "team": "Phoenix Suns",
+          "teamSlug": "phoenix-suns",
+          "autoSetCount": 3,
+          "hasAuto": true
+        },
+        {
+          "draftPick": 11,
+          "player": "Cedric Coward",
+          "playerSlug": "cedric-coward",
+          "team": "Memphis Grizzlies",
+          "teamSlug": "memphis-grizzlies",
+          "autoSetCount": 3,
+          "hasAuto": true
+        },
+        {
+          "draftPick": 12,
+          "player": "Noa Essengue",
+          "playerSlug": "noa-essengue",
+          "team": "Chicago Bulls",
+          "teamSlug": "chicago-bulls",
+          "autoSetCount": 3,
+          "hasAuto": true
+        },
+        {
+          "draftPick": 13,
+          "player": "Derik Queen",
+          "playerSlug": "derik-queen",
+          "team": "New Orleans Pelicans",
+          "teamSlug": "new-orleans-pelicans",
+          "autoSetCount": 3,
+          "hasAuto": true
+        },
+        {
+          "draftPick": 14,
+          "player": "Carter Bryant",
+          "playerSlug": "carter-bryant",
+          "team": "San Antonio Spurs",
+          "teamSlug": "san-antonio-spurs",
+          "autoSetCount": 0,
+          "hasAuto": false
+        },
+        {
+          "draftPick": 15,
+          "player": "Thomas Sorber",
+          "playerSlug": "thomas-sorber",
+          "team": "Oklahoma City Thunder",
+          "teamSlug": "oklahoma-city-thunder",
+          "autoSetCount": 2,
+          "hasAuto": true
+        },
+        {
+          "draftPick": 16,
+          "player": "Yang Hansen",
+          "playerSlug": "yang-hansen",
+          "team": "Portland Trail Blazers",
+          "teamSlug": "portland-trail-blazers",
+          "autoSetCount": 3,
+          "hasAuto": true
+        },
+        {
+          "draftPick": 17,
+          "player": "Joan Beringer",
+          "playerSlug": "joan-beringer",
+          "team": "Minnesota Timberwolves",
+          "teamSlug": "minnesota-timberwolves",
+          "autoSetCount": 2,
+          "hasAuto": true
+        },
+        {
+          "draftPick": 18,
+          "player": "Walter Clayton Jr.",
+          "playerSlug": "walter-clayton-jr",
+          "team": "Utah Jazz",
+          "teamSlug": "utah-jazz",
+          "autoSetCount": 2,
+          "hasAuto": true
+        },
+        {
+          "draftPick": 19,
+          "player": "Nolan Traore",
+          "playerSlug": "nolan-traore",
+          "team": "Brooklyn Nets",
+          "teamSlug": "brooklyn-nets",
+          "autoSetCount": 2,
+          "hasAuto": true
+        },
+        {
+          "draftPick": 20,
+          "player": "Kasparas Jakucionis",
+          "playerSlug": "kasparas-jakucionis",
+          "team": "Miami Heat",
+          "teamSlug": "miami-heat",
+          "autoSetCount": 2,
+          "hasAuto": true
+        },
+        {
+          "draftPick": 21,
+          "player": "Will Riley",
+          "playerSlug": "will-riley",
+          "team": "Washington Wizards",
+          "teamSlug": "washington-wizards",
+          "autoSetCount": 2,
+          "hasAuto": true
+        },
+        {
+          "draftPick": 22,
+          "player": "Drake Powell",
+          "playerSlug": "drake-powell",
+          "team": "Brooklyn Nets",
+          "teamSlug": "brooklyn-nets",
+          "autoSetCount": 2,
+          "hasAuto": true
+        },
+        {
+          "draftPick": 23,
+          "player": "Asa Newell",
+          "playerSlug": "asa-newell",
+          "team": "Atlanta Hawks",
+          "teamSlug": "atlanta-hawks",
+          "autoSetCount": 2,
+          "hasAuto": true
+        },
+        {
+          "draftPick": 24,
+          "player": "Nique Clifford",
+          "playerSlug": "nique-clifford",
+          "team": "Sacramento Kings",
+          "teamSlug": "sacramento-kings",
+          "autoSetCount": 2,
+          "hasAuto": true
+        },
+        {
+          "draftPick": 25,
+          "player": "Jase Richardson",
+          "playerSlug": "jase-richardson",
+          "team": "Orlando Magic",
+          "teamSlug": "orlando-magic",
+          "autoSetCount": 2,
+          "hasAuto": true
+        },
+        {
+          "draftPick": 26,
+          "player": "Ben Saraf",
+          "playerSlug": "ben-saraf",
+          "team": "Brooklyn Nets",
+          "teamSlug": "brooklyn-nets",
+          "autoSetCount": 2,
+          "hasAuto": true
+        },
+        {
+          "draftPick": 27,
+          "player": "Danny Wolf",
+          "playerSlug": "danny-wolf",
+          "team": "Brooklyn Nets",
+          "teamSlug": "brooklyn-nets",
+          "autoSetCount": 2,
+          "hasAuto": true
+        },
+        {
+          "draftPick": 28,
+          "player": "Hugo Gonzalez",
+          "playerSlug": "hugo-gonzalez",
+          "team": "Boston Celtics",
+          "teamSlug": "boston-celtics",
+          "autoSetCount": 0,
+          "hasAuto": false
+        },
+        {
+          "draftPick": 29,
+          "player": "Liam McNeeley",
+          "playerSlug": "liam-mcneeley",
+          "team": "Charlotte Hornets",
+          "teamSlug": "charlotte-hornets",
+          "autoSetCount": 2,
+          "hasAuto": true
+        },
+        {
+          "draftPick": 30,
+          "player": "Yanic Konan-Niederh\u00e4use",
+          "playerSlug": "yanic-konan-niederh\u00e4use",
+          "team": "Los Angeles Clippers",
+          "teamSlug": "los-angeles-clippers",
+          "autoSetCount": 2,
+          "hasAuto": true
+        }
+      ],
+      "xAxis": "2025 NBA Draft Pick Order",
+      "yAxis": "Bowman Auto Set Count"
+    },
+    {
+      "type": "young-kings-timeline",
+      "slug": "young-kings-timeline",
+      "title": "Young Kings: Four Decades on One Insert",
+      "subtitle": "The 25-card insert that puts Ray Allen in Supersonics green next to current stars",
+      "caption": "Cards YK-1 through YK-15 are current stars. YK-16 through YK-25 are HOF legends in their original/iconic team colors. Ray Allen's Seattle Supersonics card is the specific annotation \u2014 a team that hasn't existed since the 2008 OKC relocation. Topps deliberately chose this era.",
+      "players": [
+        {
+          "cardNumber": "YK-1",
+          "player": "Shai Gilgeous-Alexander",
+          "era": "current",
+          "peakYear": 2024,
+          "iconicTeam": "Oklahoma City Thunder",
+          "iconicTeamSlug": "oklahoma-city-thunder"
+        },
+        {
+          "cardNumber": "YK-2",
+          "player": "Luka Donci\u0107",
+          "era": "current",
+          "peakYear": 2023,
+          "iconicTeam": "Dallas Mavericks",
+          "iconicTeamSlug": "dallas-mavericks"
+        },
+        {
+          "cardNumber": "YK-3",
+          "player": "Tyrese Haliburton",
+          "era": "current",
+          "peakYear": 2024,
+          "iconicTeam": "Indiana Pacers",
+          "iconicTeamSlug": "indiana-pacers"
+        },
+        {
+          "cardNumber": "YK-4",
+          "player": "Stephen Curry",
+          "era": "current",
+          "peakYear": 2016,
+          "iconicTeam": "Golden State Warriors",
+          "iconicTeamSlug": "golden-state-warriors"
+        },
+        {
+          "cardNumber": "YK-5",
+          "player": "LeBron James",
+          "era": "current",
+          "peakYear": 2013,
+          "iconicTeam": "Los Angeles Lakers",
+          "iconicTeamSlug": "los-angeles-lakers"
+        },
+        {
+          "cardNumber": "YK-6",
+          "player": "Nikola Joki\u0107",
+          "era": "current",
+          "peakYear": 2023,
+          "iconicTeam": "Denver Nuggets",
+          "iconicTeamSlug": "denver-nuggets"
+        },
+        {
+          "cardNumber": "YK-7",
+          "player": "Ja Morant",
+          "era": "current",
+          "peakYear": 2022,
+          "iconicTeam": "Memphis Grizzlies",
+          "iconicTeamSlug": "memphis-grizzlies"
+        },
+        {
+          "cardNumber": "YK-8",
+          "player": "Victor Wembanyama",
+          "era": "current",
+          "peakYear": 2024,
+          "iconicTeam": "San Antonio Spurs",
+          "iconicTeamSlug": "san-antonio-spurs"
+        },
+        {
+          "cardNumber": "YK-9",
+          "player": "James Harden",
+          "era": "current",
+          "peakYear": 2018,
+          "iconicTeam": "Houston Rockets",
+          "iconicTeamSlug": "houston-rockets"
+        },
+        {
+          "cardNumber": "YK-10",
+          "player": "Kawhi Leonard",
+          "era": "current",
+          "peakYear": 2019,
+          "iconicTeam": "Toronto Raptors",
+          "iconicTeamSlug": "toronto-raptors"
+        },
+        {
+          "cardNumber": "YK-11",
+          "player": "Jimmy Butler III",
+          "era": "current",
+          "peakYear": 2023,
+          "iconicTeam": "Miami Heat",
+          "iconicTeamSlug": "miami-heat"
+        },
+        {
+          "cardNumber": "YK-12",
+          "player": "Cade Cunningham",
+          "era": "current",
+          "peakYear": 2024,
+          "iconicTeam": "Detroit Pistons",
+          "iconicTeamSlug": "detroit-pistons"
+        },
+        {
+          "cardNumber": "YK-13",
+          "player": "Devin Booker",
+          "era": "current",
+          "peakYear": 2021,
+          "iconicTeam": "Phoenix Suns",
+          "iconicTeamSlug": "phoenix-suns"
+        },
+        {
+          "cardNumber": "YK-14",
+          "player": "Kevin Durant",
+          "era": "current",
+          "peakYear": 2014,
+          "iconicTeam": "Oklahoma City Thunder",
+          "iconicTeamSlug": "oklahoma-city-thunder"
+        },
+        {
+          "cardNumber": "YK-15",
+          "player": "Donovan Mitchell",
+          "era": "current",
+          "peakYear": 2022,
+          "iconicTeam": "Cleveland Cavaliers",
+          "iconicTeamSlug": "cleveland-cavaliers"
+        },
+        {
+          "cardNumber": "YK-16",
+          "player": "Allen Iverson",
+          "era": "legend",
+          "peakYear": 2001,
+          "iconicTeam": "Philadelphia 76ers",
+          "iconicTeamSlug": "philadelphia-76ers"
+        },
+        {
+          "cardNumber": "YK-17",
+          "player": "Larry Bird",
+          "era": "legend",
+          "peakYear": 1986,
+          "iconicTeam": "Boston Celtics",
+          "iconicTeamSlug": "boston-celtics"
+        },
+        {
+          "cardNumber": "YK-18",
+          "player": "Magic Johnson",
+          "era": "legend",
+          "peakYear": 1987,
+          "iconicTeam": "Los Angeles Lakers",
+          "iconicTeamSlug": "los-angeles-lakers"
+        },
+        {
+          "cardNumber": "YK-19",
+          "player": "Shaquille O'Neal",
+          "era": "legend",
+          "peakYear": 2000,
+          "iconicTeam": "Los Angeles Lakers",
+          "iconicTeamSlug": "los-angeles-lakers"
+        },
+        {
+          "cardNumber": "YK-20",
+          "player": "Dirk Nowitzki",
+          "era": "legend",
+          "peakYear": 2011,
+          "iconicTeam": "Dallas Mavericks",
+          "iconicTeamSlug": "dallas-mavericks"
+        },
+        {
+          "cardNumber": "YK-21",
+          "player": "Kevin Garnett",
+          "era": "legend",
+          "peakYear": 2004,
+          "iconicTeam": "Minnesota Timberwolves",
+          "iconicTeamSlug": "minnesota-timberwolves"
+        },
+        {
+          "cardNumber": "YK-22",
+          "player": "Carmelo Anthony",
+          "era": "legend",
+          "peakYear": 2013,
+          "iconicTeam": "Denver Nuggets",
+          "iconicTeamSlug": "denver-nuggets"
+        },
+        {
+          "cardNumber": "YK-23",
+          "player": "Dwyane Wade",
+          "era": "legend",
+          "peakYear": 2006,
+          "iconicTeam": "Miami Heat",
+          "iconicTeamSlug": "miami-heat"
+        },
+        {
+          "cardNumber": "YK-24",
+          "player": "Tracy McGrady",
+          "era": "legend",
+          "peakYear": 2003,
+          "iconicTeam": "Toronto Raptors",
+          "iconicTeamSlug": "toronto-raptors"
+        },
+        {
+          "cardNumber": "YK-25",
+          "player": "Ray Allen",
+          "era": "legend",
+          "peakYear": 2006,
+          "iconicTeam": "Seattle Supersonics",
+          "iconicTeamSlug": null,
+          "annotation": "Team defunct since 2008 \u2014 Topps chose the pre-OKC Sonics era."
+        }
+      ],
+      "xAxis": "Career peak year",
+      "note": "The Young Kings insert is the sleeper content of this product."
+    },
+    {
+      "type": "identical-insert-quartet",
+      "slug": "identical-insert-quartet",
+      "title": "Four Inserts. Same Players. Same Odds.",
+      "subtitle": "The structural redundancy Topps built into the NCAA side",
+      "caption": "Talent Tracker, Gen Next, Very Important Prospects, and Bowman Verified share the same 25-player NCAA pool and identical pack odds (1:58 Hobby across all four). Only the design differs. Talent Tracker is the flagship; the others are collector filler.",
+      "quartet": [
+        {
+          "slug": "talent-tracker",
+          "name": "Talent Tracker",
+          "size": 25,
+          "oddsDisplay": "1:58 Hobby",
+          "editorialTier": "notable"
+        },
+        {
+          "slug": "gen-next",
+          "name": "Gen Next",
+          "size": 25,
+          "oddsDisplay": "1:58 Hobby",
+          "editorialTier": "filler"
+        },
+        {
+          "slug": "very-important-prospects",
+          "name": "Very Important Prospects",
+          "size": 25,
+          "oddsDisplay": "1:58 Hobby",
+          "editorialTier": "filler"
+        },
+        {
+          "slug": "bowman-verified",
+          "name": "Bowman Verified",
+          "size": 25,
+          "oddsDisplay": "1:58 Hobby",
+          "editorialTier": "filler"
+        }
+      ],
+      "sharedPlayerPool": [
+        "AJ Dybantsa",
+        "Darryn Peterson",
+        "Koa Peat",
+        "Emilee Skinner",
+        "Sarah Strong",
+        "Sienna Betts",
+        "Raegan Beers",
+        "Juju Watkins",
+        "Caleb Wilson",
+        "Nate Ament",
+        "Mikel Brown Jr.",
+        "Aaliyah Crump",
+        "Hailee Swain",
+        "Bennett Stirtz",
+        "Otega Oweh",
+        "Caleb Foster",
+        "ZaKiyah Johnson",
+        "Leah Macy",
+        "Richie Saunders",
+        "Kohl Rosario",
+        "JT Toppin",
+        "Braden Smith",
+        "Jaida Civil",
+        "Addison Deal",
+        "Milos Uzan"
+      ],
+      "editorialStatement": "Same. Same. Same. Same."
+    },
+    {
+      "type": "mojo-ladder",
+      "slug": "mojo-ladder",
+      "title": "The Mega-Only Mojo Ladder",
+      "subtitle": "8 Mojo parallels. 0 Hobby. 0 Jumbo. 0 Value.",
+      "caption": "If you want Mojo, you buy Mega. The entire color ladder is locked behind one format \u2014 Blue Mojo /150 at the top down to Rose Gold Mojo /1 as the floor. This is the clearest format-driven incentive in the product.",
+      "rungs": [
+        {
+          "name": "Chrome Fuchsia Mojo",
+          "slug": "chrome-fuchsia-mojo",
+          "printRun": 299,
+          "color": {
+            "hex": "#E04B94"
+          },
+          "exclusiveTo": [
+            "Mega"
+          ]
+        },
+        {
+          "name": "Chrome Burgundy Mojo",
+          "slug": "chrome-burgundy-mojo",
+          "printRun": 275,
+          "color": {
+            "hex": "#8A1F2A"
+          },
+          "exclusiveTo": [
+            "Mega"
+          ]
+        },
+        {
+          "name": "Chrome Purple Mojo",
+          "slug": "chrome-purple-mojo",
+          "printRun": 250,
+          "color": {
+            "hex": "#6B3AA0"
+          },
+          "exclusiveTo": [
+            "Mega"
+          ]
+        },
+        {
+          "name": "Chrome Pink Mojo",
+          "slug": "chrome-pink-mojo",
+          "printRun": 199,
+          "color": {
+            "hex": "#F48FB1"
+          },
+          "exclusiveTo": [
+            "Mega"
+          ]
+        },
+        {
+          "name": "Chrome Navy Mojo",
+          "slug": "chrome-navy-mojo",
+          "printRun": 175,
+          "color": {
+            "hex": "#1A2847"
+          },
+          "exclusiveTo": [
+            "Mega"
+          ]
+        },
+        {
+          "name": "Chrome Blue Mojo",
+          "slug": "chrome-blue-mojo",
+          "printRun": 150,
+          "color": {
+            "hex": "#3A7BD5"
+          },
+          "exclusiveTo": [
+            "Mega"
+          ]
+        },
+        {
+          "name": "Chrome Aqua Mojo",
+          "slug": "chrome-aqua-mojo",
+          "printRun": 125,
+          "color": {
+            "hex": "#43C6DB"
+          },
+          "exclusiveTo": [
+            "Mega"
+          ]
+        },
+        {
+          "name": "Chrome Green Mojo",
+          "slug": "chrome-green-mojo",
+          "printRun": 99,
+          "color": {
+            "hex": "#2EA558"
+          },
+          "exclusiveTo": [
+            "Mega"
+          ]
+        },
+        {
+          "name": "Chrome Yellow Mojo",
+          "slug": "chrome-yellow-mojo",
+          "printRun": 75,
+          "color": {
+            "hex": "#F4C430"
+          },
+          "exclusiveTo": [
+            "Mega"
+          ]
+        },
+        {
+          "name": "Chrome Gold Mojo",
+          "slug": "chrome-gold-mojo",
+          "printRun": 50,
+          "color": {
+            "hex": "#D4AF37",
+            "gradient": {
+              "from": "#E8C869",
+              "to": "#B8912C"
+            }
+          },
+          "exclusiveTo": [
+            "Mega"
+          ]
+        },
+        {
+          "name": "Chrome Orange Mojo",
+          "slug": "chrome-orange-mojo",
+          "printRun": 25,
+          "color": {
+            "hex": "#F26A1C"
+          },
+          "exclusiveTo": [
+            "Mega"
+          ]
+        },
+        {
+          "name": "Chrome Red Mojo",
+          "slug": "chrome-red-mojo",
+          "printRun": 5,
+          "color": {
+            "hex": "#D13340"
+          },
+          "exclusiveTo": [
+            "Mega"
+          ]
+        },
+        {
+          "name": "Chrome Black Mojo",
+          "slug": "chrome-black-mojo",
+          "printRun": 1,
+          "color": {
+            "hex": "#1A1A1D"
+          },
+          "exclusiveTo": [
+            "Mega"
+          ]
+        },
+        {
+          "name": "Chrome Rose Gold Mojo",
+          "slug": "chrome-rose-gold-mojo",
+          "printRun": 1,
+          "color": {
+            "hex": "#B76E79",
+            "gradient": {
+              "from": "#D4948E",
+              "to": "#8B4A52"
+            }
+          },
+          "exclusiveTo": [
+            "Mega"
+          ]
+        }
+      ],
+      "exclusiveFormat": "Mega",
+      "note": "Mojo parallels exist on base cards, Chrome Prospects, auto cards, AND in Mega Rookies/Mega Prospects inserts \u2014 all Mega-only."
+    },
+    {
+      "type": "case-hit-bubbles",
+      "slug": "case-hit-bubbles",
+      "title": "Case-Hit Probability Spread",
+      "subtitle": "11 case hits, very different accessibility",
+      "caption": "Not all case hits are equal. Anime and Spotlights are roughly 1:1,500-1:1,700 Hobby \u2014 tough but reachable. GPK NIL at 1:16,288 is effectively a per-multi-case hit. Bubble size inverse to odds: bigger = more accessible.",
+      "caseHits": [
+        {
+          "slug": "crystalized-nba",
+          "name": "Crystalized NBA",
+          "ipCategory": "Crystalized",
+          "hobbyOdds": 1346,
+          "hobbyOddsDisplay": "1:1,346",
+          "bubbleSize": 7.43,
+          "size": 10,
+          "editorialTier": "chase"
+        },
+        {
+          "slug": "anime-nba",
+          "name": "Anime NBA",
+          "ipCategory": "Anime",
+          "hobbyOdds": 1663,
+          "hobbyOddsDisplay": "1:1,663",
+          "bubbleSize": 6.01,
+          "size": 25,
+          "editorialTier": "chase"
+        },
+        {
+          "slug": "base-etched-in-glass-variation",
+          "name": "Base Etched In Glass Variation",
+          "ipCategory": "Etched In Glass",
+          "hobbyOdds": 1733,
+          "hobbyOddsDisplay": "1:1,733",
+          "bubbleSize": 5.77,
+          "size": 10,
+          "editorialTier": "chase"
+        },
+        {
+          "slug": "bowman-spotlights-nba",
+          "name": "Bowman Spotlights NBA",
+          "ipCategory": "Spotlights",
+          "hobbyOdds": 1733,
+          "hobbyOddsDisplay": "1:1,733",
+          "bubbleSize": 5.77,
+          "size": 10,
+          "editorialTier": "chase"
+        },
+        {
+          "slug": "crystalized-nil",
+          "name": "Crystalized NIL",
+          "ipCategory": "Crystalized",
+          "hobbyOdds": 2691,
+          "hobbyOddsDisplay": "1:2,691",
+          "bubbleSize": 3.72,
+          "size": 5,
+          "editorialTier": "chase"
+        },
+        {
+          "slug": "chrome-prospect-etched-in-glass-variation",
+          "name": "Chrome Prospect Etched In Glass Variation",
+          "ipCategory": "Etched In Glass",
+          "hobbyOdds": 3466,
+          "hobbyOddsDisplay": "1:3,466",
+          "bubbleSize": 2.89,
+          "size": 5,
+          "editorialTier": "chase"
+        },
+        {
+          "slug": "bowman-spotlights-nil",
+          "name": "Bowman Spotlights NIL",
+          "ipCategory": "Spotlights",
+          "hobbyOdds": 3466,
+          "hobbyOddsDisplay": "1:3,466",
+          "bubbleSize": 2.89,
+          "size": 5,
+          "editorialTier": "chase"
+        },
+        {
+          "slug": "anime-nil",
+          "name": "Anime NIL",
+          "ipCategory": "Anime",
+          "hobbyOdds": 6506,
+          "hobbyOddsDisplay": "1:6,506",
+          "bubbleSize": 1.54,
+          "size": 5,
+          "editorialTier": "chase"
+        },
+        {
+          "slug": "retrofractor-variation",
+          "name": "Retrofractor Variation",
+          "ipCategory": "Retrofractor",
+          "hobbyOdds": 13050,
+          "hobbyOddsDisplay": "1:13,050",
+          "bubbleSize": 0.77,
+          "size": 2,
+          "editorialTier": "chase"
+        },
+        {
+          "slug": "bowman-gpk-nba",
+          "name": "Bowman GPK NBA",
+          "ipCategory": "GPK",
+          "hobbyOdds": 13050,
+          "hobbyOddsDisplay": "1:13,050",
+          "bubbleSize": 0.77,
+          "size": 5,
+          "editorialTier": "chase"
+        },
+        {
+          "slug": "bowman-gpk-nil",
+          "name": "Bowman GPK NIL",
+          "ipCategory": "GPK",
+          "hobbyOdds": 16288,
+          "hobbyOddsDisplay": "1:16,288",
+          "bubbleSize": 0.61,
+          "size": 4,
+          "editorialTier": "chase"
+        }
+      ],
+      "easiest": {
+        "slug": "crystalized-nba",
+        "name": "Crystalized NBA",
+        "ipCategory": "Crystalized",
+        "hobbyOdds": 1346,
+        "hobbyOddsDisplay": "1:1,346",
+        "bubbleSize": 7.43,
+        "size": 10,
+        "editorialTier": "chase"
+      },
+      "hardest": {
+        "slug": "bowman-gpk-nil",
+        "name": "Bowman GPK NIL",
+        "ipCategory": "GPK",
+        "hobbyOdds": 16288,
+        "hobbyOddsDisplay": "1:16,288",
+        "bubbleSize": 0.61,
+        "size": 4,
+        "editorialTier": "chase"
+      }
+    }
+  ],
+  "funTakeaways": [
+    {
+      "headline": "The Flagg brothers are both 1st Bowmans",
+      "body": "Cooper Flagg anchors the NBA base set at card #1 with Dallas. Younger brother Ace Flagg plays at the University of Maine and lands on BPP-91. Sibling set chase is real \u2014 and pairing a Cooper paper /1 with an Ace paper /1 is a specific collector goal.",
+      "relatedSlugs": [
+        "cooper-flagg",
+        "ace-flagg"
+      ]
+    },
+    {
+      "headline": "Ray Allen's Young Kings card is in a Seattle Supersonics jersey",
+      "body": "The Supersonics franchise hasn't existed since 2008. Topps deliberately chose Ray Allen's pre-OKC era \u2014 before Durant, before the relocation \u2014 for his YK-25 legend card. It's the only card in the product referencing a defunct NBA franchise.",
+      "relatedSlugs": [
+        "ray-allen"
+      ]
+    },
+    {
+      "headline": "The missing NBA rookies all share one thing: likely Panini exclusives",
+      "body": "VJ Edgecombe (#3), Tre Johnson III (#6), and Jeremiah Fears (#7) appear in the base set, Chrome Variations, Rookie Reds, and insert sets \u2014 but zero autographs. No other pattern unifies them. The common factor is probably Panini-exclusive auto contracts signed before Topps got NBA rights.",
+      "relatedSlugs": [
+        "vj-edgecombe",
+        "tre-johnson-iii",
+        "jeremiah-fears"
+      ]
+    },
+    {
+      "headline": "Shaq appears in this product three different ways",
+      "body": "Young Kings YK-19: Shaq in Lakers yellow (modern star). Retrofractor RV-SA: Shaq at LSU in college purple-and-gold (throwback variation). Retrofractor Autograph RAV-SO: Shaq's LSU card, signed (1-per-case tier). Bill Russell shares the Retrofractor pair (San Francisco era) but not the auto since he's deceased.",
+      "relatedSlugs": [
+        "shaquille-oneal",
+        "bill-russell"
+      ]
+    },
+    {
+      "headline": "Four insert sets have identical everything except the design",
+      "body": "Talent Tracker, Gen Next, Very Important Prospects, and Bowman Verified each have 25 cards, identical pack odds (1:58 Hobby), the same 25 NCAA players, and the same parallel rainbow structure. Only the wrapper design changes. Talent Tracker is the flagship; the others are collector filler dressed as premium content.",
+      "relatedSlugs": [
+        "talent-tracker",
+        "gen-next",
+        "very-important-prospects",
+        "bowman-verified"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "slug": "2025-26-bowman-basketball",
+  "title": "2025-26 Bowman Basketball",
+  "shortTitle": "Bowman Basketball",
+  "year": "2025-26",
+  "sport": "basketball",
+  "brand": "bowman",
+  "manufacturer": "Topps",
+  "releaseDate": "2026-04-22",
+  "preorderDate": null,
+  "status": "dropped",
+  "tagline": "First NBA Bowman in 17 years. Dual NCAA/NBA format. Here's what actually matters.",
+  "heroImagery": {
+    "boxShotsSlug": "hero-box-shots-grid"
+  },
+  "synopsis": "2025-26 Bowman Basketball is Topps' first fully-licensed NBA Bowman since 2008-09 \u2014 a 17-year gap that ends under the Topps/Fanatics NBA exclusive. It arrives ambitious: for the first time, NBA rookies like Cooper Flagg and Dylan Harper share a checklist with NCAA prospects like AJ Dybantsa, Darryn Peterson, and JuJu Watkins. Serious women's college basketball representation sits alongside the men's side \u2014 30 of the 100 paper prospect cards are WCBB. That's a meaningful hobby expansion moment.\n\nTwo things to internalize before ripping. First, format strategy matters more than it usually does. Hobby is the only path to Chrome SuperFractor /1 and the Orange/Black Border parallels. Mega is the only path to any Mojo \u2014 the 8-rung rainbow from Blue /150 down to Rose Gold Mojo /1 is locked behind one format. Value is the only path to the Green Border retail parallels. Breaker's Delight is the only path to Geometrics. Rainbow completion requires cross-format buying.\n\nSecond, three of the top-7 NBA rookies \u2014 VJ Edgecombe, Tre Johnson III, Jeremiah Fears \u2014 have base cards and inserts but zero autographs. Likely Panini-exclusive contracts. If you wanted a Fears auto from Bowman, it's not here. The 2026 NBA Draft class, though, is projected as one of the strongest in years. If Dybantsa, Peterson, Wilson, Peat, and Watkins deliver, the NCAA 1st Bowman autos from this product become foundational chase cards for a decade. That's the long hold.",
+  "verdict": {
+    "oneLineTake": "A historic return for the brand \u2014 format strategy is rewarded, auto hunters of specific rookies are punished, and the NCAA 1st Bowman autos are the real long hold.",
+    "whoThisIsFor": "Collectors building Cooper Flagg rainbows, NCAA 1st Bowman speculators betting on the 2026 NBA Draft class, and anyone with a WCBB prospect thesis. Skip if you wanted a Fears, Edgecombe, or Tre Johnson auto \u2014 those aren't here.",
+    "keyChaseCard": "Cooper Flagg Chrome SuperFractor /1"
+  },
+  "commentary": {
+    "whatsNew": "First full NBA Bowman since 2008-09. First Bowman product with mixed NBA + NCAA men's + NCAA women's checklists. Crystalized, Anime, and Bowman GPK insert programs make their basketball debut after strong runs in Bowman Baseball. The Retrofractor variation \u2014 featuring Bill Russell and Shaq in their college uniforms \u2014 is a new case-hit concept unique to this release.",
+    "formatAdvice": "Hobby for rainbow chase and SuperFractor access. Jumbo for auto volume (4 per box). Mega for Mojo parallels \u2014 they don't exist anywhere else. Value for Green retail parallels and paper autograph access. Breaker's Delight only if you're doing group breaks or completing the Geometric rainbow. Bulk is provisional and TBD.",
+    "compToLastYear": "There's no direct predecessor \u2014 the last full NBA Bowman was 2008-09. The nearest recent comparison is 2024-25 Bowman University Basketball (NCAA-only). The innovations vs. that product: NBA rookies and veterans on the same checklist, full case-hit program, mixed-gender NCAA representation, and Mega-exclusive Mojo parallels.",
+    "redFlags": "Three top-7 rookies have zero autograph access \u2014 consistent with Panini-exclusive contracts. Cameron and Cayden Boozer were featured in Topps pre-release marketing materials but are absent from the final checklist and autograph sets. Four prospect inserts (Talent Tracker, Gen Next, Very Important Prospects, Bowman Verified) share the same 25-player pool and identical odds \u2014 structural padding.",
+    "bullCase": "The 2025 NBA rookie class is strong and the 2026 NCAA class is projected as elite. Dybantsa is a consensus top-3 2026 projection; Peterson, Wilson, Peat, and Watkins all carry real draft-upside stories. First-serious WCBB representation could meaningfully expand the hobby's audience. If even half of the projected 2026 prospects hit, this release becomes the foundational 1st Bowman product for a generation of collectors.",
+    "bearCase": "Three auto-less top-7 NBA rookies mean the product's NBA ceiling is structurally capped. The four-identical-inserts pattern signals Topps padded the checklist with redundant content. Hobby MSRP at $339.99 is high for a rookie class whose careers haven't played out. Boozer absence hurts NCAA depth in a marketed way.",
+    "notableAbsences": "Cameron Boozer (Duke, projected top-5 2026 pick), Cayden Boozer (Duke), Hannah Hidalgo (Notre Dame WCBB), Boogie Fland, Flau'jae Johnson, Karter Knox. The Boozer twins are the most surprising \u2014 Topps featured them in pre-release marketing, but neither is in the final checklist or auto sets. Possible redemption cards."
+  },
+  "holyGrails": [
+    {
+      "player": "Cooper Flagg",
+      "team": "Dallas Mavericks",
+      "teamSlug": "dallas-mavericks",
+      "cardName": "Chrome SuperFractor 1/1",
+      "cardNumber": "1",
+      "parallelSlug": "chrome-superfractor",
+      "reason": "The face of the product and the most important single card in basketball this year. #1 pick, Dallas anchor, Chrome SuperFractor is Hobby-exclusive and /1.",
+      "estimatedValue": "Est. $50K-$100K+ (pre-market projection; no comp sales yet)",
+      "imageSlug": "card-flagg-superfractor",
+      "rarityRank": 1
+    },
+    {
+      "player": "AJ Dybantsa",
+      "team": "BYU",
+      "teamSlug": "ncaa-byu",
+      "cardName": "Chrome Prospect SuperFractor 1/1",
+      "cardNumber": "BCP-1",
+      "parallelSlug": "chrome-prospect-superfractor",
+      "reason": "NCAA-side grail. Projected #1 2026 NBA Draft pick. 1st Bowman SuperFractor with Dybantsa's entire professional career ahead of it \u2014 if the projections hold, this becomes a foundational 1st Bowman chase card.",
+      "estimatedValue": "Est. $25K-$50K (pre-market projection)",
+      "imageSlug": "card-dybantsa-superfractor",
+      "rarityRank": 2
+    },
+    {
+      "player": "Juju Watkins",
+      "team": "USC",
+      "teamSlug": "ncaa-usc",
+      "cardName": "Chrome Prospect SuperFractor 1/1",
+      "cardNumber": "BCP-96",
+      "parallelSlug": "chrome-prospect-superfractor",
+      "reason": "The WCBB grail of this product. Watkins is the most-demanded women's basketball player in the current NIL era \u2014 her 1st Bowman SuperFractor is the WCBB equivalent of Dybantsa's and arguably more market-tested.",
+      "estimatedValue": "Est. $20K-$40K (pre-market projection)",
+      "imageSlug": "card-watkins-superfractor",
+      "rarityRank": 3
+    },
+    {
+      "player": "Dylan Harper",
+      "team": "San Antonio Spurs",
+      "teamSlug": "san-antonio-spurs",
+      "cardName": "Chrome SuperFractor 1/1",
+      "cardNumber": "2",
+      "parallelSlug": "chrome-superfractor",
+      "reason": "#2 overall pick pairing with Wembanyama in San Antonio. The Spurs franchise story card \u2014 Harper's Chrome SuperFractor will appreciate alongside the Wemby era.",
+      "estimatedValue": "Est. $15K-$30K (pre-market projection)",
+      "rarityRank": 4
+    },
+    {
+      "player": "Shaquille O'Neal",
+      "team": "LSU",
+      "teamSlug": "ncaa-lsu",
+      "cardName": "Retrofractor Autograph 1/1",
+      "cardNumber": "RAV-SO",
+      "parallelSlug": "retrofractor-autograph-superfractor",
+      "reason": "The hidden-gem grail. Shaq's college-era LSU photography with an on-card auto at 1/1. A HOF legend on a college 1st Bowman-style card \u2014 this design has never existed before and the scarcity ceiling is absolute.",
+      "estimatedValue": "Est. $15K-$35K (pre-market projection)",
+      "imageSlug": "card-shaq-retrofractor-auto",
+      "rarityRank": 5
+    }
+  ],
+  "boxFormats": [
+    {
+      "name": "Hobby",
+      "cardsPerPack": 8,
+      "packsPerBox": 20,
+      "boxesPerCase": 12,
+      "msrp": 339.99,
+      "bestFor": "Rainbow chasers and SuperFractor/Orange/Black parallel access.",
+      "guarantees": [
+        "2 autographs per box (1 NBA + 1 NIL)",
+        "12 inserts per box (unless replaced by a case hit)",
+        "1 Chrome Mini-Diamond Refractor per box",
+        "6 additional base parallels per box"
+      ],
+      "exclusives": [
+        "Chrome SuperFractor /1",
+        "Orange Border /25",
+        "Black Border /10",
+        "Black Pattern Border /10"
+      ],
+      "imageSlug": "box-hobby"
+    },
+    {
+      "name": "Jumbo",
+      "cardsPerPack": 24,
+      "packsPerBox": 12,
+      "boxesPerCase": 8,
+      "msrp": 599.99,
+      "bestFor": "Autograph volume \u2014 the 4-auto-per-box guarantee is the best in the product.",
+      "guarantees": [
+        "4 autographs per box",
+        "18 inserts per box",
+        "12 base parallels per box"
+      ],
+      "exclusives": [
+        "Floorboard Refractor /200"
+      ],
+      "imageSlug": "box-jumbo"
+    },
+    {
+      "name": "Mega",
+      "cardsPerPack": 7,
+      "packsPerBox": 6,
+      "boxesPerCase": 20,
+      "msrp": 59.99,
+      "bestFor": "Mojo parallels \u2014 the entire 8-rung Mojo rainbow is Mega-exclusive.",
+      "guarantees": [
+        "~11 Mojo parallels per box",
+        "1 Mega Rookies or Mega Prospects card per box",
+        "1 insert per box on average",
+        "~1 autograph per 5 boxes"
+      ],
+      "exclusives": [
+        "All 8 Mojo parallels (Blue /150 through Rose Gold /1)"
+      ],
+      "imageSlug": "box-mega"
+    },
+    {
+      "name": "Value",
+      "cardsPerPack": 10,
+      "packsPerBox": 6,
+      "boxesPerCase": 40,
+      "msrp": 29.99,
+      "bestFor": "Entry-level ripping and Green Border /99 retail-exclusive parallels.",
+      "guarantees": [
+        "4 inserts per box",
+        "~1 autograph per 10 boxes"
+      ],
+      "exclusives": [
+        "Green Border /99",
+        "Green Pattern Border /99"
+      ],
+      "imageSlug": "box-value"
+    },
+    {
+      "name": "Breaker's Delight",
+      "cardsPerPack": 10,
+      "packsPerBox": 1,
+      "boxesPerCase": 6,
+      "msrp": 2499.95,
+      "bestFor": "Group break operators and Geometric parallel completionists.",
+      "guarantees": [
+        "3 autographs per box (2 NBA + 1 NIL)",
+        "3 Chrome Geometric parallels",
+        "1 Chrome Prospect base + 1 Chrome NBA base",
+        "1 exclusive Geometric insert"
+      ],
+      "exclusives": [
+        "All Geometric parallels across Base, Chrome Prospects, and Inserts"
+      ],
+      "imageSlug": "box-breakers-delight",
+      "notes": "At $250/card, most-per-card-expensive format. Only defensible if chasing Geometrics or operating breaks."
+    }
+  ],
+  "baseSetSummary": {
+    "totalCards": 400,
+    "subsets": [
+      {
+        "name": "Base",
+        "size": 200,
+        "description": "200 NBA cards \u2014 rookies (1-30) through veterans."
+      },
+      {
+        "name": "Paper Prospects",
+        "size": 100,
+        "description": "100 NCAA men's and women's 1st Bowman prospect cards on paper stock."
+      },
+      {
+        "name": "Chrome Prospects",
+        "size": 100,
+        "description": "100 NCAA prospect cards with chrome finish and extended parallel rainbow."
+      }
+    ],
+    "rookieCount": 54,
+    "variations": [
+      {
+        "name": "Rookie Red RC Variation",
+        "description": "Red-border rookie card variation with Fanatics FanCash redemption eligibility for career milestones.",
+        "odds": "1.5 per Hobby box on average"
+      },
+      {
+        "name": "Base Etched In Glass Variation",
+        "description": "12-card glass-effect variation of top NBA subjects. Case-hit tier.",
+        "odds": "1:1,733 Hobby packs",
+        "printRun": "Parallel ladder: Gold /50, Orange /25, Red /5, SuperFractor /1"
+      },
+      {
+        "name": "Chrome Prospect Etched In Glass Variation",
+        "description": "7-card NCAA counterpart. Dybantsa, Peterson, Watkins top names.",
+        "odds": "1:3,466 Hobby packs"
+      },
+      {
+        "name": "Retrofractor Variation",
+        "description": "2-card legend throwback. Bill Russell (University of San Francisco) + Shaquille O'Neal (LSU) in college-era photography.",
+        "odds": "1:13,050 Hobby packs",
+        "printRun": "Ladder: Gold /50, Orange /25, Red /5, SuperFractor /1. Auto variation adds Shaq's signature."
+      }
+    ],
+    "notes": "54 rookies in the NBA base set. Every card in the product has at least one /1 parallel available, making the holy-grail ceiling universal."
+  }
+}

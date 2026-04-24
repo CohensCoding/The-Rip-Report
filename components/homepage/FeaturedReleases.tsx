@@ -1,8 +1,8 @@
-import type { Release } from "@/types/release";
+import type { LegacyRelease } from "@/types/legacy-release";
 
 import { ReleaseTileLarge } from "./ReleaseTileLarge";
 
-export function FeaturedReleases({ releases }: { releases: Release[] }) {
+export function FeaturedReleases({ releases }: { releases: LegacyRelease[] }) {
   return (
     <section className="pb-14 sm:pb-18">
       <div className="mx-auto w-full max-w-[1280px] px-5 sm:px-8">

@@ -1,0 +1,4845 @@
+{
+  "editorial": {
+    "overview": "8 main auto sets plus 2 case-hits. 241 unique signers span 2025 NBA rookies, returning NBA stars, the 2026 NCAA-M draft class, and the WCBB elite. Chrome Autographs and Chrome Prospect Autographs anchor the hardsigned rainbow. Timeless Touch delivers stars at the easiest odds (1:72 Hobby). Opening Statement is the rookies-only chase. Retrofractor sneaks Shaquille O'Neal in on an LSU throwback 1/1. THE HEADLINE STORY: three of the top seven 2025 NBA picks \u2014 VJ Edgecombe (#3), Tre Johnson III (#6), and Jeremiah Fears (#7) \u2014 have zero autograph cards in the entire product despite appearing in base and inserts. Likely Panini-exclusive auto contracts. Effectively shrinks the high-pick NBA rookie auto field to Flagg, Harper, Knueppel, and Bailey.",
+    "tierExplanations": {
+      "tier1": "The Faces \u2014 2025 NBA top-3 picks plus the two projected 2026 #1 candidates, plus Shaq's Retrofractor legend inclusion. These autos anchor hobby demand regardless of market.",
+      "tier2": "Strong Co-Stars \u2014 NBA picks #4-#7, the next tier of 2026 NCAA prospects, and the three WCBB superstars (Watkins, Booker, Strong). Demand-proven names with real market presence.",
+      "tier3": "Sleepers \u2014 role-player NBA rookies with upside, transfer-portal NCAA veterans, mid-tier 2026 prospects, and WCBB stars outside the top 3. Upside bets where hits below MSRP are the target.",
+      "tier4": "The Rest \u2014 established NBA veterans with saturated auto supply, deeper NCAA rosters, and long-tail inclusions. Lottery-ticket territory on individual names."
+    }
+  },
+  "sets": [
+    {
+      "name": "Chrome Autographs",
+      "slug": "chrome-autographs",
+      "totalSigners": 98,
+      "boxGuarantee": "1 per Hobby box (NBA rookies + veterans)",
+      "odds": {
+        "ratioDisplay": "1:68 packs (Hobby)",
+        "ratio": {
+          "onePerN": 68
+        },
+        "perFormat": {
+          "Hobby": {
+            "onePerN": 68,
+            "ratioDisplay": "1:68 packs"
+          },
+          "Jumbo": {
+            "onePerN": 20,
+            "ratioDisplay": "1:20 packs"
+          },
+          "Value": {
+            "onePerN": 313,
+            "ratioDisplay": "1:313 packs"
+          },
+          "Bulk": {
+            "onePerN": 110,
+            "ratioDisplay": "1:110 packs"
+          }
+        },
+        "source": {
+          "type": "official-topps-pdf",
+          "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+          "asOf": "2026-04-24"
+        }
+      },
+      "isHardSigned": true,
+      "hasRedemptions": false,
+      "isCaseHit": false,
+      "isNew": false,
+      "description": "The brand's hardsigned staple \u2014 NBA rookies and veterans on Chrome stock. Full rainbow from Refractor to SuperFractor /1.",
+      "signers": [
+        "Aaron Nesmith",
+        "Ace Bailey",
+        "Anthony Edwards",
+        "Ajay Mitchell",
+        "Alijah Martin",
+        "Asa Newell",
+        "Alex Toohey",
+        "Anthony Black",
+        "Alex Sarr",
+        "Adou Thiero",
+        "Ben Saraf",
+        "Brooks Barnhizer",
+        "Brandon Miller",
+        "Bronny James Jr.",
+        "Cedric Coward",
+        "Cooper Flagg",
+        "Chaz Lanier",
+        "Collin Murray-Boyles",
+        "Cam Whitmore",
+        "Deandre Ayton",
+        "Devin Carter",
+        "Dorian Finney-Smith",
+        "Dylan Harper",
+        "Derrick White",
+        "Dillon Jones",
+        "Drake Powell",
+        "Derik Queen",
+        "Devin Vassell",
+        "Danny Wolf",
+        "Egor D\u00ebmin",
+        "Enrique Freeman",
+        "Franz Wagner",
+        "Giannis Antetokounmpo",
+        "Gradey Dick",
+        "Isaiah Collier",
+        "Ivica Zubac",
+        "Jordan Hawkins",
+        "Joan Beringer",
+        "Jordan Clarkson",
+        "John Tonje",
+        "Jaylin Williams",
+        "Jarace Walker",
+        "Jalen Williams",
+        "Jahmai Mashack",
+        "Jaylon Tyson",
+        "Johni Broome",
+        "Jase Richardson",
+        "Javon Small",
+        "Jayson Tatum",
+        "Jalen Brunson",
+        "Jamir Watkins",
+        "Jamal Murray",
+        "Koby Brea",
+        "Kevin Durant",
+        "Kyle Filipowski",
+        "Kasparas Jakucionis",
+        "Kon Knueppel",
+        "Khaman Maluach",
+        "Kam Jones",
+        "Kobe Sanders",
+        "Kel'el Ware",
+        "LeBron James",
+        "Liam McNeeley",
+        "Lachlan Olbrich",
+        "Micah Peavy",
+        "Maxime Raynaud",
+        "Max Shulga",
+        "Myles Turner",
+        "Nique Clifford",
+        "Noa Essengue",
+        "Nikola Joki\u0107",
+        "Nikola Topi\u0107",
+        "Noah Penda",
+        "Nolan Traore",
+        "Paolo Banchero",
+        "Quinten Post",
+        "Rob Dillingham",
+        "Rasheer Fleming",
+        "Ron Holland II",
+        "Ryan Kalkbrenner",
+        "Ryan Dunn",
+        "Stephon Castle",
+        "Shai Gilgeous-Alexander",
+        "Scoot Henderson",
+        "Sion James",
+        "Stephen Curry",
+        "Taelon Peter",
+        "Tyrese Proctor",
+        "Thomas Sorber",
+        "Terrence Shannon Jr.",
+        "Victor Wembanyama",
+        "Walter Clayton Jr.",
+        "Will Richard",
+        "Will Riley",
+        "Yang Hansen",
+        "Yanic Konan-Niederh\u00e4use",
+        "Zach Edey",
+        "Zaccharie Risacher"
+      ],
+      "editorial": "The anchor auto program. Flagg, Harper, Edgecombe, Bailey, Knueppel all sign here. SuperFractor /1 is the premier 1-of-1 chase."
+    },
+    {
+      "name": "Chrome Prospect Autographs",
+      "slug": "chrome-prospect-autographs",
+      "totalSigners": 99,
+      "boxGuarantee": "NCAA-side chromium autograph",
+      "odds": {
+        "ratioDisplay": "1:76 packs (Hobby)",
+        "ratio": {
+          "onePerN": 76
+        },
+        "perFormat": {
+          "Hobby": {
+            "onePerN": 76,
+            "ratioDisplay": "1:76 packs"
+          },
+          "Jumbo": {
+            "onePerN": 16,
+            "ratioDisplay": "1:16 packs"
+          },
+          "Value": {
+            "onePerN": 13813,
+            "ratioDisplay": "1:13,813 packs"
+          },
+          "Bulk": {
+            "onePerN": 1000,
+            "ratioDisplay": "1:1,000 packs"
+          }
+        },
+        "source": {
+          "type": "official-topps-pdf",
+          "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+          "asOf": "2026-04-24"
+        }
+      },
+      "isHardSigned": true,
+      "hasRedemptions": false,
+      "isCaseHit": false,
+      "isNew": false,
+      "description": "The NCAA counterpart to Chrome Autographs \u2014 1st Bowman autos for the 2026 draft class and WCBB stars.",
+      "signers": [
+        "Aaliyah Crump",
+        "AJ Dybantsa",
+        "Addison Deal",
+        "Ace Flagg",
+        "Acaden Lewis",
+        "Agot Makeer",
+        "Aliyahna Morris",
+        "Alexandra Eschmeyer",
+        "Ayla McDowell",
+        "Brayden Burries",
+        "Brandon Garrison",
+        "Bennett Stirtz",
+        "Bryce Lindsay",
+        "Braden Smith",
+        "Boopie Miller",
+        "Braeden Shrewsberry",
+        "Bryson Tiller",
+        "Christian Anderson",
+        "Coen Carr",
+        "Caleb Foster",
+        "CJ Ingram",
+        "Caleb Wilson",
+        "Cotie McMahon",
+        "Chase Ross",
+        "Cam Ward",
+        "Derek Dixon",
+        "Davis Fogle",
+        "Davion Hannah",
+        "Darianna Alexander",
+        "Devin McGlockton",
+        "Donald Hand Jr.",
+        "Darryn Peterson",
+        "Deniya Prawl",
+        "Darrion Williams",
+        "Emilee Skinner",
+        "Grace Knox",
+        "Hailee Swain",
+        "Isaiah Denis",
+        "Isiah Harwell",
+        "Juju Watkins",
+        "John Blackwell",
+        "Jaida Civil",
+        "Josh Dix",
+        "Jason Edwards",
+        "Joe Grahovac",
+        "Ja'Kobi Gillespie",
+        "Jasper Johnson",
+        "Jaland Lowe",
+        "Jamier Jones",
+        "JT Toppin",
+        "Jeremiah Wilkinson",
+        "Kiyan Anthony",
+        "Kaelyn Carroll",
+        "Kara Dunn",
+        "Kelis Fisher",
+        "Keyshawn Hall",
+        "Kiyomi Mcmiller",
+        "Koa Peat",
+        "Kohl Rosario",
+        "Kaylene Smikle",
+        "Leah Macy",
+        "Lara Somfai",
+        "Madison Booker",
+        "Mikel Brown Jr.",
+        "Michael Rataj",
+        "Milos Uzan",
+        "Nate Ament",
+        "Niko Bundalo",
+        "Nate Calmese",
+        "Nate Bittle",
+        "Nick Martinelli",
+        "Nyla Brooks",
+        "Obi Agbim",
+        "Owen Freeman",
+        "Otega Oweh",
+        "Oziyah Sellers",
+        "Pharrel Payne",
+        "Reed Bailey",
+        "Raegan Beers",
+        "Richie Saunders",
+        "Shon Abaev",
+        "Sienna Betts",
+        "Silas Demary Jr.",
+        "Shelton Henderson",
+        "Sebastian Wilkins",
+        "Sarah Strong",
+        "Serah Williams",
+        "Sadiq White",
+        "Tobe Awaka",
+        "Trey Kaufman-Renn",
+        "Ta'Niya Latson",
+        "Tarris Reed Jr.",
+        "Tounde Yessoufou",
+        "Winters Grady",
+        "Wesley Yates III",
+        "Xaivian Lee",
+        "Yarden Garzon",
+        "Zuby Ejiofor",
+        "ZaKiyah Johnson"
+      ],
+      "editorial": "Where long-term upside lives. Dybantsa, Peterson, Wilson, Ament sign here as 1st Bowman autos. Watkins, Booker, Strong anchor the women's side."
+    },
+    {
+      "name": "Retrofractor Autograph Variation",
+      "slug": "retrofractor-autograph-variation",
+      "totalSigners": 1,
+      "boxGuarantee": "Case-level hit",
+      "odds": {
+        "ratioDisplay": "1:120,347 packs (Hobby)",
+        "ratio": {
+          "onePerN": 120347
+        },
+        "perFormat": {
+          "Hobby": {
+            "onePerN": 120347,
+            "ratioDisplay": "1:120,347 packs"
+          },
+          "Jumbo": {
+            "onePerN": 42571,
+            "ratioDisplay": "1:42,571 packs"
+          },
+          "Value": {
+            "onePerN": 452631,
+            "ratioDisplay": "1:452,631 packs"
+          },
+          "Bulk": {
+            "onePerN": 50000,
+            "ratioDisplay": "1:50,000 packs"
+          }
+        },
+        "source": {
+          "type": "official-topps-pdf",
+          "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+          "asOf": "2026-04-24"
+        }
+      },
+      "isHardSigned": true,
+      "hasRedemptions": false,
+      "isCaseHit": true,
+      "isNew": true,
+      "description": "Legend-tier throwback design using college-era photography of basketball icons.",
+      "signers": [
+        "Shaquille O'Neal"
+      ],
+      "editorial": "Shaq in LSU purple-and-gold autographed 1/1s live here. This is Rip Report's hidden-gem pick \u2014 one signer, one card, multiple parallel tiers."
+    },
+    {
+      "name": "Future Script",
+      "slug": "future-script",
+      "totalSigners": 25,
+      "boxGuarantee": null,
+      "odds": {
+        "ratioDisplay": "1:1,889 packs (Hobby)",
+        "ratio": {
+          "onePerN": 1889
+        },
+        "perFormat": {
+          "Hobby": {
+            "onePerN": 1889,
+            "ratioDisplay": "1:1,889 packs"
+          },
+          "Jumbo": {
+            "onePerN": 636,
+            "ratioDisplay": "1:636 packs"
+          },
+          "Breaker's Delight": {
+            "onePerN": 68,
+            "ratioDisplay": "1:68 packs"
+          }
+        },
+        "source": {
+          "type": "official-topps-pdf",
+          "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+          "asOf": "2026-04-24"
+        }
+      },
+      "isHardSigned": true,
+      "hasRedemptions": false,
+      "isCaseHit": false,
+      "isNew": true,
+      "description": "New 25-card NCAA-prospect auto set with an inscribed/script design.",
+      "signers": [
+        "AJ Dybantsa",
+        "Acaden Lewis",
+        "Brynn McGaughy",
+        "Boopie Miller",
+        "Bryson Tiller",
+        "Caleb Wilson",
+        "Darryn Peterson",
+        "Isiah Harwell",
+        "Josh Dix",
+        "Jason Edwards",
+        "Jasper Johnson",
+        "Kiyan Anthony",
+        "Kaelyn Carroll",
+        "Koa Peat",
+        "Madison Booker",
+        "Mikel Brown Jr.",
+        "Milos Uzan",
+        "Nate Ament",
+        "Niko Bundalo",
+        "Obi Agbim",
+        "Ryan Conwell",
+        "Shon Abaev",
+        "Sienna Betts",
+        "Shelton Henderson",
+        "Tounde Yessoufou"
+      ],
+      "editorial": "NCAA-focused auto insert. Dybantsa and top prospects get secondary auto exposure beyond Chrome Prospect Autographs."
+    },
+    {
+      "name": "Buzz Factor Autographs",
+      "slug": "buzz-factor-autographs",
+      "totalSigners": 25,
+      "boxGuarantee": null,
+      "odds": {
+        "ratioDisplay": "1:1,417 packs (Hobby)",
+        "ratio": {
+          "onePerN": 1417
+        },
+        "perFormat": {
+          "Hobby": {
+            "onePerN": 1417,
+            "ratioDisplay": "1:1,417 packs"
+          },
+          "Jumbo": {
+            "onePerN": 477,
+            "ratioDisplay": "1:477 packs"
+          },
+          "Breaker's Delight": {
+            "onePerN": 51,
+            "ratioDisplay": "1:51 packs"
+          }
+        },
+        "source": {
+          "type": "official-topps-pdf",
+          "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+          "asOf": "2026-04-24"
+        }
+      },
+      "isHardSigned": true,
+      "hasRedemptions": false,
+      "isCaseHit": false,
+      "isNew": true,
+      "description": "New 25-card NCAA-prospect auto set \u2014 the 'buzzy' name tier.",
+      "signers": [
+        "Aaliyah Crump",
+        "Agot Makeer",
+        "Braeden Shrewsberry",
+        "Coen Carr",
+        "Cotie McMahon",
+        "Dwayne Aristode",
+        "Derek Dixon",
+        "Darrion Williams",
+        "Hailee Swain",
+        "Jaland Lowe",
+        "Kiyomi McMiller",
+        "Kohl Rosario",
+        "Kam Williams",
+        "Michael Rataj",
+        "Malik Reneau",
+        "Otega Oweh",
+        "Reed Bailey",
+        "Silas Demary Jr.",
+        "Sarah Strong",
+        "Serah Williams",
+        "Tre Donaldson",
+        "Tylis Jordan",
+        "Trey Kaufman-Renn",
+        "Xaivian Lee",
+        "Zuby Ejiofor"
+      ],
+      "editorial": "Skews toward women's basketball. Watkins, Crump, McMahon, Kaufman-Renn show up here for secondary auto availability."
+    },
+    {
+      "name": "Opening Statement Signatures",
+      "slug": "opening-statement-signatures",
+      "totalSigners": 25,
+      "boxGuarantee": null,
+      "odds": {
+        "ratioDisplay": "1:1,731 packs (Hobby)",
+        "ratio": {
+          "onePerN": 1731
+        },
+        "perFormat": {
+          "Hobby": {
+            "onePerN": 1731,
+            "ratioDisplay": "1:1,731 packs"
+          },
+          "Jumbo": {
+            "onePerN": 582,
+            "ratioDisplay": "1:582 packs"
+          },
+          "Breaker's Delight": {
+            "onePerN": 62,
+            "ratioDisplay": "1:62 packs"
+          }
+        },
+        "source": {
+          "type": "official-topps-pdf",
+          "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+          "asOf": "2026-04-24"
+        }
+      },
+      "isHardSigned": true,
+      "hasRedemptions": false,
+      "isCaseHit": false,
+      "isNew": true,
+      "description": "New 25-card NBA-rookie-only auto set.",
+      "signers": [
+        "Ace Bailey",
+        "Alex Toohey",
+        "Brooks Barnhizer",
+        "Cedric Coward",
+        "Cooper Flagg",
+        "Collin Murray-Boyles",
+        "Dylan Harper",
+        "Derik Queen",
+        "Egor D\u00ebmin",
+        "Jahmai Mashack",
+        "Javon Small",
+        "John Tonje",
+        "Jamir Watkins",
+        "Kon Knueppel",
+        "Khaman Maluach",
+        "Kobe Sanders",
+        "Lachlan Olbrich",
+        "Maxime Raynaud",
+        "Max Shulga",
+        "Noa Essengue",
+        "Noah Penda",
+        "Taelon Peter",
+        "Tyrese Proctor",
+        "Will Richard",
+        "Yang Hansen"
+      ],
+      "editorial": "Exclusively 2025 NBA rookies. Flagg, Bailey, Edgecombe, Knueppel, Coward, Yang Hansen all here. If you want rookie autos in a smaller checklist than Chrome Autographs, this is the target."
+    },
+    {
+      "name": "Timeless Touch Signatures",
+      "slug": "timeless-touch-signatures",
+      "totalSigners": 25,
+      "boxGuarantee": null,
+      "odds": {
+        "ratioDisplay": "1:72 packs (Hobby)",
+        "ratio": {
+          "onePerN": 72
+        },
+        "perFormat": {
+          "Hobby": {
+            "onePerN": 72,
+            "ratioDisplay": "1:72 packs"
+          },
+          "Jumbo": {
+            "onePerN": 17,
+            "ratioDisplay": "1:17 packs"
+          },
+          "Breaker's Delight": {
+            "onePerN": 4,
+            "ratioDisplay": "1:4 packs"
+          }
+        },
+        "source": {
+          "type": "official-topps-pdf",
+          "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+          "asOf": "2026-04-24"
+        }
+      },
+      "isHardSigned": true,
+      "hasRedemptions": false,
+      "isCaseHit": false,
+      "isNew": true,
+      "description": "25-card NBA star/veteran auto set \u2014 the highest-frequency auto pull.",
+      "signers": [
+        "Anthony Black",
+        "Alex Sarr",
+        "Brandon Miller",
+        "Cade Cunningham",
+        "Cam Whitmore",
+        "Cason Wallace",
+        "Cody Williams",
+        "Moses Moody",
+        "Dyson Daniels",
+        "Dalen Terry",
+        "Gradey Dick",
+        "Tyrese Haliburton",
+        "Isaiah Hartenstein",
+        "Jordan Hawkins",
+        "Jalen Williams",
+        "Jarace Walker",
+        "Oso Ighodaro",
+        "Ryan Dunn",
+        "Rudy Gobert",
+        "Scoot Henderson",
+        "Taylor Hendricks",
+        "Tyler Smith",
+        "Victor Wembanyama",
+        "Zach Edey",
+        "Zaccharie Risacher"
+      ],
+      "editorial": "The easiest auto pull by odds (1:72 Hobby). Wemby, Cade, Edey, Risacher. Lots of supply, lower individual card value, but accessible entry point for NBA star auto collectors."
+    },
+    {
+      "name": "Bowman Dual Autographs",
+      "slug": "bowman-dual-autographs",
+      "totalSigners": 12,
+      "boxGuarantee": "Case-level hit",
+      "odds": {
+        "ratioDisplay": "1:49,233 packs (Hobby)",
+        "ratio": {
+          "onePerN": 49233
+        },
+        "perFormat": {
+          "Hobby": {
+            "onePerN": 49233,
+            "ratioDisplay": "1:49,233 packs"
+          },
+          "Jumbo": {
+            "onePerN": 17416,
+            "ratioDisplay": "1:17,416 packs"
+          },
+          "Breaker's Delight": {
+            "onePerN": 1969,
+            "ratioDisplay": "1:1,969 packs"
+          }
+        },
+        "source": {
+          "type": "official-topps-pdf",
+          "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+          "asOf": "2026-04-24"
+        }
+      },
+      "isHardSigned": true,
+      "hasRedemptions": false,
+      "isCaseHit": true,
+      "isNew": false,
+      "description": "Pairs of signers on one card \u2014 approximately 10 dual cards. NCAA focus.",
+      "signers": [
+        "Grace Knox",
+        "Aaliyah Crump",
+        "Darryn Peterson",
+        "AJ Dybantsa",
+        "Sienna Betts",
+        "Caleb Wilson",
+        "Nate Ament",
+        "Juju Watkins",
+        "Kiyan Anthony",
+        "Emilee Skinner",
+        "Raegan Beers",
+        "Sarah Strong"
+      ],
+      "editorial": "Dybantsa + Peterson on one card is the chase. Sienna Betts + Sarah Strong pairs the two top women's freshmen. Top-tier case-hit territory."
+    },
+    {
+      "name": "Paper Prospect Retail Autographs",
+      "slug": "paper-prospect-retail-autograph",
+      "totalSigners": 100,
+      "boxGuarantee": "Retail-exclusive auto (Value + Bulk packs)",
+      "odds": {
+        "ratioDisplay": "1:778 packs (Value)",
+        "ratio": {
+          "onePerN": 778
+        },
+        "perFormat": {
+          "Value": {
+            "onePerN": 778,
+            "ratioDisplay": "1:778 packs"
+          },
+          "Bulk": {
+            "onePerN": 175,
+            "ratioDisplay": "1:175 packs"
+          }
+        },
+        "source": {
+          "type": "official-topps-pdf",
+          "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+          "asOf": "2026-04-24"
+        }
+      },
+      "isHardSigned": true,
+      "hasRedemptions": false,
+      "isCaseHit": false,
+      "isNew": false,
+      "description": "NCAA-prospect autos on paper stock \u2014 retail-channel exclusive.",
+      "signers": [
+        "Aaliyah Crump",
+        "Addison Deal",
+        "Alexandra Eschmeyer",
+        "Ace Flagg",
+        "Acaden Lewis",
+        "Aliyahna Morris",
+        "Ayla McDowell",
+        "AJ Dybantsa",
+        "Brayden Burries",
+        "Brandon Garrison",
+        "Boopie Miller",
+        "Bryce Lindsay",
+        "Brynn McGaughy",
+        "Braden Smith",
+        "Braeden Shrewsberry",
+        "Bennett Stirtz",
+        "Christian Anderson",
+        "Coen Carr",
+        "Caleb Foster",
+        "CJ Ingram",
+        "Caleb Wilson",
+        "Cotie McMahon",
+        "Chase Ross",
+        "Cam Ward",
+        "Darianna Alexander",
+        "Derek Dixon",
+        "Darryn Peterson",
+        "Davis Fogle",
+        "Davion Hannah",
+        "Donald Hand Jr.",
+        "Devin McGlockton",
+        "Deniya Prawl",
+        "Darrion Williams",
+        "Emilee Skinner",
+        "Grace Knox",
+        "Hailee Swain",
+        "Isaiah Denis",
+        "John Blackwell",
+        "Jaida Civil",
+        "Josh Dix",
+        "Jason Edwards",
+        "Joe Grahovac",
+        "Jamier Jones",
+        "Ja'Kobi Gillespie",
+        "Jaland Lowe",
+        "JT Toppin",
+        "Juju Watkins",
+        "Jeremiah Wilkinson",
+        "Kaelyn Carroll",
+        "Kara Dunn",
+        "Kelis Fisher",
+        "Keyshawn Hall",
+        "Kiyomi McMiller",
+        "Kohl Rosario",
+        "Kaylene Smikle",
+        "Leah Macy",
+        "Lara Somfai",
+        "Michael Rataj",
+        "Madison Booker",
+        "Mikel Brown Jr.",
+        "Agot Makeer",
+        "Kam Williams",
+        "Milos Uzan",
+        "Niko Bundalo",
+        "Nate Calmese",
+        "Nate Bittle",
+        "Nick Martinelli",
+        "Nyla Brooks",
+        "Obi Agbim",
+        "Otega Oweh",
+        "Owen Freeman",
+        "Oziyah Sellers",
+        "Pharrel Payne",
+        "Reed Bailey",
+        "Ryan Conwell",
+        "Raegan Beers",
+        "Tre Donaldson",
+        "Richie Saunders",
+        "Shon Abaev",
+        "Sienna Betts",
+        "Silas Demary Jr.",
+        "Sadiq White",
+        "Sebastian Wilkins",
+        "Sarah Strong",
+        "Serah Williams",
+        "Tobe Awaka",
+        "Malik Reneau",
+        "Tre Holloman",
+        "Robert McCray V",
+        "Trey Kaufman-Renn",
+        "Ta'Niya Latson",
+        "Tylis Jordan",
+        "Tarris Reed Jr.",
+        "Tounde Yessoufou",
+        "Winters Grady",
+        "Wesley Yates III",
+        "Xaivian Lee",
+        "Yarden Garzon",
+        "Zuby Ejiofor",
+        "ZaKiyah Johnson"
+      ],
+      "editorial": "Retail buyers' NCAA auto access. Same ~100 prospects as Chrome Prospect Autographs but on paper in Value/Bulk. Lower hit rates per format but paper autos have their own collector base."
+    },
+    {
+      "name": "Paper Rookies and Veterans Retail Autographs",
+      "slug": "paper-rookies-and-veterans-retail-autograph",
+      "totalSigners": 99,
+      "boxGuarantee": "Retail-exclusive auto (Value + Bulk packs)",
+      "odds": {
+        "ratioDisplay": "1:3,816 packs (Value)",
+        "ratio": {
+          "onePerN": 3816
+        },
+        "perFormat": {
+          "Value": {
+            "onePerN": 3816,
+            "ratioDisplay": "1:3,816 packs"
+          },
+          "Bulk": {
+            "onePerN": 863,
+            "ratioDisplay": "1:863 packs"
+          }
+        },
+        "source": {
+          "type": "official-topps-pdf",
+          "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2025-26_Bowman_Basketball_Odds.pdf?v=1776281698",
+          "asOf": "2026-04-24"
+        }
+      },
+      "isHardSigned": true,
+      "hasRedemptions": false,
+      "isCaseHit": false,
+      "isNew": false,
+      "description": "NBA-side retail paper autos covering rookies and veterans.",
+      "signers": [
+        "Ace Bailey",
+        "Al Horford",
+        "Anthony Black",
+        "Alijah Martin",
+        "Asa Newell",
+        "Alex Toohey",
+        "Adou Thiero",
+        "Brooks Barnhizer",
+        "Brandon Clarke",
+        "Ben Saraf",
+        "Baylor Scheierman",
+        "Cedric Coward",
+        "Cooper Flagg",
+        "Chet Holmgren",
+        "Chaz Lanier",
+        "Collin Murray-Boyles",
+        "Cody Williams",
+        "Cason Wallace",
+        "Cam Whitmore",
+        "Deandre Ayton",
+        "Devin Carter",
+        "Dylan Harper",
+        "Dillon Jones",
+        "Drake Powell",
+        "Derik Queen",
+        "Derrick White",
+        "Danny Wolf",
+        "Egor D\u00ebmin",
+        "Franz Wagner",
+        "Gradey Dick",
+        "Isaiah Collier",
+        "Jarrett Allen",
+        "Johni Broome",
+        "Joan Beringer",
+        "Jalen Brunson",
+        "Jeremy Sochan",
+        "Jett Howard",
+        "Johnny Furphy",
+        "Jrue Holiday",
+        "Jaime Jaquez Jr.",
+        "Jalen Williams",
+        "Jarace Walker",
+        "Jaylin Williams",
+        "Jahmai Mashack",
+        "James Harden",
+        "Jase Richardson",
+        "Javon Small",
+        "John Tonje",
+        "Jamal Murray",
+        "Jamir Watkins",
+        "Koby Brea",
+        "Kyle Filipowski",
+        "Kasparas Jakucionis",
+        "Kon Knueppel",
+        "Khaman Maluach",
+        "Kam Jones",
+        "Kobe Sanders",
+        "Kel'el Ware",
+        "Liam McNeeley",
+        "Lachlan Olbrich",
+        "Miles McBride",
+        "Micah Peavy",
+        "Maxime Raynaud",
+        "Max Shulga",
+        "Nique Clifford",
+        "Noa Essengue",
+        "Nikola Jovi\u0107",
+        "Noah Penda",
+        "Nolan Traore",
+        "Paolo Banchero",
+        "Pac\u00f4me Dadiet",
+        "Quinten Post",
+        "Ryan Dunn",
+        "Rasheer Fleming",
+        "Ron Holland II",
+        "Rob Dillingham",
+        "Ryan Kalkbrenner",
+        "Royce O'Neale",
+        "Stephon Castle",
+        "Scoot Henderson",
+        "Sion James",
+        "Tidjane Sala\u00fcn",
+        "Tristan da Silva",
+        "Taelon Peter",
+        "Taylor Hendricks",
+        "Tyler Smith",
+        "Tyler Kolek",
+        "Terance Mann",
+        "Tyrese Proctor",
+        "Thomas Sorber",
+        "Walter Clayton Jr.",
+        "Will Richard",
+        "Will Riley",
+        "Xavier Tillman SR.",
+        "Yang Hansen",
+        "Yanic Konan-Niederh\u00e4use",
+        "Yves Missi",
+        "Zach Edey",
+        "Zaccharie Risacher"
+      ],
+      "editorial": "The retail-only path to NBA autos. Tighter odds than Paper Prospect Retail. If you're ripping Value boxes for NBA names, this is the set."
+    }
+  ],
+  "signerIndex": [
+    {
+      "player": "AJ Dybantsa",
+      "playerSlug": "aj-dybantsa",
+      "team": "BYU",
+      "teamSlug": "ncaa-byu",
+      "league": "NCAA-M",
+      "inSets": [
+        "bowman-dual-autographs",
+        "chrome-prospect-autographs",
+        "future-script",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 1,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Aaliyah Crump",
+      "playerSlug": "aaliyah-crump",
+      "team": "Texas",
+      "teamSlug": "ncaa-texas",
+      "league": "NCAA-W",
+      "inSets": [
+        "bowman-dual-autographs",
+        "buzz-factor-autographs",
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Aaron Nesmith",
+      "playerSlug": "aaron-nesmith",
+      "team": "",
+      "teamSlug": "",
+      "league": "OTHER",
+      "inSets": [
+        "chrome-autographs"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Acaden Lewis",
+      "playerSlug": "acaden-lewis",
+      "team": "Villanova",
+      "teamSlug": "ncaa-villanova",
+      "league": "NCAA-M",
+      "inSets": [
+        "chrome-prospect-autographs",
+        "future-script",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Ace Bailey",
+      "playerSlug": "ace-bailey",
+      "team": "Utah Jazz",
+      "teamSlug": "utah-jazz",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "opening-statement-signatures",
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 2,
+      "isFirstBowmanAuto": false,
+      "isRookie": true
+    },
+    {
+      "player": "Ace Flagg",
+      "playerSlug": "ace-flagg",
+      "team": "Maine",
+      "teamSlug": "ncaa-maine",
+      "league": "NCAA-M",
+      "inSets": [
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 3,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Addison Deal",
+      "playerSlug": "addison-deal",
+      "team": "Iowa",
+      "teamSlug": "ncaa-iowa",
+      "league": "NCAA-W",
+      "inSets": [
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Adou Thiero",
+      "playerSlug": "adou-thiero",
+      "team": "Los Angeles Lakers",
+      "teamSlug": "los-angeles-lakers",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": true
+    },
+    {
+      "player": "Agot Makeer",
+      "playerSlug": "agot-makeer",
+      "team": "South Carolina",
+      "teamSlug": "ncaa-south-carolina",
+      "league": "NCAA-W",
+      "inSets": [
+        "buzz-factor-autographs",
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Ajay Mitchell",
+      "playerSlug": "ajay-mitchell",
+      "team": "",
+      "teamSlug": "",
+      "league": "OTHER",
+      "inSets": [
+        "chrome-autographs"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Al Horford",
+      "playerSlug": "al-horford",
+      "team": "",
+      "teamSlug": "",
+      "league": "OTHER",
+      "inSets": [
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": null,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Alex Sarr",
+      "playerSlug": "alex-sarr",
+      "team": "Washington Wizards",
+      "teamSlug": "washington-wizards",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "timeless-touch-signatures"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Alex Toohey",
+      "playerSlug": "alex-toohey",
+      "team": "Golden State Warriors",
+      "teamSlug": "golden-state-warriors",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "opening-statement-signatures",
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": true
+    },
+    {
+      "player": "Alexandra Eschmeyer",
+      "playerSlug": "alexandra-eschmeyer",
+      "team": "Stanford",
+      "teamSlug": "ncaa-stanford",
+      "league": "NCAA-W",
+      "inSets": [
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Alijah Martin",
+      "playerSlug": "alijah-martin",
+      "team": "Toronto Raptors",
+      "teamSlug": "toronto-raptors",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": true
+    },
+    {
+      "player": "Aliyahna Morris",
+      "playerSlug": "aliyahna-morris",
+      "team": "California",
+      "teamSlug": "ncaa-california",
+      "league": "NCAA-W",
+      "inSets": [
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Anthony Black",
+      "playerSlug": "anthony-black",
+      "team": "Orlando Magic",
+      "teamSlug": "orlando-magic",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "paper-rookies-and-veterans-retail-autograph",
+        "timeless-touch-signatures"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Anthony Edwards",
+      "playerSlug": "anthony-edwards",
+      "team": "Minnesota Timberwolves",
+      "teamSlug": "minnesota-timberwolves",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 3,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Asa Newell",
+      "playerSlug": "asa-newell",
+      "team": "Atlanta Hawks",
+      "teamSlug": "atlanta-hawks",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": true
+    },
+    {
+      "player": "Ayla McDowell",
+      "playerSlug": "ayla-mcdowell",
+      "team": "South Carolina",
+      "teamSlug": "ncaa-south-carolina",
+      "league": "NCAA-W",
+      "inSets": [
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Baylor Scheierman",
+      "playerSlug": "baylor-scheierman",
+      "team": "",
+      "teamSlug": "",
+      "league": "OTHER",
+      "inSets": [
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": null,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Ben Saraf",
+      "playerSlug": "ben-saraf",
+      "team": "Brooklyn Nets",
+      "teamSlug": "brooklyn-nets",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": true
+    },
+    {
+      "player": "Bennett Stirtz",
+      "playerSlug": "bennett-stirtz",
+      "team": "Iowa",
+      "teamSlug": "ncaa-iowa",
+      "league": "NCAA-M",
+      "inSets": [
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Boopie Miller",
+      "playerSlug": "boopie-miller",
+      "team": "SMU",
+      "teamSlug": "ncaa-smu",
+      "league": "NCAA-M",
+      "inSets": [
+        "chrome-prospect-autographs",
+        "future-script",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Braden Smith",
+      "playerSlug": "braden-smith",
+      "team": "Purdue",
+      "teamSlug": "ncaa-purdue",
+      "league": "NCAA-M",
+      "inSets": [
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 3,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Braeden Shrewsberry",
+      "playerSlug": "braeden-shrewsberry",
+      "team": "Notre Dame",
+      "teamSlug": "ncaa-notre-dame",
+      "league": "NCAA-M",
+      "inSets": [
+        "buzz-factor-autographs",
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Brandon Clarke",
+      "playerSlug": "brandon-clarke",
+      "team": "",
+      "teamSlug": "",
+      "league": "OTHER",
+      "inSets": [
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": null,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Brandon Garrison",
+      "playerSlug": "brandon-garrison",
+      "team": "Kentucky",
+      "teamSlug": "ncaa-kentucky",
+      "league": "NCAA-M",
+      "inSets": [
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Brandon Miller",
+      "playerSlug": "brandon-miller",
+      "team": "Charlotte Hornets",
+      "teamSlug": "charlotte-hornets",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "timeless-touch-signatures"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Brayden Burries",
+      "playerSlug": "brayden-burries",
+      "team": "Arizona",
+      "teamSlug": "ncaa-arizona",
+      "league": "NCAA-M",
+      "inSets": [
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Bronny James Jr.",
+      "playerSlug": "bronny-james-jr",
+      "team": "Los Angeles Lakers",
+      "teamSlug": "los-angeles-lakers",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Brooks Barnhizer",
+      "playerSlug": "brooks-barnhizer",
+      "team": "Oklahoma City Thunder",
+      "teamSlug": "oklahoma-city-thunder",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "opening-statement-signatures",
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": true
+    },
+    {
+      "player": "Bryce Lindsay",
+      "playerSlug": "bryce-lindsay",
+      "team": "Villanova",
+      "teamSlug": "ncaa-villanova",
+      "league": "NCAA-M",
+      "inSets": [
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Brynn McGaughy",
+      "playerSlug": "brynn-mcgaughy",
+      "team": "",
+      "teamSlug": "",
+      "league": "OTHER",
+      "inSets": [
+        "future-script",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": null,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Bryson Tiller",
+      "playerSlug": "bryson-tiller",
+      "team": "Kansas",
+      "teamSlug": "ncaa-kansas",
+      "league": "NCAA-M",
+      "inSets": [
+        "chrome-prospect-autographs",
+        "future-script"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "CJ Ingram",
+      "playerSlug": "cj-ingram",
+      "team": "Florida",
+      "teamSlug": "ncaa-florida",
+      "league": "NCAA-M",
+      "inSets": [
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Cade Cunningham",
+      "playerSlug": "cade-cunningham",
+      "team": "Detroit Pistons",
+      "teamSlug": "detroit-pistons",
+      "league": "NBA",
+      "inSets": [
+        "timeless-touch-signatures"
+      ],
+      "lowestParallelNumbered": null,
+      "tier": 3,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Caleb Foster",
+      "playerSlug": "caleb-foster",
+      "team": "Duke",
+      "teamSlug": "ncaa-duke",
+      "league": "NCAA-M",
+      "inSets": [
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Caleb Wilson",
+      "playerSlug": "caleb-wilson",
+      "team": "UNC",
+      "teamSlug": "ncaa-unc",
+      "league": "NCAA-M",
+      "inSets": [
+        "bowman-dual-autographs",
+        "chrome-prospect-autographs",
+        "future-script",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 2,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Cam Ward",
+      "playerSlug": "cam-ward",
+      "team": "Michigan State",
+      "teamSlug": "ncaa-michigan-state",
+      "league": "NCAA-M",
+      "inSets": [
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Cam Whitmore",
+      "playerSlug": "cam-whitmore",
+      "team": "",
+      "teamSlug": "",
+      "league": "OTHER",
+      "inSets": [
+        "chrome-autographs",
+        "paper-rookies-and-veterans-retail-autograph",
+        "timeless-touch-signatures"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Cason Wallace",
+      "playerSlug": "cason-wallace",
+      "team": "Oklahoma City Thunder",
+      "teamSlug": "oklahoma-city-thunder",
+      "league": "NBA",
+      "inSets": [
+        "paper-rookies-and-veterans-retail-autograph",
+        "timeless-touch-signatures"
+      ],
+      "lowestParallelNumbered": null,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Cedric Coward",
+      "playerSlug": "cedric-coward",
+      "team": "Memphis Grizzlies",
+      "teamSlug": "memphis-grizzlies",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "opening-statement-signatures",
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 3,
+      "isFirstBowmanAuto": false,
+      "isRookie": true
+    },
+    {
+      "player": "Chase Ross",
+      "playerSlug": "chase-ross",
+      "team": "Marquette",
+      "teamSlug": "ncaa-marquette",
+      "league": "NCAA-M",
+      "inSets": [
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Chaz Lanier",
+      "playerSlug": "chaz-lanier",
+      "team": "Detroit Pistons",
+      "teamSlug": "detroit-pistons",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": true
+    },
+    {
+      "player": "Chet Holmgren",
+      "playerSlug": "chet-holmgren",
+      "team": "Oklahoma City Thunder",
+      "teamSlug": "oklahoma-city-thunder",
+      "league": "NBA",
+      "inSets": [
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": null,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Christian Anderson",
+      "playerSlug": "christian-anderson",
+      "team": "Texas Tech",
+      "teamSlug": "ncaa-texas-tech",
+      "league": "NCAA-M",
+      "inSets": [
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Cody Williams",
+      "playerSlug": "cody-williams",
+      "team": "",
+      "teamSlug": "",
+      "league": "OTHER",
+      "inSets": [
+        "paper-rookies-and-veterans-retail-autograph",
+        "timeless-touch-signatures"
+      ],
+      "lowestParallelNumbered": null,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Coen Carr",
+      "playerSlug": "coen-carr",
+      "team": "Michigan State",
+      "teamSlug": "ncaa-michigan-state",
+      "league": "NCAA-M",
+      "inSets": [
+        "buzz-factor-autographs",
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Collin Murray-Boyles",
+      "playerSlug": "collin-murray-boyles",
+      "team": "Toronto Raptors",
+      "teamSlug": "toronto-raptors",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "opening-statement-signatures",
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 3,
+      "isFirstBowmanAuto": false,
+      "isRookie": true
+    },
+    {
+      "player": "Cooper Flagg",
+      "playerSlug": "cooper-flagg",
+      "team": "Dallas Mavericks",
+      "teamSlug": "dallas-mavericks",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "opening-statement-signatures",
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 1,
+      "isFirstBowmanAuto": false,
+      "isRookie": true
+    },
+    {
+      "player": "Cotie McMahon",
+      "playerSlug": "cotie-mcmahon",
+      "team": "Ole Miss",
+      "teamSlug": "ncaa-ole-miss",
+      "league": "NCAA-W",
+      "inSets": [
+        "buzz-factor-autographs",
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Dalen Terry",
+      "playerSlug": "dalen-terry",
+      "team": "",
+      "teamSlug": "",
+      "league": "OTHER",
+      "inSets": [
+        "timeless-touch-signatures"
+      ],
+      "lowestParallelNumbered": null,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Danny Wolf",
+      "playerSlug": "danny-wolf",
+      "team": "Brooklyn Nets",
+      "teamSlug": "brooklyn-nets",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": true
+    },
+    {
+      "player": "Darianna Alexander",
+      "playerSlug": "darianna-alexander",
+      "team": "Cincinnati",
+      "teamSlug": "ncaa-cincinnati",
+      "league": "NCAA-W",
+      "inSets": [
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Darrion Williams",
+      "playerSlug": "darrion-williams",
+      "team": "NC State",
+      "teamSlug": "ncaa-nc-state",
+      "league": "NCAA-M",
+      "inSets": [
+        "buzz-factor-autographs",
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Darryn Peterson",
+      "playerSlug": "darryn-peterson",
+      "team": "Kansas",
+      "teamSlug": "ncaa-kansas",
+      "league": "NCAA-M",
+      "inSets": [
+        "bowman-dual-autographs",
+        "chrome-prospect-autographs",
+        "future-script",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 1,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Davion Hannah",
+      "playerSlug": "davion-hannah",
+      "team": "Alabama",
+      "teamSlug": "ncaa-alabama",
+      "league": "NCAA-M",
+      "inSets": [
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Davis Fogle",
+      "playerSlug": "davis-fogle",
+      "team": "Gonzaga",
+      "teamSlug": "ncaa-gonzaga",
+      "league": "NCAA-M",
+      "inSets": [
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Deandre Ayton",
+      "playerSlug": "deandre-ayton",
+      "team": "",
+      "teamSlug": "",
+      "league": "OTHER",
+      "inSets": [
+        "chrome-autographs",
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Deniya Prawl",
+      "playerSlug": "deniya-prawl",
+      "team": "Tennessee",
+      "teamSlug": "ncaa-tennessee",
+      "league": "NCAA-W",
+      "inSets": [
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Derek Dixon",
+      "playerSlug": "derek-dixon",
+      "team": "UNC",
+      "teamSlug": "ncaa-unc",
+      "league": "NCAA-M",
+      "inSets": [
+        "buzz-factor-autographs",
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Derik Queen",
+      "playerSlug": "derik-queen",
+      "team": "New Orleans Pelicans",
+      "teamSlug": "new-orleans-pelicans",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "opening-statement-signatures",
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 3,
+      "isFirstBowmanAuto": false,
+      "isRookie": true
+    },
+    {
+      "player": "Derrick White",
+      "playerSlug": "derrick-white",
+      "team": "Boston Celtics",
+      "teamSlug": "boston-celtics",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Devin Carter",
+      "playerSlug": "devin-carter",
+      "team": "Sacramento Kings",
+      "teamSlug": "sacramento-kings",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Devin McGlockton",
+      "playerSlug": "devin-mcglockton",
+      "team": "Vanderbilt",
+      "teamSlug": "ncaa-vanderbilt",
+      "league": "NCAA-M",
+      "inSets": [
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Devin Vassell",
+      "playerSlug": "devin-vassell",
+      "team": "",
+      "teamSlug": "",
+      "league": "OTHER",
+      "inSets": [
+        "chrome-autographs"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Dillon Jones",
+      "playerSlug": "dillon-jones",
+      "team": "",
+      "teamSlug": "",
+      "league": "OTHER",
+      "inSets": [
+        "chrome-autographs",
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Donald Hand Jr.",
+      "playerSlug": "donald-hand-jr",
+      "team": "Boston College",
+      "teamSlug": "ncaa-boston-college",
+      "league": "NCAA-M",
+      "inSets": [
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Dorian Finney-Smith",
+      "playerSlug": "dorian-finney-smith",
+      "team": "",
+      "teamSlug": "",
+      "league": "OTHER",
+      "inSets": [
+        "chrome-autographs"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Drake Powell",
+      "playerSlug": "drake-powell",
+      "team": "Brooklyn Nets",
+      "teamSlug": "brooklyn-nets",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": true
+    },
+    {
+      "player": "Dwayne Aristode",
+      "playerSlug": "dwayne-aristode",
+      "team": "",
+      "teamSlug": "",
+      "league": "OTHER",
+      "inSets": [
+        "buzz-factor-autographs"
+      ],
+      "lowestParallelNumbered": null,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Dylan Harper",
+      "playerSlug": "dylan-harper",
+      "team": "San Antonio Spurs",
+      "teamSlug": "san-antonio-spurs",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "opening-statement-signatures",
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 1,
+      "isFirstBowmanAuto": false,
+      "isRookie": true
+    },
+    {
+      "player": "Dyson Daniels",
+      "playerSlug": "dyson-daniels",
+      "team": "Atlanta Hawks",
+      "teamSlug": "atlanta-hawks",
+      "league": "NBA",
+      "inSets": [
+        "timeless-touch-signatures"
+      ],
+      "lowestParallelNumbered": null,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Egor D\u00ebmin",
+      "playerSlug": "egor-d\u00ebmin",
+      "team": "Brooklyn Nets",
+      "teamSlug": "brooklyn-nets",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "opening-statement-signatures",
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 2,
+      "isFirstBowmanAuto": false,
+      "isRookie": true
+    },
+    {
+      "player": "Emilee Skinner",
+      "playerSlug": "emilee-skinner",
+      "team": "Duke",
+      "teamSlug": "ncaa-duke",
+      "league": "NCAA-W",
+      "inSets": [
+        "bowman-dual-autographs",
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Enrique Freeman",
+      "playerSlug": "enrique-freeman",
+      "team": "",
+      "teamSlug": "",
+      "league": "OTHER",
+      "inSets": [
+        "chrome-autographs"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Franz Wagner",
+      "playerSlug": "franz-wagner",
+      "team": "Orlando Magic",
+      "teamSlug": "orlando-magic",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Giannis Antetokounmpo",
+      "playerSlug": "giannis-antetokounmpo",
+      "team": "Milwaukee Bucks",
+      "teamSlug": "milwaukee-bucks",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Grace Knox",
+      "playerSlug": "grace-knox",
+      "team": "LSU",
+      "teamSlug": "ncaa-lsu",
+      "league": "NCAA-W",
+      "inSets": [
+        "bowman-dual-autographs",
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Gradey Dick",
+      "playerSlug": "gradey-dick",
+      "team": "Toronto Raptors",
+      "teamSlug": "toronto-raptors",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "paper-rookies-and-veterans-retail-autograph",
+        "timeless-touch-signatures"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Hailee Swain",
+      "playerSlug": "hailee-swain",
+      "team": "Stanford",
+      "teamSlug": "ncaa-stanford",
+      "league": "NCAA-W",
+      "inSets": [
+        "buzz-factor-autographs",
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 3,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Isaiah Collier",
+      "playerSlug": "isaiah-collier",
+      "team": "Utah Jazz",
+      "teamSlug": "utah-jazz",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Isaiah Denis",
+      "playerSlug": "isaiah-denis",
+      "team": "UNC",
+      "teamSlug": "ncaa-unc",
+      "league": "NCAA-M",
+      "inSets": [
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Isaiah Hartenstein",
+      "playerSlug": "isaiah-hartenstein",
+      "team": "",
+      "teamSlug": "",
+      "league": "OTHER",
+      "inSets": [
+        "timeless-touch-signatures"
+      ],
+      "lowestParallelNumbered": null,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Isiah Harwell",
+      "playerSlug": "isiah-harwell",
+      "team": "Houston",
+      "teamSlug": "ncaa-houston",
+      "league": "NCAA-M",
+      "inSets": [
+        "chrome-prospect-autographs",
+        "future-script"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Ivica Zubac",
+      "playerSlug": "ivica-zubac",
+      "team": "Los Angeles Clippers",
+      "teamSlug": "los-angeles-clippers",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "JT Toppin",
+      "playerSlug": "jt-toppin",
+      "team": "Texas Tech",
+      "teamSlug": "ncaa-texas-tech",
+      "league": "NCAA-M",
+      "inSets": [
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 3,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Ja'Kobi Gillespie",
+      "playerSlug": "jakobi-gillespie",
+      "team": "Tennessee",
+      "teamSlug": "ncaa-tennessee",
+      "league": "NCAA-M",
+      "inSets": [
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Jahmai Mashack",
+      "playerSlug": "jahmai-mashack",
+      "team": "Memphis Grizzlies",
+      "teamSlug": "memphis-grizzlies",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "opening-statement-signatures",
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": true
+    },
+    {
+      "player": "Jaida Civil",
+      "playerSlug": "jaida-civil",
+      "team": "Tennessee",
+      "teamSlug": "ncaa-tennessee",
+      "league": "NCAA-W",
+      "inSets": [
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Jaime Jaquez Jr.",
+      "playerSlug": "jaime-jaquez-jr",
+      "team": "Miami Heat",
+      "teamSlug": "miami-heat",
+      "league": "NBA",
+      "inSets": [
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": null,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Jaland Lowe",
+      "playerSlug": "jaland-lowe",
+      "team": "Kentucky",
+      "teamSlug": "ncaa-kentucky",
+      "league": "NCAA-M",
+      "inSets": [
+        "buzz-factor-autographs",
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Jalen Brunson",
+      "playerSlug": "jalen-brunson",
+      "team": "New York Knicks",
+      "teamSlug": "new-york-knicks",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Jalen Williams",
+      "playerSlug": "jalen-williams",
+      "team": "Oklahoma City Thunder",
+      "teamSlug": "oklahoma-city-thunder",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "paper-rookies-and-veterans-retail-autograph",
+        "timeless-touch-signatures"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Jamal Murray",
+      "playerSlug": "jamal-murray",
+      "team": "Denver Nuggets",
+      "teamSlug": "denver-nuggets",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "James Harden",
+      "playerSlug": "james-harden",
+      "team": "Los Angeles Clippers",
+      "teamSlug": "los-angeles-clippers",
+      "league": "NBA",
+      "inSets": [
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": null,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Jamier Jones",
+      "playerSlug": "jamier-jones",
+      "team": "Providence",
+      "teamSlug": "ncaa-providence",
+      "league": "NCAA-M",
+      "inSets": [
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Jamir Watkins",
+      "playerSlug": "jamir-watkins",
+      "team": "Washington Wizards",
+      "teamSlug": "washington-wizards",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "opening-statement-signatures",
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": true
+    },
+    {
+      "player": "Jarace Walker",
+      "playerSlug": "jarace-walker",
+      "team": "",
+      "teamSlug": "",
+      "league": "OTHER",
+      "inSets": [
+        "chrome-autographs",
+        "paper-rookies-and-veterans-retail-autograph",
+        "timeless-touch-signatures"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Jarrett Allen",
+      "playerSlug": "jarrett-allen",
+      "team": "Cleveland Cavaliers",
+      "teamSlug": "cleveland-cavaliers",
+      "league": "NBA",
+      "inSets": [
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": null,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Jase Richardson",
+      "playerSlug": "jase-richardson",
+      "team": "Orlando Magic",
+      "teamSlug": "orlando-magic",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": true
+    },
+    {
+      "player": "Jason Edwards",
+      "playerSlug": "jason-edwards",
+      "team": "Providence",
+      "teamSlug": "ncaa-providence",
+      "league": "NCAA-M",
+      "inSets": [
+        "chrome-prospect-autographs",
+        "future-script",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Jasper Johnson",
+      "playerSlug": "jasper-johnson",
+      "team": "Kentucky",
+      "teamSlug": "ncaa-kentucky",
+      "league": "NCAA-M",
+      "inSets": [
+        "chrome-prospect-autographs",
+        "future-script"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 3,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Javon Small",
+      "playerSlug": "javon-small",
+      "team": "Memphis Grizzlies",
+      "teamSlug": "memphis-grizzlies",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "opening-statement-signatures",
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": true
+    },
+    {
+      "player": "Jaylin Williams",
+      "playerSlug": "jaylin-williams",
+      "team": "",
+      "teamSlug": "",
+      "league": "OTHER",
+      "inSets": [
+        "chrome-autographs",
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Jaylon Tyson",
+      "playerSlug": "jaylon-tyson",
+      "team": "Cleveland Cavaliers",
+      "teamSlug": "cleveland-cavaliers",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Jayson Tatum",
+      "playerSlug": "jayson-tatum",
+      "team": "Boston Celtics",
+      "teamSlug": "boston-celtics",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Jeremiah Wilkinson",
+      "playerSlug": "jeremiah-wilkinson",
+      "team": "Georgia",
+      "teamSlug": "ncaa-georgia",
+      "league": "NCAA-M",
+      "inSets": [
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Jeremy Sochan",
+      "playerSlug": "jeremy-sochan",
+      "team": "San Antonio Spurs",
+      "teamSlug": "san-antonio-spurs",
+      "league": "NBA",
+      "inSets": [
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": null,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Jett Howard",
+      "playerSlug": "jett-howard",
+      "team": "",
+      "teamSlug": "",
+      "league": "OTHER",
+      "inSets": [
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": null,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Joan Beringer",
+      "playerSlug": "joan-beringer",
+      "team": "Minnesota Timberwolves",
+      "teamSlug": "minnesota-timberwolves",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": true
+    },
+    {
+      "player": "Joe Grahovac",
+      "playerSlug": "joe-grahovac",
+      "team": "St. Bonaventure",
+      "teamSlug": "ncaa-st-bonaventure",
+      "league": "NCAA-M",
+      "inSets": [
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "John Blackwell",
+      "playerSlug": "john-blackwell",
+      "team": "Wisconsin",
+      "teamSlug": "ncaa-wisconsin",
+      "league": "NCAA-M",
+      "inSets": [
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "John Tonje",
+      "playerSlug": "john-tonje",
+      "team": "Utah Jazz",
+      "teamSlug": "utah-jazz",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "opening-statement-signatures",
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": true
+    },
+    {
+      "player": "Johni Broome",
+      "playerSlug": "johni-broome",
+      "team": "Philadelphia 76ers",
+      "teamSlug": "philadelphia-76ers",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": true
+    },
+    {
+      "player": "Johnny Furphy",
+      "playerSlug": "johnny-furphy",
+      "team": "",
+      "teamSlug": "",
+      "league": "OTHER",
+      "inSets": [
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": null,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Jordan Clarkson",
+      "playerSlug": "jordan-clarkson",
+      "team": "Utah Jazz",
+      "teamSlug": "utah-jazz",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Jordan Hawkins",
+      "playerSlug": "jordan-hawkins",
+      "team": "",
+      "teamSlug": "",
+      "league": "OTHER",
+      "inSets": [
+        "chrome-autographs",
+        "timeless-touch-signatures"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Josh Dix",
+      "playerSlug": "josh-dix",
+      "team": "Creighton",
+      "teamSlug": "ncaa-creighton",
+      "league": "NCAA-M",
+      "inSets": [
+        "chrome-prospect-autographs",
+        "future-script",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Jrue Holiday",
+      "playerSlug": "jrue-holiday",
+      "team": "",
+      "teamSlug": "",
+      "league": "OTHER",
+      "inSets": [
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": null,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Juju Watkins",
+      "playerSlug": "juju-watkins",
+      "team": "USC",
+      "teamSlug": "ncaa-usc",
+      "league": "NCAA-W",
+      "inSets": [
+        "bowman-dual-autographs",
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 2,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Kaelyn Carroll",
+      "playerSlug": "kaelyn-carroll",
+      "team": "Kentucky",
+      "teamSlug": "ncaa-kentucky",
+      "league": "NCAA-W",
+      "inSets": [
+        "chrome-prospect-autographs",
+        "future-script",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Kam Jones",
+      "playerSlug": "kam-jones",
+      "team": "Indiana Pacers",
+      "teamSlug": "indiana-pacers",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": true
+    },
+    {
+      "player": "Kam Williams",
+      "playerSlug": "kam-williams",
+      "team": "",
+      "teamSlug": "",
+      "league": "OTHER",
+      "inSets": [
+        "buzz-factor-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": null,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Kara Dunn",
+      "playerSlug": "kara-dunn",
+      "team": "USC",
+      "teamSlug": "ncaa-usc",
+      "league": "NCAA-W",
+      "inSets": [
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Kasparas Jakucionis",
+      "playerSlug": "kasparas-jakucionis",
+      "team": "Miami Heat",
+      "teamSlug": "miami-heat",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": true
+    },
+    {
+      "player": "Kaylene Smikle",
+      "playerSlug": "kaylene-smikle",
+      "team": "Maryland",
+      "teamSlug": "ncaa-maryland",
+      "league": "NCAA-W",
+      "inSets": [
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Kel'el Ware",
+      "playerSlug": "kelel-ware",
+      "team": "Miami Heat",
+      "teamSlug": "miami-heat",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Kelis Fisher",
+      "playerSlug": "kelis-fisher",
+      "team": "UConn",
+      "teamSlug": "ncaa-uconn",
+      "league": "NCAA-W",
+      "inSets": [
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Kevin Durant",
+      "playerSlug": "kevin-durant",
+      "team": "Houston Rockets",
+      "teamSlug": "houston-rockets",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Keyshawn Hall",
+      "playerSlug": "keyshawn-hall",
+      "team": "Auburn",
+      "teamSlug": "ncaa-auburn",
+      "league": "NCAA-M",
+      "inSets": [
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Khaman Maluach",
+      "playerSlug": "khaman-maluach",
+      "team": "Phoenix Suns",
+      "teamSlug": "phoenix-suns",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "opening-statement-signatures",
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 3,
+      "isFirstBowmanAuto": false,
+      "isRookie": true
+    },
+    {
+      "player": "Kiyan Anthony",
+      "playerSlug": "kiyan-anthony",
+      "team": "Syracuse",
+      "teamSlug": "ncaa-syracuse",
+      "league": "NCAA-M",
+      "inSets": [
+        "bowman-dual-autographs",
+        "chrome-prospect-autographs",
+        "future-script"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 2,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Kiyomi McMiller",
+      "playerSlug": "kiyomi-mcmiller",
+      "team": "",
+      "teamSlug": "",
+      "league": "OTHER",
+      "inSets": [
+        "buzz-factor-autographs",
+        "paper-prospect-retail-autograph",
+        "chrome-prospect-autographs"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Koa Peat",
+      "playerSlug": "koa-peat",
+      "team": "Arizona",
+      "teamSlug": "ncaa-arizona",
+      "league": "NCAA-M",
+      "inSets": [
+        "chrome-prospect-autographs",
+        "future-script"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 2,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Kobe Sanders",
+      "playerSlug": "kobe-sanders",
+      "team": "Los Angeles Clippers",
+      "teamSlug": "los-angeles-clippers",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "opening-statement-signatures",
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": true
+    },
+    {
+      "player": "Koby Brea",
+      "playerSlug": "koby-brea",
+      "team": "Phoenix Suns",
+      "teamSlug": "phoenix-suns",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": true
+    },
+    {
+      "player": "Kohl Rosario",
+      "playerSlug": "kohl-rosario",
+      "team": "Kansas",
+      "teamSlug": "ncaa-kansas",
+      "league": "NCAA-M",
+      "inSets": [
+        "buzz-factor-autographs",
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Kon Knueppel",
+      "playerSlug": "kon-knueppel",
+      "team": "Charlotte Hornets",
+      "teamSlug": "charlotte-hornets",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "opening-statement-signatures",
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 2,
+      "isFirstBowmanAuto": false,
+      "isRookie": true
+    },
+    {
+      "player": "Kyle Filipowski",
+      "playerSlug": "kyle-filipowski",
+      "team": "Utah Jazz",
+      "teamSlug": "utah-jazz",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Lachlan Olbrich",
+      "playerSlug": "lachlan-olbrich",
+      "team": "Chicago Bulls",
+      "teamSlug": "chicago-bulls",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "opening-statement-signatures",
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": true
+    },
+    {
+      "player": "Lara Somfai",
+      "playerSlug": "lara-somfai",
+      "team": "Stanford",
+      "teamSlug": "ncaa-stanford",
+      "league": "NCAA-W",
+      "inSets": [
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "LeBron James",
+      "playerSlug": "lebron-james",
+      "team": "Los Angeles Lakers",
+      "teamSlug": "los-angeles-lakers",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Leah Macy",
+      "playerSlug": "leah-macy",
+      "team": "Notre Dame",
+      "teamSlug": "ncaa-notre-dame",
+      "league": "NCAA-W",
+      "inSets": [
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Liam McNeeley",
+      "playerSlug": "liam-mcneeley",
+      "team": "Charlotte Hornets",
+      "teamSlug": "charlotte-hornets",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": true
+    },
+    {
+      "player": "Madison Booker",
+      "playerSlug": "madison-booker",
+      "team": "Texas",
+      "teamSlug": "ncaa-texas",
+      "league": "NCAA-W",
+      "inSets": [
+        "chrome-prospect-autographs",
+        "future-script",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 2,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Malik Reneau",
+      "playerSlug": "malik-reneau",
+      "team": "",
+      "teamSlug": "",
+      "league": "OTHER",
+      "inSets": [
+        "buzz-factor-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": null,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Max Shulga",
+      "playerSlug": "max-shulga",
+      "team": "Boston Celtics",
+      "teamSlug": "boston-celtics",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "opening-statement-signatures",
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": true
+    },
+    {
+      "player": "Maxime Raynaud",
+      "playerSlug": "maxime-raynaud",
+      "team": "Sacramento Kings",
+      "teamSlug": "sacramento-kings",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "opening-statement-signatures",
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": true
+    },
+    {
+      "player": "Micah Peavy",
+      "playerSlug": "micah-peavy",
+      "team": "New Orleans Pelicans",
+      "teamSlug": "new-orleans-pelicans",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": true
+    },
+    {
+      "player": "Michael Rataj",
+      "playerSlug": "michael-rataj",
+      "team": "Baylor",
+      "teamSlug": "ncaa-baylor",
+      "league": "NCAA-M",
+      "inSets": [
+        "buzz-factor-autographs",
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Mikel Brown Jr.",
+      "playerSlug": "mikel-brown-jr",
+      "team": "Louisville",
+      "teamSlug": "ncaa-louisville",
+      "league": "NCAA-M",
+      "inSets": [
+        "chrome-prospect-autographs",
+        "future-script",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 2,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Miles McBride",
+      "playerSlug": "miles-mcbride",
+      "team": "",
+      "teamSlug": "",
+      "league": "OTHER",
+      "inSets": [
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": null,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Milos Uzan",
+      "playerSlug": "milos-uzan",
+      "team": "Houston",
+      "teamSlug": "ncaa-houston",
+      "league": "NCAA-M",
+      "inSets": [
+        "chrome-prospect-autographs",
+        "future-script",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 3,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Moses Moody",
+      "playerSlug": "moses-moody",
+      "team": "",
+      "teamSlug": "",
+      "league": "OTHER",
+      "inSets": [
+        "timeless-touch-signatures"
+      ],
+      "lowestParallelNumbered": null,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Myles Turner",
+      "playerSlug": "myles-turner",
+      "team": "Indiana Pacers",
+      "teamSlug": "indiana-pacers",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Nate Ament",
+      "playerSlug": "nate-ament",
+      "team": "Tennessee",
+      "teamSlug": "ncaa-tennessee",
+      "league": "NCAA-M",
+      "inSets": [
+        "bowman-dual-autographs",
+        "chrome-prospect-autographs",
+        "future-script"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 2,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Nate Bittle",
+      "playerSlug": "nate-bittle",
+      "team": "Oregon",
+      "teamSlug": "ncaa-oregon",
+      "league": "NCAA-M",
+      "inSets": [
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 3,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Nate Calmese",
+      "playerSlug": "nate-calmese",
+      "team": "Wake Forest",
+      "teamSlug": "ncaa-wake-forest",
+      "league": "NCAA-M",
+      "inSets": [
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Nick Martinelli",
+      "playerSlug": "nick-martinelli",
+      "team": "Northwestern",
+      "teamSlug": "ncaa-northwestern",
+      "league": "NCAA-M",
+      "inSets": [
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Niko Bundalo",
+      "playerSlug": "niko-bundalo",
+      "team": "Ole Miss",
+      "teamSlug": "ncaa-ole-miss",
+      "league": "NCAA-M",
+      "inSets": [
+        "chrome-prospect-autographs",
+        "future-script",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Nikola Joki\u0107",
+      "playerSlug": "nikola-joki\u0107",
+      "team": "Denver Nuggets",
+      "teamSlug": "denver-nuggets",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Nikola Jovi\u0107",
+      "playerSlug": "nikola-jovi\u0107",
+      "team": "",
+      "teamSlug": "",
+      "league": "OTHER",
+      "inSets": [
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": null,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Nikola Topi\u0107",
+      "playerSlug": "nikola-topi\u0107",
+      "team": "",
+      "teamSlug": "",
+      "league": "OTHER",
+      "inSets": [
+        "chrome-autographs"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Nique Clifford",
+      "playerSlug": "nique-clifford",
+      "team": "Sacramento Kings",
+      "teamSlug": "sacramento-kings",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": true
+    },
+    {
+      "player": "Noa Essengue",
+      "playerSlug": "noa-essengue",
+      "team": "Chicago Bulls",
+      "teamSlug": "chicago-bulls",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "opening-statement-signatures",
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": true
+    },
+    {
+      "player": "Noah Penda",
+      "playerSlug": "noah-penda",
+      "team": "Orlando Magic",
+      "teamSlug": "orlando-magic",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "opening-statement-signatures",
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": true
+    },
+    {
+      "player": "Nolan Traore",
+      "playerSlug": "nolan-traore",
+      "team": "Brooklyn Nets",
+      "teamSlug": "brooklyn-nets",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": true
+    },
+    {
+      "player": "Nyla Brooks",
+      "playerSlug": "nyla-brooks",
+      "team": "UNC",
+      "teamSlug": "ncaa-unc",
+      "league": "NCAA-W",
+      "inSets": [
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Obi Agbim",
+      "playerSlug": "obi-agbim",
+      "team": "Baylor",
+      "teamSlug": "ncaa-baylor",
+      "league": "NCAA-M",
+      "inSets": [
+        "chrome-prospect-autographs",
+        "future-script",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Oso Ighodaro",
+      "playerSlug": "oso-ighodaro",
+      "team": "Phoenix Suns",
+      "teamSlug": "phoenix-suns",
+      "league": "NBA",
+      "inSets": [
+        "timeless-touch-signatures"
+      ],
+      "lowestParallelNumbered": null,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Otega Oweh",
+      "playerSlug": "otega-oweh",
+      "team": "Kentucky",
+      "teamSlug": "ncaa-kentucky",
+      "league": "NCAA-M",
+      "inSets": [
+        "buzz-factor-autographs",
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Owen Freeman",
+      "playerSlug": "owen-freeman",
+      "team": "Creighton",
+      "teamSlug": "ncaa-creighton",
+      "league": "NCAA-M",
+      "inSets": [
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Oziyah Sellers",
+      "playerSlug": "oziyah-sellers",
+      "team": "St. John's",
+      "teamSlug": "ncaa-st-johns",
+      "league": "NCAA-M",
+      "inSets": [
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Pac\u00f4me Dadiet",
+      "playerSlug": "pac\u00f4me-dadiet",
+      "team": "",
+      "teamSlug": "",
+      "league": "OTHER",
+      "inSets": [
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": null,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Paolo Banchero",
+      "playerSlug": "paolo-banchero",
+      "team": "Orlando Magic",
+      "teamSlug": "orlando-magic",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Pharrel Payne",
+      "playerSlug": "pharrel-payne",
+      "team": "Maryland",
+      "teamSlug": "ncaa-maryland",
+      "league": "NCAA-M",
+      "inSets": [
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Quinten Post",
+      "playerSlug": "quinten-post",
+      "team": "",
+      "teamSlug": "",
+      "league": "OTHER",
+      "inSets": [
+        "chrome-autographs",
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Raegan Beers",
+      "playerSlug": "raegan-beers",
+      "team": "Oklahoma",
+      "teamSlug": "ncaa-oklahoma",
+      "league": "NCAA-W",
+      "inSets": [
+        "bowman-dual-autographs",
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 3,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Rasheer Fleming",
+      "playerSlug": "rasheer-fleming",
+      "team": "Phoenix Suns",
+      "teamSlug": "phoenix-suns",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": true
+    },
+    {
+      "player": "Reed Bailey",
+      "playerSlug": "reed-bailey",
+      "team": "Indiana",
+      "teamSlug": "ncaa-indiana",
+      "league": "NCAA-M",
+      "inSets": [
+        "buzz-factor-autographs",
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Richie Saunders",
+      "playerSlug": "richie-saunders",
+      "team": "BYU",
+      "teamSlug": "ncaa-byu",
+      "league": "NCAA-M",
+      "inSets": [
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Rob Dillingham",
+      "playerSlug": "rob-dillingham",
+      "team": "Minnesota Timberwolves",
+      "teamSlug": "minnesota-timberwolves",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Robert McCray V",
+      "playerSlug": "robert-mccray-v",
+      "team": "",
+      "teamSlug": "",
+      "league": "OTHER",
+      "inSets": [
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": null,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Ron Holland II",
+      "playerSlug": "ron-holland-ii",
+      "team": "Detroit Pistons",
+      "teamSlug": "detroit-pistons",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Royce O'Neale",
+      "playerSlug": "royce-oneale",
+      "team": "",
+      "teamSlug": "",
+      "league": "OTHER",
+      "inSets": [
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": null,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Rudy Gobert",
+      "playerSlug": "rudy-gobert",
+      "team": "",
+      "teamSlug": "",
+      "league": "OTHER",
+      "inSets": [
+        "timeless-touch-signatures"
+      ],
+      "lowestParallelNumbered": null,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Ryan Conwell",
+      "playerSlug": "ryan-conwell",
+      "team": "",
+      "teamSlug": "",
+      "league": "OTHER",
+      "inSets": [
+        "future-script",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": null,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Ryan Dunn",
+      "playerSlug": "ryan-dunn",
+      "team": "Phoenix Suns",
+      "teamSlug": "phoenix-suns",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "paper-rookies-and-veterans-retail-autograph",
+        "timeless-touch-signatures"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Ryan Kalkbrenner",
+      "playerSlug": "ryan-kalkbrenner",
+      "team": "Charlotte Hornets",
+      "teamSlug": "charlotte-hornets",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": true
+    },
+    {
+      "player": "Sadiq White",
+      "playerSlug": "sadiq-white",
+      "team": "Syracuse",
+      "teamSlug": "ncaa-syracuse",
+      "league": "NCAA-M",
+      "inSets": [
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Sarah Strong",
+      "playerSlug": "sarah-strong",
+      "team": "UConn",
+      "teamSlug": "ncaa-uconn",
+      "league": "NCAA-W",
+      "inSets": [
+        "bowman-dual-autographs",
+        "buzz-factor-autographs",
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 2,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Scoot Henderson",
+      "playerSlug": "scoot-henderson",
+      "team": "Portland Trail Blazers",
+      "teamSlug": "portland-trail-blazers",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "paper-rookies-and-veterans-retail-autograph",
+        "timeless-touch-signatures"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Sebastian Wilkins",
+      "playerSlug": "sebastian-wilkins",
+      "team": "Duke",
+      "teamSlug": "ncaa-duke",
+      "league": "NCAA-M",
+      "inSets": [
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Serah Williams",
+      "playerSlug": "serah-williams",
+      "team": "UConn",
+      "teamSlug": "ncaa-uconn",
+      "league": "NCAA-W",
+      "inSets": [
+        "buzz-factor-autographs",
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Shai Gilgeous-Alexander",
+      "playerSlug": "shai-gilgeous-alexander",
+      "team": "Oklahoma City Thunder",
+      "teamSlug": "oklahoma-city-thunder",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Shaquille O'Neal",
+      "playerSlug": "shaquille-oneal",
+      "team": "LSU",
+      "teamSlug": "ncaa-lsu",
+      "league": "NCAA-M",
+      "inSets": [
+        "retrofractor-autograph-variation"
+      ],
+      "lowestParallelNumbered": null,
+      "tier": 1,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Shelton Henderson",
+      "playerSlug": "shelton-henderson",
+      "team": "Miami",
+      "teamSlug": "ncaa-miami",
+      "league": "NCAA-M",
+      "inSets": [
+        "chrome-prospect-autographs",
+        "future-script"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Shon Abaev",
+      "playerSlug": "shon-abaev",
+      "team": "Cincinnati",
+      "teamSlug": "ncaa-cincinnati",
+      "league": "NCAA-M",
+      "inSets": [
+        "chrome-prospect-autographs",
+        "future-script",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Sienna Betts",
+      "playerSlug": "sienna-betts",
+      "team": "UCLA",
+      "teamSlug": "ncaa-ucla",
+      "league": "NCAA-W",
+      "inSets": [
+        "bowman-dual-autographs",
+        "chrome-prospect-autographs",
+        "future-script",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 3,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Silas Demary Jr.",
+      "playerSlug": "silas-demary-jr",
+      "team": "UConn",
+      "teamSlug": "ncaa-uconn",
+      "league": "NCAA-M",
+      "inSets": [
+        "buzz-factor-autographs",
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Sion James",
+      "playerSlug": "sion-james",
+      "team": "Charlotte Hornets",
+      "teamSlug": "charlotte-hornets",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": true
+    },
+    {
+      "player": "Stephen Curry",
+      "playerSlug": "stephen-curry",
+      "team": "Golden State Warriors",
+      "teamSlug": "golden-state-warriors",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Stephon Castle",
+      "playerSlug": "stephon-castle",
+      "team": "San Antonio Spurs",
+      "teamSlug": "san-antonio-spurs",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Ta'Niya Latson",
+      "playerSlug": "taniya-latson",
+      "team": "South Carolina",
+      "teamSlug": "ncaa-south-carolina",
+      "league": "NCAA-W",
+      "inSets": [
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 3,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Taelon Peter",
+      "playerSlug": "taelon-peter",
+      "team": "Indiana Pacers",
+      "teamSlug": "indiana-pacers",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "opening-statement-signatures",
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": true
+    },
+    {
+      "player": "Tarris Reed Jr.",
+      "playerSlug": "tarris-reed-jr",
+      "team": "UConn",
+      "teamSlug": "ncaa-uconn",
+      "league": "NCAA-M",
+      "inSets": [
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Taylor Hendricks",
+      "playerSlug": "taylor-hendricks",
+      "team": "",
+      "teamSlug": "",
+      "league": "OTHER",
+      "inSets": [
+        "paper-rookies-and-veterans-retail-autograph",
+        "timeless-touch-signatures"
+      ],
+      "lowestParallelNumbered": null,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Terance Mann",
+      "playerSlug": "terance-mann",
+      "team": "",
+      "teamSlug": "",
+      "league": "OTHER",
+      "inSets": [
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": null,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Terrence Shannon Jr.",
+      "playerSlug": "terrence-shannon-jr",
+      "team": "Minnesota Timberwolves",
+      "teamSlug": "minnesota-timberwolves",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Thomas Sorber",
+      "playerSlug": "thomas-sorber",
+      "team": "Oklahoma City Thunder",
+      "teamSlug": "oklahoma-city-thunder",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": true
+    },
+    {
+      "player": "Tidjane Sala\u00fcn",
+      "playerSlug": "tidjane-sala\u00fcn",
+      "team": "Charlotte Hornets",
+      "teamSlug": "charlotte-hornets",
+      "league": "NBA",
+      "inSets": [
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": null,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Tobe Awaka",
+      "playerSlug": "tobe-awaka",
+      "team": "Arizona",
+      "teamSlug": "ncaa-arizona",
+      "league": "NCAA-M",
+      "inSets": [
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Tounde Yessoufou",
+      "playerSlug": "tounde-yessoufou",
+      "team": "Baylor",
+      "teamSlug": "ncaa-baylor",
+      "league": "NCAA-M",
+      "inSets": [
+        "chrome-prospect-autographs",
+        "future-script",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Tre Donaldson",
+      "playerSlug": "tre-donaldson",
+      "team": "",
+      "teamSlug": "",
+      "league": "OTHER",
+      "inSets": [
+        "buzz-factor-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": null,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Tre Holloman",
+      "playerSlug": "tre-holloman",
+      "team": "NC State",
+      "teamSlug": "ncaa-nc-state",
+      "league": "NCAA-M",
+      "inSets": [
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": null,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Trey Kaufman-Renn",
+      "playerSlug": "trey-kaufman-renn",
+      "team": "Purdue",
+      "teamSlug": "ncaa-purdue",
+      "league": "NCAA-M",
+      "inSets": [
+        "buzz-factor-autographs",
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 3,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Tristan da Silva",
+      "playerSlug": "tristan-da-silva",
+      "team": "Orlando Magic",
+      "teamSlug": "orlando-magic",
+      "league": "NBA",
+      "inSets": [
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": null,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Tyler Kolek",
+      "playerSlug": "tyler-kolek",
+      "team": "",
+      "teamSlug": "",
+      "league": "OTHER",
+      "inSets": [
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": null,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Tyler Smith",
+      "playerSlug": "tyler-smith",
+      "team": "",
+      "teamSlug": "",
+      "league": "OTHER",
+      "inSets": [
+        "paper-rookies-and-veterans-retail-autograph",
+        "timeless-touch-signatures"
+      ],
+      "lowestParallelNumbered": null,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Tylis Jordan",
+      "playerSlug": "tylis-jordan",
+      "team": "",
+      "teamSlug": "",
+      "league": "OTHER",
+      "inSets": [
+        "buzz-factor-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": null,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Tyrese Haliburton",
+      "playerSlug": "tyrese-haliburton",
+      "team": "Indiana Pacers",
+      "teamSlug": "indiana-pacers",
+      "league": "NBA",
+      "inSets": [
+        "timeless-touch-signatures"
+      ],
+      "lowestParallelNumbered": null,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Tyrese Proctor",
+      "playerSlug": "tyrese-proctor",
+      "team": "Cleveland Cavaliers",
+      "teamSlug": "cleveland-cavaliers",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "opening-statement-signatures",
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": true
+    },
+    {
+      "player": "Victor Wembanyama",
+      "playerSlug": "victor-wembanyama",
+      "team": "San Antonio Spurs",
+      "teamSlug": "san-antonio-spurs",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "timeless-touch-signatures"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 3,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Walter Clayton Jr.",
+      "playerSlug": "walter-clayton-jr",
+      "team": "Utah Jazz",
+      "teamSlug": "utah-jazz",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": true
+    },
+    {
+      "player": "Wesley Yates III",
+      "playerSlug": "wesley-yates-iii",
+      "team": "Washington",
+      "teamSlug": "ncaa-washington",
+      "league": "NCAA-M",
+      "inSets": [
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Will Richard",
+      "playerSlug": "will-richard",
+      "team": "Golden State Warriors",
+      "teamSlug": "golden-state-warriors",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "opening-statement-signatures",
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": true
+    },
+    {
+      "player": "Will Riley",
+      "playerSlug": "will-riley",
+      "team": "Washington Wizards",
+      "teamSlug": "washington-wizards",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": true
+    },
+    {
+      "player": "Winters Grady",
+      "playerSlug": "winters-grady",
+      "team": "Michigan",
+      "teamSlug": "ncaa-michigan",
+      "league": "NCAA-M",
+      "inSets": [
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Xaivian Lee",
+      "playerSlug": "xaivian-lee",
+      "team": "Florida",
+      "teamSlug": "ncaa-florida",
+      "league": "NCAA-M",
+      "inSets": [
+        "buzz-factor-autographs",
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Xavier Tillman SR.",
+      "playerSlug": "xavier-tillman-sr",
+      "team": "",
+      "teamSlug": "",
+      "league": "OTHER",
+      "inSets": [
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": null,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Yang Hansen",
+      "playerSlug": "yang-hansen",
+      "team": "Portland Trail Blazers",
+      "teamSlug": "portland-trail-blazers",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "opening-statement-signatures",
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 3,
+      "isFirstBowmanAuto": false,
+      "isRookie": true
+    },
+    {
+      "player": "Yanic Konan-Niederh\u00e4use",
+      "playerSlug": "yanic-konan-niederh\u00e4use",
+      "team": "Los Angeles Clippers",
+      "teamSlug": "los-angeles-clippers",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": true
+    },
+    {
+      "player": "Yarden Garzon",
+      "playerSlug": "yarden-garzon",
+      "team": "Maryland",
+      "teamSlug": "ncaa-maryland",
+      "league": "NCAA-W",
+      "inSets": [
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Yves Missi",
+      "playerSlug": "yves-missi",
+      "team": "",
+      "teamSlug": "",
+      "league": "OTHER",
+      "inSets": [
+        "paper-rookies-and-veterans-retail-autograph"
+      ],
+      "lowestParallelNumbered": null,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "ZaKiyah Johnson",
+      "playerSlug": "zakiyah-johnson",
+      "team": "LSU",
+      "teamSlug": "ncaa-lsu",
+      "league": "NCAA-W",
+      "inSets": [
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    },
+    {
+      "player": "Zaccharie Risacher",
+      "playerSlug": "zaccharie-risacher",
+      "team": "Atlanta Hawks",
+      "teamSlug": "atlanta-hawks",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "paper-rookies-and-veterans-retail-autograph",
+        "timeless-touch-signatures"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Zach Edey",
+      "playerSlug": "zach-edey",
+      "team": "Memphis Grizzlies",
+      "teamSlug": "memphis-grizzlies",
+      "league": "NBA",
+      "inSets": [
+        "chrome-autographs",
+        "paper-rookies-and-veterans-retail-autograph",
+        "timeless-touch-signatures"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": false,
+      "isRookie": false
+    },
+    {
+      "player": "Zuby Ejiofor",
+      "playerSlug": "zuby-ejiofor",
+      "team": "St. John's",
+      "teamSlug": "ncaa-st-johns",
+      "league": "NCAA-M",
+      "inSets": [
+        "buzz-factor-autographs",
+        "chrome-prospect-autographs",
+        "paper-prospect-retail-autograph"
+      ],
+      "lowestParallelNumbered": 1,
+      "tier": 4,
+      "isFirstBowmanAuto": true,
+      "isRookie": false
+    }
+  ],
+  "tierRanking": {
+    "tier1": [
+      "aj-dybantsa",
+      "cooper-flagg",
+      "darryn-peterson",
+      "dylan-harper",
+      "shaquille-oneal"
+    ],
+    "tier2": [
+      "ace-bailey",
+      "caleb-wilson",
+      "egor-d\u00ebmin",
+      "juju-watkins",
+      "kiyan-anthony",
+      "koa-peat",
+      "kon-knueppel",
+      "madison-booker",
+      "mikel-brown-jr",
+      "nate-ament",
+      "sarah-strong"
+    ],
+    "tier3": [
+      "ace-flagg",
+      "anthony-edwards",
+      "braden-smith",
+      "cade-cunningham",
+      "cedric-coward",
+      "collin-murray-boyles",
+      "derik-queen",
+      "hailee-swain",
+      "jt-toppin",
+      "jasper-johnson",
+      "khaman-maluach",
+      "milos-uzan",
+      "nate-bittle",
+      "raegan-beers",
+      "sienna-betts",
+      "taniya-latson",
+      "trey-kaufman-renn",
+      "victor-wembanyama",
+      "yang-hansen"
+    ],
+    "tier4": [
+      "aaliyah-crump",
+      "aaron-nesmith",
+      "acaden-lewis",
+      "addison-deal",
+      "adou-thiero",
+      "agot-makeer",
+      "ajay-mitchell",
+      "al-horford",
+      "alex-sarr",
+      "alex-toohey",
+      "alexandra-eschmeyer",
+      "alijah-martin",
+      "aliyahna-morris",
+      "anthony-black",
+      "asa-newell",
+      "ayla-mcdowell",
+      "baylor-scheierman",
+      "ben-saraf",
+      "bennett-stirtz",
+      "boopie-miller",
+      "braeden-shrewsberry",
+      "brandon-clarke",
+      "brandon-garrison",
+      "brandon-miller",
+      "brayden-burries",
+      "bronny-james-jr",
+      "brooks-barnhizer",
+      "bryce-lindsay",
+      "brynn-mcgaughy",
+      "bryson-tiller",
+      "cj-ingram",
+      "caleb-foster",
+      "cam-ward",
+      "cam-whitmore",
+      "cason-wallace",
+      "chase-ross",
+      "chaz-lanier",
+      "chet-holmgren",
+      "christian-anderson",
+      "cody-williams",
+      "coen-carr",
+      "cotie-mcmahon",
+      "dalen-terry",
+      "danny-wolf",
+      "darianna-alexander",
+      "darrion-williams",
+      "davion-hannah",
+      "davis-fogle",
+      "deandre-ayton",
+      "deniya-prawl",
+      "derek-dixon",
+      "derrick-white",
+      "devin-carter",
+      "devin-mcglockton",
+      "devin-vassell",
+      "dillon-jones",
+      "donald-hand-jr",
+      "dorian-finney-smith",
+      "drake-powell",
+      "dwayne-aristode",
+      "dyson-daniels",
+      "emilee-skinner",
+      "enrique-freeman",
+      "franz-wagner",
+      "giannis-antetokounmpo",
+      "grace-knox",
+      "gradey-dick",
+      "isaiah-collier",
+      "isaiah-denis",
+      "isaiah-hartenstein",
+      "isiah-harwell",
+      "ivica-zubac",
+      "jakobi-gillespie",
+      "jahmai-mashack",
+      "jaida-civil",
+      "jaime-jaquez-jr",
+      "jaland-lowe",
+      "jalen-brunson",
+      "jalen-williams",
+      "jamal-murray",
+      "james-harden",
+      "jamier-jones",
+      "jamir-watkins",
+      "jarace-walker",
+      "jarrett-allen",
+      "jase-richardson",
+      "jason-edwards",
+      "javon-small",
+      "jaylin-williams",
+      "jaylon-tyson",
+      "jayson-tatum",
+      "jeremiah-wilkinson",
+      "jeremy-sochan",
+      "jett-howard",
+      "joan-beringer",
+      "joe-grahovac",
+      "john-blackwell",
+      "john-tonje",
+      "johni-broome",
+      "johnny-furphy",
+      "jordan-clarkson",
+      "jordan-hawkins",
+      "josh-dix",
+      "jrue-holiday",
+      "kaelyn-carroll",
+      "kam-jones",
+      "kam-williams",
+      "kara-dunn",
+      "kasparas-jakucionis",
+      "kaylene-smikle",
+      "kelel-ware",
+      "kelis-fisher",
+      "kevin-durant",
+      "keyshawn-hall",
+      "kiyomi-mcmiller",
+      "kobe-sanders",
+      "koby-brea",
+      "kohl-rosario",
+      "kyle-filipowski",
+      "lachlan-olbrich",
+      "lara-somfai",
+      "lebron-james",
+      "leah-macy",
+      "liam-mcneeley",
+      "malik-reneau",
+      "max-shulga",
+      "maxime-raynaud",
+      "micah-peavy",
+      "michael-rataj",
+      "miles-mcbride",
+      "moses-moody",
+      "myles-turner",
+      "nate-calmese",
+      "nick-martinelli",
+      "niko-bundalo",
+      "nikola-joki\u0107",
+      "nikola-jovi\u0107",
+      "nikola-topi\u0107",
+      "nique-clifford",
+      "noa-essengue",
+      "noah-penda",
+      "nolan-traore",
+      "nyla-brooks",
+      "obi-agbim",
+      "oso-ighodaro",
+      "otega-oweh",
+      "owen-freeman",
+      "oziyah-sellers",
+      "pac\u00f4me-dadiet",
+      "paolo-banchero",
+      "pharrel-payne",
+      "quinten-post",
+      "rasheer-fleming",
+      "reed-bailey",
+      "richie-saunders",
+      "rob-dillingham",
+      "robert-mccray-v",
+      "ron-holland-ii",
+      "royce-oneale",
+      "rudy-gobert",
+      "ryan-conwell",
+      "ryan-dunn",
+      "ryan-kalkbrenner",
+      "sadiq-white",
+      "scoot-henderson",
+      "sebastian-wilkins",
+      "serah-williams",
+      "shai-gilgeous-alexander",
+      "shelton-henderson",
+      "shon-abaev",
+      "silas-demary-jr",
+      "sion-james",
+      "stephen-curry",
+      "stephon-castle",
+      "taelon-peter",
+      "tarris-reed-jr",
+      "taylor-hendricks",
+      "terance-mann",
+      "terrence-shannon-jr",
+      "thomas-sorber",
+      "tidjane-sala\u00fcn",
+      "tobe-awaka",
+      "tounde-yessoufou",
+      "tre-donaldson",
+      "tre-holloman",
+      "tristan-da-silva",
+      "tyler-kolek",
+      "tyler-smith",
+      "tylis-jordan",
+      "tyrese-haliburton",
+      "tyrese-proctor",
+      "walter-clayton-jr",
+      "wesley-yates-iii",
+      "will-richard",
+      "will-riley",
+      "winters-grady",
+      "xaivian-lee",
+      "xavier-tillman-sr",
+      "yanic-konan-niederh\u00e4use",
+      "yarden-garzon",
+      "yves-missi",
+      "zakiyah-johnson",
+      "zaccharie-risacher",
+      "zach-edey",
+      "zuby-ejiofor"
+    ]
+  },
+  "notableAbsences": [
+    {
+      "player": "VJ Edgecombe",
+      "reason": "NBA #3 pick (Philadelphia 76ers) \u2014 appears in the base checklist, Chrome Variation, Rookie Red, and multiple inserts but has ZERO autograph cards in the product. Alongside Tre Johnson III and Jeremiah Fears, this points to a likely Panini-exclusive auto contract. Headline structural absence.",
+      "expectedIn": "Possible Panini exclusive \u2014 unlikely to appear in Bowman/Topps autos this license cycle"
+    },
+    {
+      "player": "Tre Johnson III",
+      "reason": "NBA #6 pick (Washington Wizards) \u2014 same pattern as Edgecombe: base cards and inserts yes, autos no. Three of the top seven 2025 NBA picks (#3, #6, #7) are missing from the entire auto program.",
+      "expectedIn": "Possible Panini exclusive"
+    },
+    {
+      "player": "Jeremiah Fears",
+      "reason": "NBA #7 pick (New Orleans Pelicans) \u2014 base and insert presence only, no auto. Completes the #3/#6/#7 trio of top-7 picks absent from Bowman's auto lineup.",
+      "expectedIn": "Possible Panini exclusive"
+    },
+    {
+      "player": "Cameron Boozer",
+      "reason": "Featured prominently on Topps' official education sheet marketing as a top 2026 prospect \u2014 missing from both the checklist AND all autograph sets. Possible redemption or signer non-delivery.",
+      "expectedIn": "Possible future Chrome Prospects or redemption release"
+    },
+    {
+      "player": "Cayden Boozer",
+      "reason": "Twin brother of Cameron, also a Duke freshman and 2026 prospect. Same absence pattern.",
+      "expectedIn": "Possible future Chrome Prospects or redemption release"
+    },
+    {
+      "player": "Hannah Hidalgo",
+      "reason": "Notre Dame superstar and one of the most in-demand WCBB names \u2014 noticeably absent from the women's auto lineup. Significant omission given the product's dual M/W focus.",
+      "expectedIn": "Unclear \u2014 check future Bowman releases or Topps Chrome University"
+    },
+    {
+      "player": "Boogie Fland",
+      "reason": "Top 2026 NCAA-M prospect (Florida) \u2014 missing from all sets. Would've expected Chrome Prospect Autograph inclusion.",
+      "expectedIn": "Possible redemption"
+    },
+    {
+      "player": "Flau'jae Johnson",
+      "reason": "LSU star and notable crossover figure (music + basketball) \u2014 missing from the WCBB auto lineup.",
+      "expectedIn": null
+    },
+    {
+      "player": "Karter Knox",
+      "reason": "2026 NCAA-M prospect with auto-set demand \u2014 missing from the Chrome Prospect rotation.",
+      "expectedIn": null
+    }
+  ],
+  "redemptionWatch": []
+}

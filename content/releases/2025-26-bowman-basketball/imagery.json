@@ -1,0 +1,1084 @@
+{
+  "images": {
+    "box-hobby": {
+      "slug": "box-hobby",
+      "type": "box",
+      "path": "/images/2025-26-bowman-basketball/box-shots/hobby.jpg",
+      "alt": "2025-26 Bowman Basketball Hobby box \u2014 20 packs, 8 cards per pack, 2 autographs per box.",
+      "width": 600,
+      "height": 800,
+      "credit": "Topps",
+      "license": "official"
+    },
+    "box-jumbo": {
+      "slug": "box-jumbo",
+      "type": "box",
+      "path": "/images/2025-26-bowman-basketball/box-shots/jumbo.jpg",
+      "alt": "2025-26 Bowman Basketball Hobby Jumbo box \u2014 12 packs, 24 cards per pack, 4 autographs per box.",
+      "width": 600,
+      "height": 800,
+      "credit": "Topps",
+      "license": "official"
+    },
+    "box-mega": {
+      "slug": "box-mega",
+      "type": "box",
+      "path": "/images/2025-26-bowman-basketball/box-shots/mega.jpg",
+      "alt": "2025-26 Bowman Basketball Mega box \u2014 6 packs, 7 cards per pack, exclusive Mojo parallels.",
+      "width": 600,
+      "height": 800,
+      "credit": "Topps",
+      "license": "official"
+    },
+    "box-value": {
+      "slug": "box-value",
+      "type": "box",
+      "path": "/images/2025-26-bowman-basketball/box-shots/value.jpg",
+      "alt": "2025-26 Bowman Basketball Value Blaster box \u2014 6 packs, 10 cards per pack, retail-exclusive parallels.",
+      "width": 600,
+      "height": 800,
+      "credit": "Topps",
+      "license": "official"
+    },
+    "box-breakers-delight": {
+      "slug": "box-breakers-delight",
+      "type": "box",
+      "path": "/images/2025-26-bowman-basketball/box-shots/breakers-delight.jpg",
+      "alt": "2025-26 Bowman Basketball Breaker's Delight box \u2014 single 10-card pack with 3 autographs and 3 Geometric parallels.",
+      "width": 600,
+      "height": 800,
+      "credit": "Topps",
+      "license": "official"
+    },
+    "box-bulk": {
+      "slug": "box-bulk",
+      "type": "box",
+      "path": "/images/2025-26-bowman-basketball/box-shots/bulk.jpg",
+      "alt": "2025-26 Bowman Basketball Bulk pack \u2014 retail-channel pack configuration (provisional).",
+      "width": 600,
+      "height": 800,
+      "credit": "Topps",
+      "license": "official"
+    },
+    "hero-box-shots-grid": {
+      "slug": "hero-box-shots-grid",
+      "type": "box",
+      "path": "/images/2025-26-bowman-basketball/box-shots/hero-box-shots-grid.jpg",
+      "alt": "2025-26 Bowman Basketball box lineup \u2014 Hobby, Jumbo, Mega, Value, Breaker's Delight grid.",
+      "width": 1600,
+      "height": 900,
+      "credit": "Topps",
+      "license": "official"
+    },
+    "logo-atlanta-hawks": {
+      "slug": "logo-atlanta-hawks",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/atlanta-hawks.svg",
+      "alt": "Atlanta Hawks logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "NBA / Team trademark",
+      "license": "editorial-use"
+    },
+    "logo-boston-celtics": {
+      "slug": "logo-boston-celtics",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/boston-celtics.svg",
+      "alt": "Boston Celtics logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "NBA / Team trademark",
+      "license": "editorial-use"
+    },
+    "logo-brooklyn-nets": {
+      "slug": "logo-brooklyn-nets",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/brooklyn-nets.svg",
+      "alt": "Brooklyn Nets logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "NBA / Team trademark",
+      "license": "editorial-use"
+    },
+    "logo-charlotte-hornets": {
+      "slug": "logo-charlotte-hornets",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/charlotte-hornets.svg",
+      "alt": "Charlotte Hornets logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "NBA / Team trademark",
+      "license": "editorial-use"
+    },
+    "logo-chicago-bulls": {
+      "slug": "logo-chicago-bulls",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/chicago-bulls.svg",
+      "alt": "Chicago Bulls logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "NBA / Team trademark",
+      "license": "editorial-use"
+    },
+    "logo-cleveland-cavaliers": {
+      "slug": "logo-cleveland-cavaliers",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/cleveland-cavaliers.svg",
+      "alt": "Cleveland Cavaliers logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "NBA / Team trademark",
+      "license": "editorial-use"
+    },
+    "logo-dallas-mavericks": {
+      "slug": "logo-dallas-mavericks",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/dallas-mavericks.svg",
+      "alt": "Dallas Mavericks logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "NBA / Team trademark",
+      "license": "editorial-use"
+    },
+    "logo-denver-nuggets": {
+      "slug": "logo-denver-nuggets",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/denver-nuggets.svg",
+      "alt": "Denver Nuggets logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "NBA / Team trademark",
+      "license": "editorial-use"
+    },
+    "logo-detroit-pistons": {
+      "slug": "logo-detroit-pistons",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/detroit-pistons.svg",
+      "alt": "Detroit Pistons logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "NBA / Team trademark",
+      "license": "editorial-use"
+    },
+    "logo-golden-state-warriors": {
+      "slug": "logo-golden-state-warriors",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/golden-state-warriors.svg",
+      "alt": "Golden State Warriors logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "NBA / Team trademark",
+      "license": "editorial-use"
+    },
+    "logo-houston-rockets": {
+      "slug": "logo-houston-rockets",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/houston-rockets.svg",
+      "alt": "Houston Rockets logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "NBA / Team trademark",
+      "license": "editorial-use"
+    },
+    "logo-indiana-pacers": {
+      "slug": "logo-indiana-pacers",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/indiana-pacers.svg",
+      "alt": "Indiana Pacers logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "NBA / Team trademark",
+      "license": "editorial-use"
+    },
+    "logo-los-angeles-clippers": {
+      "slug": "logo-los-angeles-clippers",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/los-angeles-clippers.svg",
+      "alt": "LA Clippers logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "NBA / Team trademark",
+      "license": "editorial-use"
+    },
+    "logo-los-angeles-lakers": {
+      "slug": "logo-los-angeles-lakers",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/los-angeles-lakers.svg",
+      "alt": "Los Angeles Lakers logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "NBA / Team trademark",
+      "license": "editorial-use"
+    },
+    "logo-memphis-grizzlies": {
+      "slug": "logo-memphis-grizzlies",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/memphis-grizzlies.svg",
+      "alt": "Memphis Grizzlies logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "NBA / Team trademark",
+      "license": "editorial-use"
+    },
+    "logo-miami-heat": {
+      "slug": "logo-miami-heat",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/miami-heat.svg",
+      "alt": "Miami Heat logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "NBA / Team trademark",
+      "license": "editorial-use"
+    },
+    "logo-milwaukee-bucks": {
+      "slug": "logo-milwaukee-bucks",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/milwaukee-bucks.svg",
+      "alt": "Milwaukee Bucks logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "NBA / Team trademark",
+      "license": "editorial-use"
+    },
+    "logo-minnesota-timberwolves": {
+      "slug": "logo-minnesota-timberwolves",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/minnesota-timberwolves.svg",
+      "alt": "Minnesota Timberwolves logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "NBA / Team trademark",
+      "license": "editorial-use"
+    },
+    "logo-new-orleans-pelicans": {
+      "slug": "logo-new-orleans-pelicans",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/new-orleans-pelicans.svg",
+      "alt": "New Orleans Pelicans logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "NBA / Team trademark",
+      "license": "editorial-use"
+    },
+    "logo-new-york-knicks": {
+      "slug": "logo-new-york-knicks",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/new-york-knicks.svg",
+      "alt": "New York Knicks logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "NBA / Team trademark",
+      "license": "editorial-use"
+    },
+    "logo-oklahoma-city-thunder": {
+      "slug": "logo-oklahoma-city-thunder",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/oklahoma-city-thunder.svg",
+      "alt": "Oklahoma City Thunder logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "NBA / Team trademark",
+      "license": "editorial-use"
+    },
+    "logo-orlando-magic": {
+      "slug": "logo-orlando-magic",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/orlando-magic.svg",
+      "alt": "Orlando Magic logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "NBA / Team trademark",
+      "license": "editorial-use"
+    },
+    "logo-philadelphia-76ers": {
+      "slug": "logo-philadelphia-76ers",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/philadelphia-76ers.svg",
+      "alt": "Philadelphia 76ers logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "NBA / Team trademark",
+      "license": "editorial-use"
+    },
+    "logo-phoenix-suns": {
+      "slug": "logo-phoenix-suns",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/phoenix-suns.svg",
+      "alt": "Phoenix Suns logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "NBA / Team trademark",
+      "license": "editorial-use"
+    },
+    "logo-portland-trail-blazers": {
+      "slug": "logo-portland-trail-blazers",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/portland-trail-blazers.svg",
+      "alt": "Portland Trail Blazers logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "NBA / Team trademark",
+      "license": "editorial-use"
+    },
+    "logo-sacramento-kings": {
+      "slug": "logo-sacramento-kings",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/sacramento-kings.svg",
+      "alt": "Sacramento Kings logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "NBA / Team trademark",
+      "license": "editorial-use"
+    },
+    "logo-san-antonio-spurs": {
+      "slug": "logo-san-antonio-spurs",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/san-antonio-spurs.svg",
+      "alt": "San Antonio Spurs logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "NBA / Team trademark",
+      "license": "editorial-use"
+    },
+    "logo-toronto-raptors": {
+      "slug": "logo-toronto-raptors",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/toronto-raptors.svg",
+      "alt": "Toronto Raptors logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "NBA / Team trademark",
+      "license": "editorial-use"
+    },
+    "logo-utah-jazz": {
+      "slug": "logo-utah-jazz",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/utah-jazz.svg",
+      "alt": "Utah Jazz logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "NBA / Team trademark",
+      "license": "editorial-use"
+    },
+    "logo-washington-wizards": {
+      "slug": "logo-washington-wizards",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/washington-wizards.svg",
+      "alt": "Washington Wizards logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "NBA / Team trademark",
+      "license": "editorial-use"
+    },
+    "logo-ncaa-alabama": {
+      "slug": "logo-ncaa-alabama",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/ncaa-alabama.svg",
+      "alt": "Alabama athletics logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "Alabama Athletics trademark",
+      "license": "editorial-use"
+    },
+    "logo-ncaa-arizona": {
+      "slug": "logo-ncaa-arizona",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/ncaa-arizona.svg",
+      "alt": "Arizona athletics logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "Arizona Athletics trademark",
+      "license": "editorial-use"
+    },
+    "logo-ncaa-auburn": {
+      "slug": "logo-ncaa-auburn",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/ncaa-auburn.svg",
+      "alt": "Auburn athletics logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "Auburn Athletics trademark",
+      "license": "editorial-use"
+    },
+    "logo-ncaa-baylor": {
+      "slug": "logo-ncaa-baylor",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/ncaa-baylor.svg",
+      "alt": "Baylor athletics logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "Baylor Athletics trademark",
+      "license": "editorial-use"
+    },
+    "logo-ncaa-boston-college": {
+      "slug": "logo-ncaa-boston-college",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/ncaa-boston-college.svg",
+      "alt": "Boston College athletics logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "Boston College Athletics trademark",
+      "license": "editorial-use"
+    },
+    "logo-ncaa-byu": {
+      "slug": "logo-ncaa-byu",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/ncaa-byu.svg",
+      "alt": "BYU athletics logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "BYU Athletics trademark",
+      "license": "editorial-use"
+    },
+    "logo-ncaa-california": {
+      "slug": "logo-ncaa-california",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/ncaa-california.svg",
+      "alt": "California athletics logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "California Athletics trademark",
+      "license": "editorial-use"
+    },
+    "logo-ncaa-cincinnati": {
+      "slug": "logo-ncaa-cincinnati",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/ncaa-cincinnati.svg",
+      "alt": "Cincinnati athletics logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "Cincinnati Athletics trademark",
+      "license": "editorial-use"
+    },
+    "logo-ncaa-creighton": {
+      "slug": "logo-ncaa-creighton",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/ncaa-creighton.svg",
+      "alt": "Creighton athletics logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "Creighton Athletics trademark",
+      "license": "editorial-use"
+    },
+    "logo-ncaa-duke": {
+      "slug": "logo-ncaa-duke",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/ncaa-duke.svg",
+      "alt": "Duke athletics logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "Duke Athletics trademark",
+      "license": "editorial-use"
+    },
+    "logo-ncaa-florida": {
+      "slug": "logo-ncaa-florida",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/ncaa-florida.svg",
+      "alt": "Florida athletics logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "Florida Athletics trademark",
+      "license": "editorial-use"
+    },
+    "logo-ncaa-georgia": {
+      "slug": "logo-ncaa-georgia",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/ncaa-georgia.svg",
+      "alt": "Georgia athletics logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "Georgia Athletics trademark",
+      "license": "editorial-use"
+    },
+    "logo-ncaa-gonzaga": {
+      "slug": "logo-ncaa-gonzaga",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/ncaa-gonzaga.svg",
+      "alt": "Gonzaga athletics logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "Gonzaga Athletics trademark",
+      "license": "editorial-use"
+    },
+    "logo-ncaa-houston": {
+      "slug": "logo-ncaa-houston",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/ncaa-houston.svg",
+      "alt": "Houston athletics logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "Houston Athletics trademark",
+      "license": "editorial-use"
+    },
+    "logo-ncaa-indiana": {
+      "slug": "logo-ncaa-indiana",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/ncaa-indiana.svg",
+      "alt": "Indiana athletics logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "Indiana Athletics trademark",
+      "license": "editorial-use"
+    },
+    "logo-ncaa-iowa": {
+      "slug": "logo-ncaa-iowa",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/ncaa-iowa.svg",
+      "alt": "Iowa athletics logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "Iowa Athletics trademark",
+      "license": "editorial-use"
+    },
+    "logo-ncaa-kansas": {
+      "slug": "logo-ncaa-kansas",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/ncaa-kansas.svg",
+      "alt": "Kansas athletics logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "Kansas Athletics trademark",
+      "license": "editorial-use"
+    },
+    "logo-ncaa-kentucky": {
+      "slug": "logo-ncaa-kentucky",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/ncaa-kentucky.svg",
+      "alt": "Kentucky athletics logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "Kentucky Athletics trademark",
+      "license": "editorial-use"
+    },
+    "logo-ncaa-louisville": {
+      "slug": "logo-ncaa-louisville",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/ncaa-louisville.svg",
+      "alt": "Louisville athletics logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "Louisville Athletics trademark",
+      "license": "editorial-use"
+    },
+    "logo-ncaa-lsu": {
+      "slug": "logo-ncaa-lsu",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/ncaa-lsu.svg",
+      "alt": "LSU athletics logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "LSU Athletics trademark",
+      "license": "editorial-use"
+    },
+    "logo-ncaa-maine": {
+      "slug": "logo-ncaa-maine",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/ncaa-maine.svg",
+      "alt": "Maine athletics logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "Maine Athletics trademark",
+      "license": "editorial-use"
+    },
+    "logo-ncaa-marquette": {
+      "slug": "logo-ncaa-marquette",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/ncaa-marquette.svg",
+      "alt": "Marquette athletics logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "Marquette Athletics trademark",
+      "license": "editorial-use"
+    },
+    "logo-ncaa-maryland": {
+      "slug": "logo-ncaa-maryland",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/ncaa-maryland.svg",
+      "alt": "Maryland athletics logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "Maryland Athletics trademark",
+      "license": "editorial-use"
+    },
+    "logo-ncaa-miami": {
+      "slug": "logo-ncaa-miami",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/ncaa-miami.svg",
+      "alt": "Miami athletics logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "Miami Athletics trademark",
+      "license": "editorial-use"
+    },
+    "logo-ncaa-michigan": {
+      "slug": "logo-ncaa-michigan",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/ncaa-michigan.svg",
+      "alt": "Michigan athletics logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "Michigan Athletics trademark",
+      "license": "editorial-use"
+    },
+    "logo-ncaa-michigan-state": {
+      "slug": "logo-ncaa-michigan-state",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/ncaa-michigan-state.svg",
+      "alt": "Michigan State athletics logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "Michigan State Athletics trademark",
+      "license": "editorial-use"
+    },
+    "logo-ncaa-nc-state": {
+      "slug": "logo-ncaa-nc-state",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/ncaa-nc-state.svg",
+      "alt": "NC State athletics logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "NC State Athletics trademark",
+      "license": "editorial-use"
+    },
+    "logo-ncaa-northwestern": {
+      "slug": "logo-ncaa-northwestern",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/ncaa-northwestern.svg",
+      "alt": "Northwestern athletics logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "Northwestern Athletics trademark",
+      "license": "editorial-use"
+    },
+    "logo-ncaa-notre-dame": {
+      "slug": "logo-ncaa-notre-dame",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/ncaa-notre-dame.svg",
+      "alt": "Notre Dame athletics logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "Notre Dame Athletics trademark",
+      "license": "editorial-use"
+    },
+    "logo-ncaa-oklahoma": {
+      "slug": "logo-ncaa-oklahoma",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/ncaa-oklahoma.svg",
+      "alt": "Oklahoma athletics logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "Oklahoma Athletics trademark",
+      "license": "editorial-use"
+    },
+    "logo-ncaa-ole-miss": {
+      "slug": "logo-ncaa-ole-miss",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/ncaa-ole-miss.svg",
+      "alt": "Ole Miss athletics logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "Ole Miss Athletics trademark",
+      "license": "editorial-use"
+    },
+    "logo-ncaa-oregon": {
+      "slug": "logo-ncaa-oregon",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/ncaa-oregon.svg",
+      "alt": "Oregon athletics logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "Oregon Athletics trademark",
+      "license": "editorial-use"
+    },
+    "logo-ncaa-penn-state": {
+      "slug": "logo-ncaa-penn-state",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/ncaa-penn-state.svg",
+      "alt": "Penn State athletics logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "Penn State Athletics trademark",
+      "license": "editorial-use"
+    },
+    "logo-ncaa-providence": {
+      "slug": "logo-ncaa-providence",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/ncaa-providence.svg",
+      "alt": "Providence athletics logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "Providence Athletics trademark",
+      "license": "editorial-use"
+    },
+    "logo-ncaa-purdue": {
+      "slug": "logo-ncaa-purdue",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/ncaa-purdue.svg",
+      "alt": "Purdue athletics logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "Purdue Athletics trademark",
+      "license": "editorial-use"
+    },
+    "logo-ncaa-smu": {
+      "slug": "logo-ncaa-smu",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/ncaa-smu.svg",
+      "alt": "SMU athletics logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "SMU Athletics trademark",
+      "license": "editorial-use"
+    },
+    "logo-ncaa-south-carolina": {
+      "slug": "logo-ncaa-south-carolina",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/ncaa-south-carolina.svg",
+      "alt": "South Carolina athletics logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "South Carolina Athletics trademark",
+      "license": "editorial-use"
+    },
+    "logo-ncaa-st-bonaventure": {
+      "slug": "logo-ncaa-st-bonaventure",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/ncaa-st-bonaventure.svg",
+      "alt": "St. Bonaventure athletics logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "St. Bonaventure Athletics trademark",
+      "license": "editorial-use"
+    },
+    "logo-ncaa-st-johns": {
+      "slug": "logo-ncaa-st-johns",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/ncaa-st-johns.svg",
+      "alt": "St. John's athletics logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "St. John's Athletics trademark",
+      "license": "editorial-use"
+    },
+    "logo-ncaa-stanford": {
+      "slug": "logo-ncaa-stanford",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/ncaa-stanford.svg",
+      "alt": "Stanford athletics logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "Stanford Athletics trademark",
+      "license": "editorial-use"
+    },
+    "logo-ncaa-syracuse": {
+      "slug": "logo-ncaa-syracuse",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/ncaa-syracuse.svg",
+      "alt": "Syracuse athletics logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "Syracuse Athletics trademark",
+      "license": "editorial-use"
+    },
+    "logo-ncaa-tennessee": {
+      "slug": "logo-ncaa-tennessee",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/ncaa-tennessee.svg",
+      "alt": "Tennessee athletics logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "Tennessee Athletics trademark",
+      "license": "editorial-use"
+    },
+    "logo-ncaa-texas": {
+      "slug": "logo-ncaa-texas",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/ncaa-texas.svg",
+      "alt": "Texas athletics logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "Texas Athletics trademark",
+      "license": "editorial-use"
+    },
+    "logo-ncaa-texas-tech": {
+      "slug": "logo-ncaa-texas-tech",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/ncaa-texas-tech.svg",
+      "alt": "Texas Tech athletics logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "Texas Tech Athletics trademark",
+      "license": "editorial-use"
+    },
+    "logo-ncaa-ucla": {
+      "slug": "logo-ncaa-ucla",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/ncaa-ucla.svg",
+      "alt": "UCLA athletics logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "UCLA Athletics trademark",
+      "license": "editorial-use"
+    },
+    "logo-ncaa-uconn": {
+      "slug": "logo-ncaa-uconn",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/ncaa-uconn.svg",
+      "alt": "UConn athletics logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "UConn Athletics trademark",
+      "license": "editorial-use"
+    },
+    "logo-ncaa-unc": {
+      "slug": "logo-ncaa-unc",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/ncaa-unc.svg",
+      "alt": "UNC athletics logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "UNC Athletics trademark",
+      "license": "editorial-use"
+    },
+    "logo-ncaa-usc": {
+      "slug": "logo-ncaa-usc",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/ncaa-usc.svg",
+      "alt": "USC athletics logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "USC Athletics trademark",
+      "license": "editorial-use"
+    },
+    "logo-ncaa-vanderbilt": {
+      "slug": "logo-ncaa-vanderbilt",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/ncaa-vanderbilt.svg",
+      "alt": "Vanderbilt athletics logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "Vanderbilt Athletics trademark",
+      "license": "editorial-use"
+    },
+    "logo-ncaa-villanova": {
+      "slug": "logo-ncaa-villanova",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/ncaa-villanova.svg",
+      "alt": "Villanova athletics logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "Villanova Athletics trademark",
+      "license": "editorial-use"
+    },
+    "logo-ncaa-wake-forest": {
+      "slug": "logo-ncaa-wake-forest",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/ncaa-wake-forest.svg",
+      "alt": "Wake Forest athletics logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "Wake Forest Athletics trademark",
+      "license": "editorial-use"
+    },
+    "logo-ncaa-washington": {
+      "slug": "logo-ncaa-washington",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/ncaa-washington.svg",
+      "alt": "Washington athletics logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "Washington Athletics trademark",
+      "license": "editorial-use"
+    },
+    "logo-ncaa-wisconsin": {
+      "slug": "logo-ncaa-wisconsin",
+      "type": "team-logo",
+      "path": "/images/2025-26-bowman-basketball/logos/ncaa-wisconsin.svg",
+      "alt": "Wisconsin athletics logo.",
+      "width": 400,
+      "height": 400,
+      "credit": "Wisconsin Athletics trademark",
+      "license": "editorial-use"
+    },
+    "example-border-parallel": {
+      "slug": "example-border-parallel",
+      "type": "card",
+      "path": "/images/2025-26-bowman-basketball/cards/example-border.jpg",
+      "alt": "Example Border parallel \u2014 colored cardstock border on paper base cards. Shown: Cooper Flagg Red Border /5.",
+      "width": 600,
+      "height": 840,
+      "credit": "Topps (via Rip Report sample image)",
+      "license": "editorial-use"
+    },
+    "example-chrome-refractor": {
+      "slug": "example-chrome-refractor",
+      "type": "card",
+      "path": "/images/2025-26-bowman-basketball/cards/example-chrome.jpg",
+      "alt": "Example Chrome Refractor \u2014 the foundational Chrome parallel family with prismatic refraction. Shown: Cooper Flagg Chrome Refractor /499.",
+      "width": 600,
+      "height": 840,
+      "credit": "Topps (via Rip Report sample image)",
+      "license": "editorial-use"
+    },
+    "example-reptilian-refractor": {
+      "slug": "example-reptilian-refractor",
+      "type": "card",
+      "path": "/images/2025-26-bowman-basketball/cards/example-reptilian.jpg",
+      "alt": "Example Reptilian Refractor \u2014 scaled reptile-skin texture on chrome stock.",
+      "width": 600,
+      "height": 840,
+      "credit": "Topps (via Rip Report sample image)",
+      "license": "editorial-use"
+    },
+    "example-geometric-parallel": {
+      "slug": "example-geometric-parallel",
+      "type": "card",
+      "path": "/images/2025-26-bowman-basketball/cards/example-geometric.jpg",
+      "alt": "Example Geometric parallel \u2014 angular faceted pattern, Breaker's Delight exclusive.",
+      "width": 600,
+      "height": 840,
+      "credit": "Topps (via Rip Report sample image)",
+      "license": "editorial-use"
+    },
+    "example-sapphire-parallel": {
+      "slug": "example-sapphire-parallel",
+      "type": "card",
+      "path": "/images/2025-26-bowman-basketball/cards/example-sapphire.jpg",
+      "alt": "Example Sapphire parallel \u2014 deep blue gem-styled design, Sapphire Box exclusive.",
+      "width": 600,
+      "height": 840,
+      "credit": "Topps (via Rip Report sample image)",
+      "license": "editorial-use"
+    },
+    "example-mojo-parallel": {
+      "slug": "example-mojo-parallel",
+      "type": "card",
+      "path": "/images/2025-26-bowman-basketball/cards/example-mojo.jpg",
+      "alt": "Example Mojo parallel \u2014 iridescent color-shifting design, Mega Box exclusive across 8 colorways.",
+      "width": 600,
+      "height": 840,
+      "credit": "Topps (via Rip Report sample image)",
+      "license": "editorial-use"
+    },
+    "example-insert-etched-in-glass": {
+      "slug": "example-insert-etched-in-glass",
+      "type": "card",
+      "path": "/images/2025-26-bowman-basketball/cards/example-etched-in-glass.jpg",
+      "alt": "Example Etched In Glass variation \u2014 stained-glass pattern overlay on chrome. Case hit tier.",
+      "width": 600,
+      "height": 840,
+      "credit": "Topps (via Rip Report sample image)",
+      "license": "editorial-use"
+    },
+    "example-insert-retrofractor": {
+      "slug": "example-insert-retrofractor",
+      "type": "card",
+      "path": "/images/2025-26-bowman-basketball/cards/example-retrofractor.jpg",
+      "alt": "Example Retrofractor \u2014 college-era photography of NBA legends. Only 2 cards: Bill Russell (San Francisco) and Shaquille O'Neal (LSU).",
+      "width": 600,
+      "height": 840,
+      "credit": "Topps (via Rip Report sample image)",
+      "license": "editorial-use"
+    },
+    "example-insert-spotlights": {
+      "slug": "example-insert-spotlights",
+      "type": "card",
+      "path": "/images/2025-26-bowman-basketball/cards/example-spotlights.jpg",
+      "alt": "Example Bowman Spotlights \u2014 dark background with light-blast subject treatment.",
+      "width": 600,
+      "height": 840,
+      "credit": "Topps (via Rip Report sample image)",
+      "license": "editorial-use"
+    },
+    "example-insert-crystalized": {
+      "slug": "example-insert-crystalized",
+      "type": "card",
+      "path": "/images/2025-26-bowman-basketball/cards/example-crystalized.jpg",
+      "alt": "Example Crystalized \u2014 geode-inside background effect. Carried over from 2025 Bowman Draft Baseball.",
+      "width": 600,
+      "height": 840,
+      "credit": "Topps (via Rip Report sample image)",
+      "license": "editorial-use"
+    },
+    "example-insert-anime": {
+      "slug": "example-insert-anime",
+      "type": "card",
+      "path": "/images/2025-26-bowman-basketball/cards/example-anime.jpg",
+      "alt": "Example Anime insert \u2014 Japanese animation-style illustration of subject. Highest-demand case-hit insert in Bowman Baseball, projected to be so in basketball.",
+      "width": 600,
+      "height": 840,
+      "credit": "Topps (via Rip Report sample image)",
+      "license": "editorial-use"
+    },
+    "example-insert-gpk": {
+      "slug": "example-insert-gpk",
+      "type": "card",
+      "path": "/images/2025-26-bowman-basketball/cards/example-gpk.jpg",
+      "alt": "Example Bowman GPK \u2014 Garbage Pail Kids-style satirical illustration of player. Playful parody design.",
+      "width": 600,
+      "height": 840,
+      "credit": "Topps (via Rip Report sample image)",
+      "license": "editorial-use"
+    },
+    "example-insert-talent-tracker": {
+      "slug": "example-insert-talent-tracker",
+      "type": "card",
+      "path": "/images/2025-26-bowman-basketball/cards/example-talent-tracker.jpg",
+      "alt": "Example Talent Tracker \u2014 flagship NCAA prospect insert design. Structurally shared with Gen Next, Very Important Prospects, and Bowman Verified.",
+      "width": 600,
+      "height": 840,
+      "credit": "Topps (via Rip Report sample image)",
+      "license": "editorial-use"
+    },
+    "card-flagg-base": {
+      "slug": "card-flagg-base",
+      "type": "card",
+      "path": "/images/2025-26-bowman-basketball/cards/card-flagg-base.jpg",
+      "alt": "Cooper Flagg base card #1 \u2014 Dallas Mavericks. The face of the product.",
+      "width": 600,
+      "height": 840,
+      "credit": "Topps",
+      "license": "editorial-use"
+    },
+    "card-flagg-superfractor": {
+      "slug": "card-flagg-superfractor",
+      "type": "card",
+      "path": "/images/2025-26-bowman-basketball/cards/card-flagg-superfractor.jpg",
+      "alt": "Cooper Flagg Chrome SuperFractor 1/1 \u2014 the single most important card in this release.",
+      "width": 600,
+      "height": 840,
+      "credit": "Topps",
+      "license": "editorial-use"
+    },
+    "card-dybantsa-superfractor": {
+      "slug": "card-dybantsa-superfractor",
+      "type": "card",
+      "path": "/images/2025-26-bowman-basketball/cards/card-dybantsa-superfractor.jpg",
+      "alt": "AJ Dybantsa Chrome Prospect SuperFractor 1/1 \u2014 the NCAA-side grail, projected 2026 NBA #1 pick.",
+      "width": 600,
+      "height": 840,
+      "credit": "Topps",
+      "license": "editorial-use"
+    },
+    "card-watkins-superfractor": {
+      "slug": "card-watkins-superfractor",
+      "type": "card",
+      "path": "/images/2025-26-bowman-basketball/cards/card-watkins-superfractor.jpg",
+      "alt": "Juju Watkins Chrome Prospect SuperFractor 1/1 \u2014 the WCBB grail of this product, USC guard.",
+      "width": 600,
+      "height": 840,
+      "credit": "Topps",
+      "license": "editorial-use"
+    },
+    "card-shaq-retrofractor-auto": {
+      "slug": "card-shaq-retrofractor-auto",
+      "type": "card",
+      "path": "/images/2025-26-bowman-basketball/cards/card-shaq-retrofractor-auto.jpg",
+      "alt": "Shaquille O'Neal Retrofractor Autograph \u2014 college-era LSU photography with on-card signature. The hidden-gem pick of the product.",
+      "width": 600,
+      "height": 840,
+      "credit": "Topps",
+      "license": "editorial-use"
+    }
+  }
+}

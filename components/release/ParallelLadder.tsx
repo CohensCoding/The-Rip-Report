@@ -1,12 +1,16 @@
 import { sportConfig } from "@/lib/sport-config";
 import { cn } from "@/lib/utils";
-import type { Parallel, ParallelGroup, Release } from "@/types/release";
+import type {
+  LegacyParallel,
+  LegacyParallelGroup,
+  LegacyRelease,
+} from "@/types/legacy-release";
 
 import { parallelBarWidthPercent, printRunDisplay } from "./_utils";
 import { ReleaseSection } from "./Section";
 
-function sortParallels(parallels: Parallel[]): Parallel[] {
-  const key = (p: Parallel) => {
+function sortParallels(parallels: LegacyParallel[]): LegacyParallel[] {
+  const key = (p: LegacyParallel) => {
     if (typeof p.printRun === "number" && Number.isFinite(p.printRun) && p.printRun > 0) return p.printRun;
     return Number.POSITIVE_INFINITY;
   };
@@ -14,7 +18,7 @@ function sortParallels(parallels: Parallel[]): Parallel[] {
   return [...parallels].sort((a, b) => key(a) - key(b));
 }
 
-function exclusivityChips(parallel: Parallel) {
+function exclusivityChips(parallel: LegacyParallel) {
   const ex = parallel.exclusiveTo;
   if (!ex?.length) return null;
 
@@ -43,7 +47,13 @@ function exclusivityChips(parallel: Parallel) {
   );
 }
 
-function ParallelRow({ release, parallel }: { release: Release; parallel: Parallel }) {
+function ParallelRow({
+  release,
+  parallel,
+}: {
+  release: LegacyRelease;
+  parallel: LegacyParallel;
+}) {
   const sport = sportConfig[release.sport];
   const widthPct = parallelBarWidthPercent(parallel);
   const run = printRunDisplay(parallel);
@@ -112,7 +122,13 @@ function ParallelRow({ release, parallel }: { release: Release; parallel: Parall
   );
 }
 
-function ParallelGroupBlock({ release, group }: { release: Release; group: ParallelGroup }) {
+function ParallelGroupBlock({
+  release,
+  group,
+}: {
+  release: LegacyRelease;
+  group: LegacyParallelGroup;
+}) {
   const parallels = sortParallels(group.parallels ?? []);
 
   return (
@@ -127,7 +143,7 @@ function ParallelGroupBlock({ release, group }: { release: Release; group: Paral
   );
 }
 
-export function ParallelLadder({ release }: { release: Release }) {
+export function ParallelLadder({ release }: { release: LegacyRelease }) {
   if (!release.parallels?.length) return null;
 
   return (

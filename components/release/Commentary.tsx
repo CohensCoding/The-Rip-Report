@@ -1,4 +1,4 @@
-import type { Release } from "@/types/release";
+import type { LegacyRelease } from "@/types/legacy-release";
 
 import { ReleaseSection } from "./Section";
 
@@ -21,7 +21,7 @@ function Prose({ children }: { children: string }) {
   );
 }
 
-export function Commentary({ release }: { release: Release }) {
+export function Commentary({ release }: { release: LegacyRelease }) {
   const c = release.commentary;
 
   const hasAny =

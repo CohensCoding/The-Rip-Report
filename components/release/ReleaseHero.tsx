@@ -1,12 +1,19 @@
 import { brandLabels, sportConfig } from "@/lib/sport-config";
 import { cn } from "@/lib/utils";
-import type { Release } from "@/types/release";
+import type { LegacyRelease } from "@/types/legacy-release";
 
 import { formatLongDate } from "./_utils";
 import { ReleaseHeroImage } from "./ReleaseHeroImage";
 
-function StatusPill({ status }: { status: Release["status"] }) {
+function StatusPill({ status }: { status: LegacyRelease["status"] }) {
   if (status === "released") return null;
+  if (status === "dropped") {
+    return (
+      <span className="inline-flex items-center rounded-full bg-emerald-500/15 px-2.5 py-1 text-[11px] font-medium tracking-wide text-emerald-300 uppercase">
+        Latest drop
+      </span>
+    );
+  }
   if (status === "preorder") {
     return (
       <span className="inline-flex items-center rounded-full bg-amber-500/15 px-2.5 py-1 text-[11px] font-medium tracking-wide text-amber-300 uppercase">
@@ -21,7 +28,7 @@ function StatusPill({ status }: { status: Release["status"] }) {
   );
 }
 
-export function ReleaseHero({ release }: { release: Release }) {
+export function ReleaseHero({ release }: { release: LegacyRelease }) {
   const sport = sportConfig[release.sport];
   const brand = brandLabels[release.brand] ?? release.brand;
 
