@@ -6,11 +6,11 @@ const TABS = [
   { id: "overview" as const, label: "Overview", href: (slug: string) => `/releases/${slug}` },
   { id: "checklist" as const, label: "Checklist", href: (slug: string) => `/releases/${slug}/checklist` },
   { id: "parallels" as const, label: "Parallels", href: (slug: string) => `/releases/${slug}/parallels` },
-  { id: "autographs" as const, label: "Autographs", href: null },
-  { id: "inserts" as const, label: "Inserts", href: null },
-  { id: "teams" as const, label: "Teams", href: null },
+  { id: "autographs" as const, label: "Autographs", href: (slug: string) => `/releases/${slug}/autographs` },
+  { id: "inserts" as const, label: "Inserts", href: (slug: string) => `/releases/${slug}/inserts` },
+  { id: "teams" as const, label: "Teams", href: (slug: string) => `/releases/${slug}/teams` },
   { id: "insights" as const, label: "Insights", href: null },
-  { id: "resources" as const, label: "Resources", href: null },
+  { id: "resources" as const, label: "Resources", href: (slug: string) => `/releases/${slug}/resources` },
 ];
 
 type TabId = (typeof TABS)[number]["id"];
