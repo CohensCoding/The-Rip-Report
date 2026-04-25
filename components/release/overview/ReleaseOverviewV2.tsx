@@ -1,14 +1,18 @@
+import Link from "next/link";
+
 import { brandLabels, sportConfig } from "@/lib/sport-config";
 import { parallelVariationCount, resolveAutoSignerCount } from "@/lib/overview-stats";
+import { pickRainbowStrip } from "@/lib/pick-rainbow-strip";
 import { cn } from "@/lib/utils";
-import type { Parallel } from "@/types/parallels";
 import type { Release } from "@/types/release";
 
+import { RainbowStripSummary } from "../parallels/RainbowStripSummary";
+
 import { formatLongDate } from "../_utils";
+import { ReleaseSubNav } from "../ReleaseSubNav";
 import { Module7ByTheNumbers } from "./Module7ByTheNumbers";
 import { OverviewImage } from "./OverviewImage";
 import { OverviewShell } from "./OverviewShell";
-import { OverviewStickyNav } from "./OverviewStickyNav";
 
 type Props = { bundle: Release };
 
@@ -18,15 +22,6 @@ function statusLabel(status: Release["status"]): string | null {
   if (status === "preorder") return "Preorder";
   if (status === "announced") return "Announced";
   return null;
-}
-
-function pickRainbowStrip(parallels: Parallel[], max = 14): Parallel[] {
-  const scored = parallels.map((p) => ({
-    p,
-    pr: typeof p.printRun === "number" && Number.isFinite(p.printRun) ? p.printRun : Number.POSITIVE_INFINITY,
-  }));
-  scored.sort((a, b) => a.pr - b.pr);
-  return scored.slice(0, max).map((x) => x.p);
 }
 
 export function ReleaseOverviewV2({ bundle }: Props) {
@@ -53,7 +48,7 @@ export function ReleaseOverviewV2({ bundle }: Props) {
   return (
     <main className="pb-24">
       <div id="overview-top" />
-      <OverviewStickyNav slug={bundle.slug} activeBorderClass={cn("border-b-2", sport.borderClass)} />
+      <ReleaseSubNav slug={bundle.slug} current="overview" activeBorderClass={cn("border-b-2", sport.borderClass)} />
 
       {/* Module 1 */}
       <header className="relative">
@@ -189,9 +184,6 @@ export function ReleaseOverviewV2({ bundle }: Props) {
           <div className="rounded-lg border border-zinc-800 bg-zinc-950/50 px-3 py-2">
             <span className="text-lg font-semibold text-paper">{autoSigners ?? "—"}</span>{" "}
             <span className="text-zinc-400">autograph signers</span>
-            {checklist?.metadata.autoSignerCount == null && autoSigners != null ? (
-              <span className="ml-1 text-[10px] uppercase text-zinc-600">(from signer index)</span>
-            ) : null}
           </div>
           <div className="rounded-lg border border-zinc-800 bg-zinc-950/50 px-3 py-2">
             <span className="text-lg font-semibold text-paper">{parallelTotal ?? "—"}</span>{" "}
@@ -253,27 +245,15 @@ export function ReleaseOverviewV2({ bundle }: Props) {
       <OverviewShell id="overview-mod-5" eyebrow="THE RAINBOW">
         <h2 className="font-serif text-2xl text-paper sm:text-3xl">Parallel ladder (teaser)</h2>
         <p className="mt-2 max-w-3xl text-sm text-zinc-400">{parallelsData?.rainbowSummary.headlineStat}</p>
-        <div className="mt-8 flex flex-wrap items-end gap-1 sm:gap-1.5">
-          {strip.length === 0 ? (
-            <p className="text-sm text-zinc-500">No parallel color data available.</p>
-          ) : null}
-          {strip.map((p) => (
-            <div key={p.slug} className="flex flex-col items-center" title={p.name}>
-              <div
-                className="w-5 rounded-t sm:w-6"
-                style={{
-                  height: `${12 + Math.min(48, (typeof p.printRun === "number" ? 320 / p.printRun : 20))}px`,
-                  backgroundColor: p.color.hex,
-                }}
-              />
-              <div className="mt-1 max-w-[3.5rem] truncate text-center text-[9px] tabular-nums text-zinc-500 sm:text-[10px]">
-                {typeof p.printRun === "number" ? `/${p.printRun}` : p.printRunLabel ?? "—"}
-              </div>
-            </div>
-          ))}
-        </div>
+        <RainbowStripSummary strip={strip} className="mt-8" />
         <p className="mt-8 text-sm text-zinc-500">
-          <span className="text-zinc-600">Explore every parallel</span> — Parallel Explorer route next.
+          <Link
+            href={`/releases/${bundle.slug}/parallels`}
+            className="font-medium text-emerald-400/90 underline-offset-2 hover:text-emerald-300 hover:underline"
+          >
+            Explore every parallel
+          </Link>
+          <span className="text-zinc-600"> — full ladders, per-format odds, and format exclusivity.</span>
         </p>
       </OverviewShell>
 

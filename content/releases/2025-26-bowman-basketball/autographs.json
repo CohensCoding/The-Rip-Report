@@ -340,7 +340,7 @@
       "name": "Future Script",
       "slug": "future-script",
       "totalSigners": 25,
-      "boxGuarantee": null,
+      "boxGuarantee": "Pack odds only \u2014 no per-box guarantee",
       "odds": {
         "ratioDisplay": "1:1,889 packs (Hobby)",
         "ratio": {
@@ -404,7 +404,7 @@
       "name": "Buzz Factor Autographs",
       "slug": "buzz-factor-autographs",
       "totalSigners": 25,
-      "boxGuarantee": null,
+      "boxGuarantee": "Pack odds only \u2014 no per-box guarantee",
       "odds": {
         "ratioDisplay": "1:1,417 packs (Hobby)",
         "ratio": {
@@ -468,7 +468,7 @@
       "name": "Opening Statement Signatures",
       "slug": "opening-statement-signatures",
       "totalSigners": 25,
-      "boxGuarantee": null,
+      "boxGuarantee": "Pack odds only \u2014 no per-box guarantee",
       "odds": {
         "ratioDisplay": "1:1,731 packs (Hobby)",
         "ratio": {
@@ -532,7 +532,7 @@
       "name": "Timeless Touch Signatures",
       "slug": "timeless-touch-signatures",
       "totalSigners": 25,
-      "boxGuarantee": null,
+      "boxGuarantee": "Pack odds only \u2014 no per-box guarantee",
       "odds": {
         "ratioDisplay": "1:72 packs (Hobby)",
         "ratio": {
@@ -951,8 +951,6 @@
     {
       "player": "Aaron Nesmith",
       "playerSlug": "aaron-nesmith",
-      "team": "",
-      "teamSlug": "",
       "league": "OTHER",
       "inSets": [
         "chrome-autographs"
@@ -1058,8 +1056,6 @@
     {
       "player": "Ajay Mitchell",
       "playerSlug": "ajay-mitchell",
-      "team": "",
-      "teamSlug": "",
       "league": "OTHER",
       "inSets": [
         "chrome-autographs"
@@ -1072,13 +1068,11 @@
     {
       "player": "Al Horford",
       "playerSlug": "al-horford",
-      "team": "",
-      "teamSlug": "",
       "league": "OTHER",
       "inSets": [
         "paper-rookies-and-veterans-retail-autograph"
       ],
-      "lowestParallelNumbered": null,
+      "lowestParallelNumbered": 1,
       "tier": 4,
       "isFirstBowmanAuto": false,
       "isRookie": false
@@ -1222,13 +1216,11 @@
     {
       "player": "Baylor Scheierman",
       "playerSlug": "baylor-scheierman",
-      "team": "",
-      "teamSlug": "",
       "league": "OTHER",
       "inSets": [
         "paper-rookies-and-veterans-retail-autograph"
       ],
-      "lowestParallelNumbered": null,
+      "lowestParallelNumbered": 1,
       "tier": 4,
       "isFirstBowmanAuto": false,
       "isRookie": false
@@ -1313,13 +1305,11 @@
     {
       "player": "Brandon Clarke",
       "playerSlug": "brandon-clarke",
-      "team": "",
-      "teamSlug": "",
       "league": "OTHER",
       "inSets": [
         "paper-rookies-and-veterans-retail-autograph"
       ],
-      "lowestParallelNumbered": null,
+      "lowestParallelNumbered": 1,
       "tier": 4,
       "isFirstBowmanAuto": false,
       "isRookie": false
@@ -1417,14 +1407,12 @@
     {
       "player": "Brynn McGaughy",
       "playerSlug": "brynn-mcgaughy",
-      "team": "",
-      "teamSlug": "",
       "league": "OTHER",
       "inSets": [
         "future-script",
         "paper-prospect-retail-autograph"
       ],
-      "lowestParallelNumbered": null,
+      "lowestParallelNumbered": 1,
       "tier": 4,
       "isFirstBowmanAuto": false,
       "isRookie": false
@@ -1468,7 +1456,7 @@
       "inSets": [
         "timeless-touch-signatures"
       ],
-      "lowestParallelNumbered": null,
+      "lowestParallelNumbered": 1,
       "tier": 3,
       "isFirstBowmanAuto": false,
       "isRookie": false
@@ -1523,8 +1511,6 @@
     {
       "player": "Cam Whitmore",
       "playerSlug": "cam-whitmore",
-      "team": "",
-      "teamSlug": "",
       "league": "OTHER",
       "inSets": [
         "chrome-autographs",
@@ -1546,7 +1532,7 @@
         "paper-rookies-and-veterans-retail-autograph",
         "timeless-touch-signatures"
       ],
-      "lowestParallelNumbered": null,
+      "lowestParallelNumbered": 1,
       "tier": 4,
       "isFirstBowmanAuto": false,
       "isRookie": false
@@ -1606,7 +1592,7 @@
       "inSets": [
         "paper-rookies-and-veterans-retail-autograph"
       ],
-      "lowestParallelNumbered": null,
+      "lowestParallelNumbered": 1,
       "tier": 4,
       "isFirstBowmanAuto": false,
       "isRookie": false
@@ -1629,14 +1615,12 @@
     {
       "player": "Cody Williams",
       "playerSlug": "cody-williams",
-      "team": "",
-      "teamSlug": "",
       "league": "OTHER",
       "inSets": [
         "paper-rookies-and-veterans-retail-autograph",
         "timeless-touch-signatures"
       ],
-      "lowestParallelNumbered": null,
+      "lowestParallelNumbered": 1,
       "tier": 4,
       "isFirstBowmanAuto": false,
       "isRookie": false
@@ -1708,13 +1692,11 @@
     {
       "player": "Dalen Terry",
       "playerSlug": "dalen-terry",
-      "team": "",
-      "teamSlug": "",
       "league": "OTHER",
       "inSets": [
         "timeless-touch-signatures"
       ],
-      "lowestParallelNumbered": null,
+      "lowestParallelNumbered": 1,
       "tier": 4,
       "isFirstBowmanAuto": false,
       "isRookie": false
@@ -1815,8 +1797,6 @@
     {
       "player": "Deandre Ayton",
       "playerSlug": "deandre-ayton",
-      "team": "",
-      "teamSlug": "",
       "league": "OTHER",
       "inSets": [
         "chrome-autographs",
@@ -1922,8 +1902,6 @@
     {
       "player": "Devin Vassell",
       "playerSlug": "devin-vassell",
-      "team": "",
-      "teamSlug": "",
       "league": "OTHER",
       "inSets": [
         "chrome-autographs"
@@ -1936,8 +1914,6 @@
     {
       "player": "Dillon Jones",
       "playerSlug": "dillon-jones",
-      "team": "",
-      "teamSlug": "",
       "league": "OTHER",
       "inSets": [
         "chrome-autographs",
@@ -1966,8 +1942,6 @@
     {
       "player": "Dorian Finney-Smith",
       "playerSlug": "dorian-finney-smith",
-      "team": "",
-      "teamSlug": "",
       "league": "OTHER",
       "inSets": [
         "chrome-autographs"
@@ -1995,13 +1969,11 @@
     {
       "player": "Dwayne Aristode",
       "playerSlug": "dwayne-aristode",
-      "team": "",
-      "teamSlug": "",
       "league": "OTHER",
       "inSets": [
         "buzz-factor-autographs"
       ],
-      "lowestParallelNumbered": null,
+      "lowestParallelNumbered": 1,
       "tier": 4,
       "isFirstBowmanAuto": false,
       "isRookie": false
@@ -2031,7 +2003,7 @@
       "inSets": [
         "timeless-touch-signatures"
       ],
-      "lowestParallelNumbered": null,
+      "lowestParallelNumbered": 1,
       "tier": 4,
       "isFirstBowmanAuto": false,
       "isRookie": false
@@ -2071,8 +2043,6 @@
     {
       "player": "Enrique Freeman",
       "playerSlug": "enrique-freeman",
-      "team": "",
-      "teamSlug": "",
       "league": "OTHER",
       "inSets": [
         "chrome-autographs"
@@ -2192,13 +2162,11 @@
     {
       "player": "Isaiah Hartenstein",
       "playerSlug": "isaiah-hartenstein",
-      "team": "",
-      "teamSlug": "",
       "league": "OTHER",
       "inSets": [
         "timeless-touch-signatures"
       ],
-      "lowestParallelNumbered": null,
+      "lowestParallelNumbered": 1,
       "tier": 4,
       "isFirstBowmanAuto": false,
       "isRookie": false
@@ -2302,7 +2270,7 @@
       "inSets": [
         "paper-rookies-and-veterans-retail-autograph"
       ],
-      "lowestParallelNumbered": null,
+      "lowestParallelNumbered": 1,
       "tier": 4,
       "isFirstBowmanAuto": false,
       "isRookie": false
@@ -2378,7 +2346,7 @@
       "inSets": [
         "paper-rookies-and-veterans-retail-autograph"
       ],
-      "lowestParallelNumbered": null,
+      "lowestParallelNumbered": 1,
       "tier": 4,
       "isFirstBowmanAuto": false,
       "isRookie": false
@@ -2417,8 +2385,6 @@
     {
       "player": "Jarace Walker",
       "playerSlug": "jarace-walker",
-      "team": "",
-      "teamSlug": "",
       "league": "OTHER",
       "inSets": [
         "chrome-autographs",
@@ -2439,7 +2405,7 @@
       "inSets": [
         "paper-rookies-and-veterans-retail-autograph"
       ],
-      "lowestParallelNumbered": null,
+      "lowestParallelNumbered": 1,
       "tier": 4,
       "isFirstBowmanAuto": false,
       "isRookie": false
@@ -2509,8 +2475,6 @@
     {
       "player": "Jaylin Williams",
       "playerSlug": "jaylin-williams",
-      "team": "",
-      "teamSlug": "",
       "league": "OTHER",
       "inSets": [
         "chrome-autographs",
@@ -2573,7 +2537,7 @@
       "inSets": [
         "paper-rookies-and-veterans-retail-autograph"
       ],
-      "lowestParallelNumbered": null,
+      "lowestParallelNumbered": 1,
       "tier": 4,
       "isFirstBowmanAuto": false,
       "isRookie": false
@@ -2581,13 +2545,11 @@
     {
       "player": "Jett Howard",
       "playerSlug": "jett-howard",
-      "team": "",
-      "teamSlug": "",
       "league": "OTHER",
       "inSets": [
         "paper-rookies-and-veterans-retail-autograph"
       ],
-      "lowestParallelNumbered": null,
+      "lowestParallelNumbered": 1,
       "tier": 4,
       "isFirstBowmanAuto": false,
       "isRookie": false
@@ -2671,13 +2633,11 @@
     {
       "player": "Johnny Furphy",
       "playerSlug": "johnny-furphy",
-      "team": "",
-      "teamSlug": "",
       "league": "OTHER",
       "inSets": [
         "paper-rookies-and-veterans-retail-autograph"
       ],
-      "lowestParallelNumbered": null,
+      "lowestParallelNumbered": 1,
       "tier": 4,
       "isFirstBowmanAuto": false,
       "isRookie": false
@@ -2699,8 +2659,6 @@
     {
       "player": "Jordan Hawkins",
       "playerSlug": "jordan-hawkins",
-      "team": "",
-      "teamSlug": "",
       "league": "OTHER",
       "inSets": [
         "chrome-autographs",
@@ -2730,13 +2688,11 @@
     {
       "player": "Jrue Holiday",
       "playerSlug": "jrue-holiday",
-      "team": "",
-      "teamSlug": "",
       "league": "OTHER",
       "inSets": [
         "paper-rookies-and-veterans-retail-autograph"
       ],
-      "lowestParallelNumbered": null,
+      "lowestParallelNumbered": 1,
       "tier": 4,
       "isFirstBowmanAuto": false,
       "isRookie": false
@@ -2791,14 +2747,12 @@
     {
       "player": "Kam Williams",
       "playerSlug": "kam-williams",
-      "team": "",
-      "teamSlug": "",
       "league": "OTHER",
       "inSets": [
         "buzz-factor-autographs",
         "paper-prospect-retail-autograph"
       ],
-      "lowestParallelNumbered": null,
+      "lowestParallelNumbered": 1,
       "tier": 4,
       "isFirstBowmanAuto": false,
       "isRookie": false
@@ -2942,8 +2896,6 @@
     {
       "player": "Kiyomi McMiller",
       "playerSlug": "kiyomi-mcmiller",
-      "team": "",
-      "teamSlug": "",
       "league": "OTHER",
       "inSets": [
         "buzz-factor-autographs",
@@ -3142,14 +3094,12 @@
     {
       "player": "Malik Reneau",
       "playerSlug": "malik-reneau",
-      "team": "",
-      "teamSlug": "",
       "league": "OTHER",
       "inSets": [
         "buzz-factor-autographs",
         "paper-prospect-retail-autograph"
       ],
-      "lowestParallelNumbered": null,
+      "lowestParallelNumbered": 1,
       "tier": 4,
       "isFirstBowmanAuto": false,
       "isRookie": false
@@ -3236,13 +3186,11 @@
     {
       "player": "Miles McBride",
       "playerSlug": "miles-mcbride",
-      "team": "",
-      "teamSlug": "",
       "league": "OTHER",
       "inSets": [
         "paper-rookies-and-veterans-retail-autograph"
       ],
-      "lowestParallelNumbered": null,
+      "lowestParallelNumbered": 1,
       "tier": 4,
       "isFirstBowmanAuto": false,
       "isRookie": false
@@ -3266,13 +3214,11 @@
     {
       "player": "Moses Moody",
       "playerSlug": "moses-moody",
-      "team": "",
-      "teamSlug": "",
       "league": "OTHER",
       "inSets": [
         "timeless-touch-signatures"
       ],
-      "lowestParallelNumbered": null,
+      "lowestParallelNumbered": 1,
       "tier": 4,
       "isFirstBowmanAuto": false,
       "isRookie": false
@@ -3385,13 +3331,11 @@
     {
       "player": "Nikola Jovi\u0107",
       "playerSlug": "nikola-jovi\u0107",
-      "team": "",
-      "teamSlug": "",
       "league": "OTHER",
       "inSets": [
         "paper-rookies-and-veterans-retail-autograph"
       ],
-      "lowestParallelNumbered": null,
+      "lowestParallelNumbered": 1,
       "tier": 4,
       "isFirstBowmanAuto": false,
       "isRookie": false
@@ -3399,8 +3343,6 @@
     {
       "player": "Nikola Topi\u0107",
       "playerSlug": "nikola-topi\u0107",
-      "team": "",
-      "teamSlug": "",
       "league": "OTHER",
       "inSets": [
         "chrome-autographs"
@@ -3512,7 +3454,7 @@
       "inSets": [
         "timeless-touch-signatures"
       ],
-      "lowestParallelNumbered": null,
+      "lowestParallelNumbered": 1,
       "tier": 4,
       "isFirstBowmanAuto": false,
       "isRookie": false
@@ -3566,13 +3508,11 @@
     {
       "player": "Pac\u00f4me Dadiet",
       "playerSlug": "pac\u00f4me-dadiet",
-      "team": "",
-      "teamSlug": "",
       "league": "OTHER",
       "inSets": [
         "paper-rookies-and-veterans-retail-autograph"
       ],
-      "lowestParallelNumbered": null,
+      "lowestParallelNumbered": 1,
       "tier": 4,
       "isFirstBowmanAuto": false,
       "isRookie": false
@@ -3610,8 +3550,6 @@
     {
       "player": "Quinten Post",
       "playerSlug": "quinten-post",
-      "team": "",
-      "teamSlug": "",
       "league": "OTHER",
       "inSets": [
         "chrome-autographs",
@@ -3702,13 +3640,11 @@
     {
       "player": "Robert McCray V",
       "playerSlug": "robert-mccray-v",
-      "team": "",
-      "teamSlug": "",
       "league": "OTHER",
       "inSets": [
         "paper-prospect-retail-autograph"
       ],
-      "lowestParallelNumbered": null,
+      "lowestParallelNumbered": 1,
       "tier": 4,
       "isFirstBowmanAuto": false,
       "isRookie": false
@@ -3731,13 +3667,11 @@
     {
       "player": "Royce O'Neale",
       "playerSlug": "royce-oneale",
-      "team": "",
-      "teamSlug": "",
       "league": "OTHER",
       "inSets": [
         "paper-rookies-and-veterans-retail-autograph"
       ],
-      "lowestParallelNumbered": null,
+      "lowestParallelNumbered": 1,
       "tier": 4,
       "isFirstBowmanAuto": false,
       "isRookie": false
@@ -3745,13 +3679,11 @@
     {
       "player": "Rudy Gobert",
       "playerSlug": "rudy-gobert",
-      "team": "",
-      "teamSlug": "",
       "league": "OTHER",
       "inSets": [
         "timeless-touch-signatures"
       ],
-      "lowestParallelNumbered": null,
+      "lowestParallelNumbered": 1,
       "tier": 4,
       "isFirstBowmanAuto": false,
       "isRookie": false
@@ -3759,14 +3691,12 @@
     {
       "player": "Ryan Conwell",
       "playerSlug": "ryan-conwell",
-      "team": "",
-      "teamSlug": "",
       "league": "OTHER",
       "inSets": [
         "future-script",
         "paper-prospect-retail-autograph"
       ],
-      "lowestParallelNumbered": null,
+      "lowestParallelNumbered": 1,
       "tier": 4,
       "isFirstBowmanAuto": false,
       "isRookie": false
@@ -3904,7 +3834,7 @@
       "inSets": [
         "retrofractor-autograph-variation"
       ],
-      "lowestParallelNumbered": null,
+      "lowestParallelNumbered": 1,
       "tier": 1,
       "isFirstBowmanAuto": false,
       "isRookie": false
@@ -4066,14 +3996,12 @@
     {
       "player": "Taylor Hendricks",
       "playerSlug": "taylor-hendricks",
-      "team": "",
-      "teamSlug": "",
       "league": "OTHER",
       "inSets": [
         "paper-rookies-and-veterans-retail-autograph",
         "timeless-touch-signatures"
       ],
-      "lowestParallelNumbered": null,
+      "lowestParallelNumbered": 1,
       "tier": 4,
       "isFirstBowmanAuto": false,
       "isRookie": false
@@ -4081,13 +4009,11 @@
     {
       "player": "Terance Mann",
       "playerSlug": "terance-mann",
-      "team": "",
-      "teamSlug": "",
       "league": "OTHER",
       "inSets": [
         "paper-rookies-and-veterans-retail-autograph"
       ],
-      "lowestParallelNumbered": null,
+      "lowestParallelNumbered": 1,
       "tier": 4,
       "isFirstBowmanAuto": false,
       "isRookie": false
@@ -4130,7 +4056,7 @@
       "inSets": [
         "paper-rookies-and-veterans-retail-autograph"
       ],
-      "lowestParallelNumbered": null,
+      "lowestParallelNumbered": 1,
       "tier": 4,
       "isFirstBowmanAuto": false,
       "isRookie": false
@@ -4169,14 +4095,12 @@
     {
       "player": "Tre Donaldson",
       "playerSlug": "tre-donaldson",
-      "team": "",
-      "teamSlug": "",
       "league": "OTHER",
       "inSets": [
         "buzz-factor-autographs",
         "paper-prospect-retail-autograph"
       ],
-      "lowestParallelNumbered": null,
+      "lowestParallelNumbered": 1,
       "tier": 4,
       "isFirstBowmanAuto": false,
       "isRookie": false
@@ -4190,7 +4114,7 @@
       "inSets": [
         "paper-prospect-retail-autograph"
       ],
-      "lowestParallelNumbered": null,
+      "lowestParallelNumbered": 1,
       "tier": 4,
       "isFirstBowmanAuto": true,
       "isRookie": false
@@ -4220,7 +4144,7 @@
       "inSets": [
         "paper-rookies-and-veterans-retail-autograph"
       ],
-      "lowestParallelNumbered": null,
+      "lowestParallelNumbered": 1,
       "tier": 4,
       "isFirstBowmanAuto": false,
       "isRookie": false
@@ -4228,13 +4152,11 @@
     {
       "player": "Tyler Kolek",
       "playerSlug": "tyler-kolek",
-      "team": "",
-      "teamSlug": "",
       "league": "OTHER",
       "inSets": [
         "paper-rookies-and-veterans-retail-autograph"
       ],
-      "lowestParallelNumbered": null,
+      "lowestParallelNumbered": 1,
       "tier": 4,
       "isFirstBowmanAuto": false,
       "isRookie": false
@@ -4242,14 +4164,12 @@
     {
       "player": "Tyler Smith",
       "playerSlug": "tyler-smith",
-      "team": "",
-      "teamSlug": "",
       "league": "OTHER",
       "inSets": [
         "paper-rookies-and-veterans-retail-autograph",
         "timeless-touch-signatures"
       ],
-      "lowestParallelNumbered": null,
+      "lowestParallelNumbered": 1,
       "tier": 4,
       "isFirstBowmanAuto": false,
       "isRookie": false
@@ -4257,14 +4177,12 @@
     {
       "player": "Tylis Jordan",
       "playerSlug": "tylis-jordan",
-      "team": "",
-      "teamSlug": "",
       "league": "OTHER",
       "inSets": [
         "buzz-factor-autographs",
         "paper-prospect-retail-autograph"
       ],
-      "lowestParallelNumbered": null,
+      "lowestParallelNumbered": 1,
       "tier": 4,
       "isFirstBowmanAuto": false,
       "isRookie": false
@@ -4278,7 +4196,7 @@
       "inSets": [
         "timeless-touch-signatures"
       ],
-      "lowestParallelNumbered": null,
+      "lowestParallelNumbered": 1,
       "tier": 4,
       "isFirstBowmanAuto": false,
       "isRookie": false
@@ -4409,13 +4327,11 @@
     {
       "player": "Xavier Tillman SR.",
       "playerSlug": "xavier-tillman-sr",
-      "team": "",
-      "teamSlug": "",
       "league": "OTHER",
       "inSets": [
         "paper-rookies-and-veterans-retail-autograph"
       ],
-      "lowestParallelNumbered": null,
+      "lowestParallelNumbered": 1,
       "tier": 4,
       "isFirstBowmanAuto": false,
       "isRookie": false
@@ -4469,13 +4385,11 @@
     {
       "player": "Yves Missi",
       "playerSlug": "yves-missi",
-      "team": "",
-      "teamSlug": "",
       "league": "OTHER",
       "inSets": [
         "paper-rookies-and-veterans-retail-autograph"
       ],
-      "lowestParallelNumbered": null,
+      "lowestParallelNumbered": 1,
       "tier": 4,
       "isFirstBowmanAuto": false,
       "isRookie": false
