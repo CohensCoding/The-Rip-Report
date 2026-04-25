@@ -9,7 +9,7 @@ const TABS = [
   { id: "autographs" as const, label: "Autographs", href: (slug: string) => `/releases/${slug}/autographs` },
   { id: "inserts" as const, label: "Inserts", href: (slug: string) => `/releases/${slug}/inserts` },
   { id: "teams" as const, label: "Teams", href: (slug: string) => `/releases/${slug}/teams` },
-  { id: "insights" as const, label: "Insights", href: null },
+  { id: "insights" as const, label: "Insights", href: (slug: string) => `/releases/${slug}/insights` },
   { id: "resources" as const, label: "Resources", href: (slug: string) => `/releases/${slug}/resources` },
 ];
 
