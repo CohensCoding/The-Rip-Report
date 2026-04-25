@@ -1,221 +1,141 @@
 {
   "featuredTiles": [
     {
-      "slug": "top-7-rookies-no-autos",
-      "headline": "Three top-7 rookies have zero autos",
-      "stat": "VJ Edgecombe, Tre Johnson III, Jeremiah Fears",
-      "caption": "The #3, #6, and #7 picks in the 2025 NBA Draft have base cards and inserts but not a single autograph. Two more first-rounders (Carter Bryant #14, Hugo Gonzalez #28) are also auto-less \u2014 but the top-7 cluster is the Panini-exclusive fingerprint.",
+      "slug": "panini-shadow-tile",
+      "headline": "If you want a Tre Johnson III auto, this isn't where you find it",
+      "stat": "VJ Edgecombe (#3) \u00b7 Tre Johnson III (#6) \u00b7 Jeremiah Fears (#7)",
+      "caption": "Three of the top seven picks in the 2025 NBA Draft have base cards and inserts in this product but zero autographs. That makes their Bowman base cards uniquely Topps-only \u2014 if you want their autographed rookie cards, you're waiting on Panini's release.",
       "iconType": "number",
       "tier": "featured"
     },
     {
-      "slug": "flagg-brothers",
-      "headline": "The Flagg brothers share a 1st Bowman",
-      "stat": "Cooper #1 \u2014 Ace BPP-91",
-      "caption": "Cooper Flagg anchors the NBA base set at #1. Younger brother Ace Flagg lands on BPP-91 at Maine. Sibling set chase is real.",
+      "slug": "two-generations-anthony",
+      "headline": "Kiyan Anthony and his dad share this product",
+      "stat": "Kiyan at Syracuse \u00b7 Carmelo on Young Kings YK-22 (Nuggets era)",
+      "caption": "Kiyan Anthony's first 1st Bowman card lands him at Syracuse \u2014 the same school where his father retired his #15 jersey in the rafters. Carmelo appears in the same product on the Young Kings insert, in his Denver Nuggets uniform. Father and son, one box, 23 years between their college careers. Kiyan even wears Carmelo's old Knicks #7 at Syracuse.",
       "iconType": "player",
+      "tier": "featured"
+    },
+    {
+      "slug": "flagg-twins-not-brothers",
+      "headline": "Cooper and Ace Flagg are fraternal twins",
+      "stat": "Cooper #1 in Dallas \u00b7 Ace BPP-91 at Maine",
+      "caption": "Born together December 21, 2006. Cooper became the youngest player in NBA history to score 50+ points. Ace plays Division I at the University of Maine while his brother anchors the Mavericks. Building a Cooper-Ace twin pairing \u2014 say, both base /1s \u2014 is a specific PC goal that exists nowhere else in the hobby.",
+      "iconType": "player",
+      "tier": "featured"
+    },
+    {
+      "slug": "passport-stamps",
+      "headline": "Eight countries appear in the 2025 NBA rookie class",
+      "stat": "Bahamas \u00b7 South Sudan \u00b7 Spain \u00b7 France \u00b7 Israel \u00b7 Germany \u00b7 Lithuania \u00b7 Russia",
+      "caption": "VJ Edgecombe (Bahamas, #3). Khaman Maluach (South Sudan via the NBA Africa Academy, #10). Hugo Gonzalez (Spain, #28). Noa Essengue and Joan Beringer (France/Cameroon lineages). Ben Saraf (Israel). Egor D\u00ebmin (Russia, via BYU). Nolan Traor\u00e9 (France). Kasparas Jaku\u010dionis (Lithuania, via Illinois). The 1st Bowman class is the most international NBA draft class in recent memory.",
+      "iconType": "team",
       "tier": "featured"
     },
     {
       "slug": "ray-allen-sonics",
-      "headline": "Ray Allen's Young Kings card is a Supersonic",
-      "stat": "A team that hasn't existed since 2008",
-      "caption": "YK-25 features Ray Allen in Seattle green \u2014 the franchise Oklahoma City took over. Topps deliberately chose the signature era.",
+      "headline": "Ray Allen's card features a team that hasn't existed since 2008",
+      "stat": "Young Kings YK-25 \u00b7 Seattle Supersonics, defunct since 2008",
+      "caption": "The Young Kings insert pairs current NBA stars (YK-1 through YK-15) with retired HOFers in their iconic uniforms (YK-16 through YK-25). Iverson is a 76er. Magic is a Laker. Ray Allen is a Sonic. It's the only card in this product referencing a franchise that no longer exists. Topps did this on purpose.",
       "iconType": "team",
-      "tier": "featured"
-    },
-    {
-      "slug": "universal-one-of-one",
-      "headline": "Every card has a 1/1 parallel",
-      "stat": "400 cards, 400 holy grails",
-      "caption": "Every Base has Platinum Border /1. Every Paper Prospect has Platinum Border /1. Every Chrome Prospect has SuperFractor /1. Holy Grail ceiling is universal.",
-      "iconType": "parallel",
-      "tier": "featured"
-    },
-    {
-      "slug": "brooklyn-kentucky-uconn-tied",
-      "headline": "Three teams tied for most cards",
-      "stat": "Brooklyn, Kentucky, UConn \u2014 10 each",
-      "caption": "The deepest allocations in the product: Brooklyn's loaded rookie class, Kentucky's men-plus-women mix, UConn's Sarah Strong-led depth.",
-      "iconType": "team",
-      "tier": "featured"
-    },
-    {
-      "slug": "boozer-absence",
-      "headline": "Cameron Boozer: zero cards, full marketing",
-      "stat": "0 checklist, 0 autos, prominent education sheet",
-      "caption": "Topps' education sheet features Boozer as a top 2026 prospect. The actual checklist doesn't include him. Twin brother Cayden is also missing.",
-      "iconType": "player",
       "tier": "featured"
     }
   ],
   "allTiles": [
     {
-      "slug": "top-7-rookies-no-autos",
-      "headline": "Three top-7 rookies have zero autos",
-      "stat": "VJ Edgecombe, Tre Johnson III, Jeremiah Fears",
-      "caption": "The #3, #6, and #7 picks in the 2025 NBA Draft have base cards and inserts but not a single autograph. Two more first-rounders (Carter Bryant #14, Hugo Gonzalez #28) are also auto-less \u2014 but the top-7 cluster is the Panini-exclusive fingerprint.",
+      "slug": "panini-shadow-tile",
+      "headline": "If you want a Tre Johnson III auto, this isn't where you find it",
+      "stat": "VJ Edgecombe (#3) \u00b7 Tre Johnson III (#6) \u00b7 Jeremiah Fears (#7)",
+      "caption": "Three of the top seven picks in the 2025 NBA Draft have base cards and inserts in this product but zero autographs. That makes their Bowman base cards uniquely Topps-only \u2014 if you want their autographed rookie cards, you're waiting on Panini's release.",
       "iconType": "number",
       "tier": "featured"
     },
     {
-      "slug": "flagg-brothers",
-      "headline": "The Flagg brothers share a 1st Bowman",
-      "stat": "Cooper #1 \u2014 Ace BPP-91",
-      "caption": "Cooper Flagg anchors the NBA base set at #1. Younger brother Ace Flagg lands on BPP-91 at Maine. Sibling set chase is real.",
+      "slug": "two-generations-anthony",
+      "headline": "Kiyan Anthony and his dad share this product",
+      "stat": "Kiyan at Syracuse \u00b7 Carmelo on Young Kings YK-22 (Nuggets era)",
+      "caption": "Kiyan Anthony's first 1st Bowman card lands him at Syracuse \u2014 the same school where his father retired his #15 jersey in the rafters. Carmelo appears in the same product on the Young Kings insert, in his Denver Nuggets uniform. Father and son, one box, 23 years between their college careers. Kiyan even wears Carmelo's old Knicks #7 at Syracuse.",
       "iconType": "player",
+      "tier": "featured"
+    },
+    {
+      "slug": "flagg-twins-not-brothers",
+      "headline": "Cooper and Ace Flagg are fraternal twins",
+      "stat": "Cooper #1 in Dallas \u00b7 Ace BPP-91 at Maine",
+      "caption": "Born together December 21, 2006. Cooper became the youngest player in NBA history to score 50+ points. Ace plays Division I at the University of Maine while his brother anchors the Mavericks. Building a Cooper-Ace twin pairing \u2014 say, both base /1s \u2014 is a specific PC goal that exists nowhere else in the hobby.",
+      "iconType": "player",
+      "tier": "featured"
+    },
+    {
+      "slug": "passport-stamps",
+      "headline": "Eight countries appear in the 2025 NBA rookie class",
+      "stat": "Bahamas \u00b7 South Sudan \u00b7 Spain \u00b7 France \u00b7 Israel \u00b7 Germany \u00b7 Lithuania \u00b7 Russia",
+      "caption": "VJ Edgecombe (Bahamas, #3). Khaman Maluach (South Sudan via the NBA Africa Academy, #10). Hugo Gonzalez (Spain, #28). Noa Essengue and Joan Beringer (France/Cameroon lineages). Ben Saraf (Israel). Egor D\u00ebmin (Russia, via BYU). Nolan Traor\u00e9 (France). Kasparas Jaku\u010dionis (Lithuania, via Illinois). The 1st Bowman class is the most international NBA draft class in recent memory.",
+      "iconType": "team",
       "tier": "featured"
     },
     {
       "slug": "ray-allen-sonics",
-      "headline": "Ray Allen's Young Kings card is a Supersonic",
-      "stat": "A team that hasn't existed since 2008",
-      "caption": "YK-25 features Ray Allen in Seattle green \u2014 the franchise Oklahoma City took over. Topps deliberately chose the signature era.",
+      "headline": "Ray Allen's card features a team that hasn't existed since 2008",
+      "stat": "Young Kings YK-25 \u00b7 Seattle Supersonics, defunct since 2008",
+      "caption": "The Young Kings insert pairs current NBA stars (YK-1 through YK-15) with retired HOFers in their iconic uniforms (YK-16 through YK-25). Iverson is a 76er. Magic is a Laker. Ray Allen is a Sonic. It's the only card in this product referencing a franchise that no longer exists. Topps did this on purpose.",
       "iconType": "team",
       "tier": "featured"
     },
     {
-      "slug": "universal-one-of-one",
-      "headline": "Every card has a 1/1 parallel",
-      "stat": "400 cards, 400 holy grails",
-      "caption": "Every Base has Platinum Border /1. Every Paper Prospect has Platinum Border /1. Every Chrome Prospect has SuperFractor /1. Holy Grail ceiling is universal.",
-      "iconType": "parallel",
-      "tier": "featured"
-    },
-    {
-      "slug": "brooklyn-kentucky-uconn-tied",
-      "headline": "Three teams tied for most cards",
-      "stat": "Brooklyn, Kentucky, UConn \u2014 10 each",
-      "caption": "The deepest allocations in the product: Brooklyn's loaded rookie class, Kentucky's men-plus-women mix, UConn's Sarah Strong-led depth.",
-      "iconType": "team",
-      "tier": "featured"
-    },
-    {
-      "slug": "boozer-absence",
-      "headline": "Cameron Boozer: zero cards, full marketing",
-      "stat": "0 checklist, 0 autos, prominent education sheet",
-      "caption": "Topps' education sheet features Boozer as a top 2026 prospect. The actual checklist doesn't include him. Twin brother Cayden is also missing.",
+      "slug": "harper-lineage",
+      "headline": "Dylan Harper is the second-generation Spur in this set",
+      "stat": "Father Ron Harper \u00b7 5 NBA championships (3 Bulls, 2 Lakers)",
+      "caption": "Ron Harper played 15 NBA seasons and won five rings sharing backcourts with Jordan and Kobe. His son Dylan landed at #2 in San Antonio \u2014 paired with Wembanyama. Dylan's older brother Ron Harper Jr. is in the league too. Three Harpers in one bloodline, one of them in this product.",
       "iconType": "player",
-      "tier": "featured"
+      "tier": "secondary"
     },
     {
       "slug": "four-identical-inserts",
       "headline": "Four insert sets. Same 25 players. Same odds.",
       "stat": "Talent Tracker \u00b7 Gen Next \u00b7 VIP \u00b7 Bowman Verified",
-      "caption": "Topps shipped the same 25-player NCAA pool across four structurally identical inserts with different wrapper art. Talent Tracker is the flagship; the rest are filler.",
+      "caption": "Topps shipped the same 25-player NCAA pool across four structurally identical inserts with different wrapper art. Same pack odds (1:58 Hobby) across all four. Only the design differs. Talent Tracker is the flagship; the other three are filler dressed as premium content.",
       "iconType": "number",
       "tier": "secondary"
     },
     {
       "slug": "shaqs-three-lives",
       "headline": "Shaq is in this product three different ways",
-      "stat": "Young Kings (Lakers) \u00b7 Retrofractor (LSU) \u00b7 Retrofractor Auto (LSU)",
-      "caption": "One player, three eras, three cards. Modern star, college throwback, college throwback autograph. Only Shaq in the Retrofractor auto since Bill Russell is deceased.",
+      "stat": "Lakers (Young Kings) \u00b7 LSU (Retrofractor) \u00b7 LSU signed (Retrofractor Auto)",
+      "caption": "One player, three eras, three cards. Modern star in Lakers yellow on Young Kings. College throwback in LSU purple-and-gold on Retrofractor. Same college throwback, signed, on the auto variation. Bill Russell shares the Retrofractor pair (San Francisco era) but not the autograph \u2014 Russell passed away in 2022.",
       "iconType": "player",
       "tier": "secondary"
     },
     {
-      "slug": "wcbb-split",
-      "headline": "30% of prospects are women",
-      "stat": "60 WCBB / 140 NCAA-M",
-      "caption": "First serious women's basketball representation in a Bowman NBA product. Juju Watkins, Madison Booker, and Sarah Strong headline.",
-      "iconType": "chart",
-      "tier": "secondary"
-    },
-    {
-      "slug": "hannah-hidalgo-missing",
-      "headline": "Hannah Hidalgo is the glaring WCBB absence",
-      "stat": "Notre Dame superstar, zero inclusion",
-      "caption": "The most obvious omission in the women's lineup. One of the most-demanded NIL names in college basketball, not in the product.",
+      "slug": "boozer-marketing-paradox",
+      "headline": "Cameron Boozer is in the marketing. He's not in the product.",
+      "stat": "Pre-release Topps materials prominent \u00b7 Final checklist & autographs absent",
+      "caption": "Topps' pre-release education sheet features Cameron Boozer as a top 2026 prospect. He isn't in the actual checklist or any autograph set. Twin brother Cayden is also missing. Both played for Duke. The Boozer no-show is the biggest unforced error on the NCAA side \u2014 and a likely candidate for late-cycle redemptions.",
       "iconType": "player",
       "tier": "secondary"
     },
     {
-      "slug": "timeless-touch-easiest-auto",
-      "headline": "Easiest auto pull in the product: 1:72",
-      "stat": "Timeless Touch Signatures",
-      "caption": "Wemby, Cade, Edey, Risacher sign here. Most accessible path to an NBA star auto \u2014 though the individual print runs are wide.",
-      "iconType": "number",
-      "tier": "secondary"
-    },
-    {
-      "slug": "mega-mojo-rainbow",
-      "headline": "The entire Mojo rainbow is Mega-only",
-      "stat": "8 Mojo parallels, zero in Hobby/Jumbo/Value",
-      "caption": "If you want Mojo, you buy Mega. Blue Mojo /150 down to Rose Gold Mojo /1 \u2014 the rarest single parallel in the product, and only in one format.",
+      "slug": "mojo-mega-only",
+      "headline": "If you want any Mojo card, you have to buy a Mega box",
+      "stat": "8 Mojo parallels \u00b7 0 in Hobby/Jumbo/Value",
+      "caption": "Mojo parallels exist on base cards, Chrome Prospects, autograph cards, and inside the Mega Rookies and Mega Prospects inserts \u2014 and only ever inside a Mega box. Blue Mojo /150 down to Rose Gold Mojo /1. The clearest format-driven incentive in the product.",
       "iconType": "parallel",
       "tier": "secondary"
     },
     {
-      "slug": "sapphire-mystery",
-      "headline": "Sapphire parallels have no per-pack odds",
-      "stat": "14 Sapphire cards, zero odds data",
-      "caption": "Topps doesn't publish odds for Sapphire because every pack in a Sapphire Box is a Sapphire. Format economics replace pack economics.",
+      "slug": "geometric-breaker-only",
+      "headline": "And if you want a Geometric, only Breaker's Delight has them",
+      "stat": "All Geometric parallels \u00b7 Breaker's Delight exclusive",
+      "caption": "The Geometric parallel ladder \u2014 a faceted, angular treatment that runs across base cards, Chrome Prospects, AND inserts \u2014 exists only inside the $2,499.95 Breaker's Delight box. Group break operators built this format. Solo collectors chasing the Geometric rainbow have no other path.",
       "iconType": "parallel",
       "tier": "secondary"
     },
     {
-      "slug": "mass-one-of-ones",
-      "headline": "1,500+ unique 1/1 cards in the base checklist alone",
-      "stat": "10 /1 parallels \u00d7 400 cards = 1,500 /1 instances",
-      "caption": "Platinum Border, Chrome SuperFractor, Padparadscha Sapphire, Black Mojo, Rose Gold Mojo \u2014 each base, paper prospect, and chrome prospect card has multiple /1 parallels. Insert /1s push the total well above 2,000. Scarcity at scale.",
-      "iconType": "chart",
-      "tier": "secondary"
-    },
-    {
-      "slug": "retrofractor-legends",
-      "headline": "Retrofractor is a 2-card legend variation",
-      "stat": "Bill Russell (San Francisco) \u00b7 Shaquille O'Neal (LSU)",
-      "caption": "The sneaky best case hit. College-era photography of two HOFers who never had a 1st Bowman before. Russell's imagery alone is a rarity.",
+      "slug": "watkins-wcbb-anchor",
+      "headline": "Juju Watkins is the WCBB chase the product is built around",
+      "stat": "USC \u00b7 1/1 Chrome Prospect SuperFractor \u00b7 9 insert appearances",
+      "caption": "Watkins shows up in nine separate insert sets \u2014 second only to the marquee NBA rookies. Her 1/1 Chrome Prospect SuperFractor is the highest-rarity women's basketball card in the entire release. WCBB has historically been a smaller corner of the hobby; Topps treating Watkins like a top-three NBA name is a meaningful signal.",
       "iconType": "player",
-      "tier": "secondary"
-    },
-    {
-      "slug": "dallas-flagg-only",
-      "headline": "Dallas has 5 cards. One is Flagg.",
-      "stat": "Dallas Mavericks roster",
-      "caption": "The smallest NBA team allocation pairs 4 veterans with the face of the draft. Per-card, Dallas is the most Flagg-dependent team in the product.",
-      "iconType": "team",
-      "tier": "secondary"
-    },
-    {
-      "slug": "duke-boozer-paradox",
-      "headline": "Duke's Boozer paradox",
-      "stat": "Top 2026 prospects \u00b7 zero Duke Boozer cards",
-      "caption": "Cameron and Cayden Boozer both play for Duke. Both are top 2026 NBA Draft projections. Neither is in the product. The Boozer no-show is Duke's biggest storyline.",
-      "iconType": "team",
-      "tier": "secondary"
-    },
-    {
-      "slug": "first-nba-bowman-in-17-years",
-      "headline": "First NBA Bowman in 17 years",
-      "stat": "Last full release: 2008-09",
-      "caption": "Bowman Basketball's NBA identity has been dormant since 2008-09. The Fanatics/Topps NBA exclusive reopens the door \u2014 this is the first product through it.",
-      "iconType": "number",
-      "tier": "secondary"
-    },
-    {
-      "slug": "anime-chase-lead",
-      "headline": "Anime is projected to outperform every other case hit",
-      "stat": "Carryover from Bowman Baseball's biggest chase",
-      "caption": "Anime has been Topps' most consistently over-performing case hit in baseball. Basketball demand projected to match or exceed. Flagg and Dybantsa lead the 25-card NBA run.",
-      "iconType": "chart",
-      "tier": "secondary"
-    },
-    {
-      "slug": "kentucky-depth",
-      "headline": "Kentucky's 10 cards span both genders",
-      "stat": "5 men + 2 women (\u00d72 subsets) = 10 cards",
-      "caption": "Jasper Johnson anchors the men. Kaelyn Carroll leads the women. Kentucky is the deepest dual-gender NCAA allocation in the product.",
-      "iconType": "team",
-      "tier": "secondary"
-    },
-    {
-      "slug": "uconn-womens-anchor",
-      "headline": "UConn's 10 cards are anchored by Sarah Strong",
-      "stat": "3 women + 2 men (\u00d72 subsets)",
-      "caption": "UConn shows up heavier on the women's side than most programs. Strong is the Juju Watkins of New England \u2014 only with more room to grow.",
-      "iconType": "team",
       "tier": "secondary"
     }
   ],
@@ -327,7 +247,8 @@
         "opening-statement-signatures",
         "paper-rookies-and-veterans-retail-autograph"
       ],
-      "rarestParallelSlug": "chrome-superfractor"
+      "rarestParallelSlug": "chrome-superfractor",
+      "narrativeFraming": "Building a 'complete Flagg' from this product means: 12 Border parallels on his base card (Purple \u2192 Platinum /1), 30 Chrome parallels (Refractor \u2192 SuperFractor /1), 7 Reptilian, 6 Geometric (Breaker's Delight only), 7 Sapphire (Sapphire Box only), and 15 Mojo (Mega only). Plus inserts. Plus autograph access. The full rainbow lives across four box formats."
     },
     {
       "playerSlug": "aj-dybantsa",
@@ -435,7 +356,8 @@
         "future-script",
         "paper-prospect-retail-autograph"
       ],
-      "rarestParallelSlug": "superfractor"
+      "rarestParallelSlug": "superfractor",
+      "narrativeFraming": "Dybantsa is the consensus #1 projection for the 2026 NBA Draft. His 1st Bowman lives here. The Chrome Prospect SuperFractor /1 carries every collector's bet that BYU's freshman becomes a franchise pick \u2014 without any NBA evidence yet. That's the original 1st Bowman value proposition."
     },
     {
       "playerSlug": "darryn-peterson",
@@ -543,7 +465,8 @@
         "future-script",
         "paper-prospect-retail-autograph"
       ],
-      "rarestParallelSlug": "superfractor"
+      "rarestParallelSlug": "superfractor",
+      "narrativeFraming": "Peterson at Kansas is the #2 in those same projections. If Peterson goes #1 instead of Dybantsa, the SuperFractor on his rainbow becomes the grail."
     },
     {
       "playerSlug": "juju-watkins",
@@ -649,7 +572,8 @@
         "chrome-prospect-autographs",
         "paper-prospect-retail-autograph"
       ],
-      "rarestParallelSlug": "superfractor"
+      "rarestParallelSlug": "superfractor",
+      "narrativeFraming": "USC's Watkins is the WCBB face of the product. Her insert presence (9 sets) is deeper than most NBA rookies. Topps is treating her rainbow as a top-tier chase, not a sidebar."
     },
     {
       "playerSlug": "dylan-harper",
@@ -758,7 +682,8 @@
         "opening-statement-signatures",
         "paper-rookies-and-veterans-retail-autograph"
       ],
-      "rarestParallelSlug": "chrome-superfractor"
+      "rarestParallelSlug": "chrome-superfractor",
+      "narrativeFraming": "Harper is the second-generation Spur \u2014 son of 5-time champion Ron Harper, paired in San Antonio with Wembanyama. His rainbow runs through the Mavericks/Spurs Texas-NBA-rivalry storyline that defines the 2025 rookie class."
     }
   ],
   "teamDataViz": {
@@ -2007,45 +1932,35 @@
   ],
   "funTakeaways": [
     {
-      "headline": "The Flagg brothers are both 1st Bowmans",
-      "body": "Cooper Flagg anchors the NBA base set at card #1 with Dallas. Younger brother Ace Flagg plays at the University of Maine and lands on BPP-91. Sibling set chase is real \u2014 and pairing a Cooper paper /1 with an Ace paper /1 is a specific collector goal.",
+      "headline": "The Anthony family has 23 years of Syracuse basketball in one box",
+      "body": "In 2003, Carmelo Anthony led Syracuse to its only national championship as a freshman. His #15 hangs in the rafters. The practice facility on campus is named the Carmelo K. Anthony Basketball Center after his $3 million donation. In 2025, his son Kiyan enrolled at the same school, wearing #7 \u2014 Carmelo's old New York Knicks number. Both Anthonys have cards in this product: Kiyan as a 1st Bowman Chrome Prospect, Carmelo on Young Kings YK-22 in Nuggets red. Father and son in the same Bowman release, 23 years apart.",
+      "relatedSlugs": [
+        "kiyan-anthony",
+        "carmelo-anthony"
+      ]
+    },
+    {
+      "headline": "Cooper Flagg's twin brother plays for Maine",
+      "body": "Cooper and Ace Flagg are fraternal twins, born December 21, 2006 in Newport, Maine. Their mother Kelly was a 5'10\" guard at the University of Maine. Their father Ralph was a 6'9\" big man at Eastern Maine Community College. Cooper went to Duke for one year, then to Dallas at #1. Ace went directly to the University of Maine \u2014 keeping the Flagg basketball lineage exactly where it started. Both twins land in this product. Cooper anchors the NBA base set at #1. Ace plays at BPP-91 in Bowman blue.",
       "relatedSlugs": [
         "cooper-flagg",
         "ace-flagg"
       ]
     },
     {
-      "headline": "Ray Allen's Young Kings card is in a Seattle Supersonics jersey",
-      "body": "The Supersonics franchise hasn't existed since 2008. Topps deliberately chose Ray Allen's pre-OKC era \u2014 before Durant, before the relocation \u2014 for his YK-25 legend card. It's the only card in the product referencing a defunct NBA franchise.",
-      "relatedSlugs": [
-        "ray-allen"
-      ]
-    },
-    {
-      "headline": "The missing NBA rookies all share one thing: likely Panini exclusives",
-      "body": "VJ Edgecombe (#3), Tre Johnson III (#6), and Jeremiah Fears (#7) appear in the base set, Chrome Variations, Rookie Reds, and insert sets \u2014 but zero autographs. No other pattern unifies them. The common factor is probably Panini-exclusive auto contracts signed before Topps got NBA rights.",
+      "headline": "The eight first-round picks who came from outside the U.S.",
+      "body": "VJ Edgecombe (Bahamas) at #3 \u2014 the highest Bahamian-born NBA draft pick ever. Khaman Maluach (South Sudan) at #10, came up through the NBA Africa Academy in Senegal. Egor D\u00ebmin (Russia) at #8 via BYU. Khaman, Edgecombe, and Egor were all teenagers when they left home for U.S. basketball. Add Hugo Gonzalez (Spain), Joan Beringer (France/Cameroon), Noa Essengue (France), Ben Saraf (Israel), Kasparas Jaku\u010dionis (Lithuania), and Nolan Traor\u00e9 (France), and the 2025 first round was one of the most international drafts in NBA history. Their 1st Bowman cards are first-edition collectibles for their entire international fan bases.",
       "relatedSlugs": [
         "vj-edgecombe",
-        "tre-johnson-iii",
-        "jeremiah-fears"
+        "khaman-maluach",
+        "egor-demin"
       ]
     },
     {
-      "headline": "Shaq appears in this product three different ways",
-      "body": "Young Kings YK-19: Shaq in Lakers yellow (modern star). Retrofractor RV-SA: Shaq at LSU in college purple-and-gold (throwback variation). Retrofractor Autograph RAV-SO: Shaq's LSU card, signed (1-per-case tier). Bill Russell shares the Retrofractor pair (San Francisco era) but not the auto since he's deceased.",
+      "headline": "The Young Kings insert is the only card with a defunct NBA team",
+      "body": "The 2008 relocation of the Seattle Supersonics to Oklahoma City is one of the most controversial franchise moves in NBA history. The Sonics name and color scheme have not been used since. Topps put Ray Allen's Young Kings card (YK-25) in Sonics green anyway \u2014 choosing his pre-OKC era over the Celtics championship era he's also famously associated with. It's the only card in this product referencing a team that no longer exists, and the choice of era was deliberate.",
       "relatedSlugs": [
-        "shaquille-oneal",
-        "bill-russell"
-      ]
-    },
-    {
-      "headline": "Four insert sets have identical everything except the design",
-      "body": "Talent Tracker, Gen Next, Very Important Prospects, and Bowman Verified each have 25 cards, identical pack odds (1:58 Hobby), the same 25 NCAA players, and the same parallel rainbow structure. Only the wrapper design changes. Talent Tracker is the flagship; the others are collector filler dressed as premium content.",
-      "relatedSlugs": [
-        "talent-tracker",
-        "gen-next",
-        "very-important-prospects",
-        "bowman-verified"
+        "ray-allen"
       ]
     }
   ]
