@@ -10,12 +10,16 @@ import { cn } from "@/lib/utils";
 import type { InsightsInitialFilters } from "@/lib/insights-filters";
 
 import { OverviewImage } from "../overview/OverviewImage";
+import { PaniniShadowChart } from "./stage2/PaniniShadowChart";
+import { MojoLadder } from "./stage2/MojoLadder";
+import { CaseHitBubbles } from "./stage2/CaseHitBubbles";
 
 type Props = {
   slug: string;
   data: InsightsData;
   imagery: ImageryData | undefined;
   initial: InsightsInitialFilters;
+  oddsPdfUrl?: string;
 };
 
 function buildSearchParams(slug: string, s: InsightsInitialFilters): string {
@@ -91,9 +95,8 @@ function VizPlaceholder({ id, title, subtitle }: { id: string; title: string; su
 }
 
 function PlayerRainbowCard({ r }: { r: PlayerRainbow }) {
-  const totalInserts = (r as unknown as { insertAppearances?: number }).insertAppearances;
-  const totalAutoSets = (r as unknown as { autoSetSlugs?: string[] }).autoSetSlugs?.length;
-  const insertSets = (r as unknown as { insertSetSlugs?: string[] }).insertSetSlugs?.length;
+  const insertSets = r.insertAppearances?.length;
+  const totalAutoSets = typeof r.autoSetCount === "number" ? r.autoSetCount : r.autoSets?.length;
 
   return (
     <article className="rounded-2xl border border-zinc-800/80 bg-zinc-950/35 p-6">
@@ -116,13 +119,12 @@ function PlayerRainbowCard({ r }: { r: PlayerRainbow }) {
               <span className="tabular-nums">{totalAutoSets}</span> auto sets
             </span>
           ) : null}
-          {typeof totalInserts === "number" ? (
-            <span className="rounded bg-zinc-900 px-2 py-1 text-zinc-300">
-              <span className="tabular-nums">{totalInserts}</span> insert apps
-            </span>
-          ) : null}
         </div>
       </div>
+
+      {r.narrativeFraming ? (
+        <p className="mt-4 text-sm leading-relaxed text-zinc-300">{r.narrativeFraming}</p>
+      ) : null}
 
       <div className="mt-5 space-y-3">
         {r.breakdown.map((b) => (
@@ -148,8 +150,7 @@ function PlayerRainbowCard({ r }: { r: PlayerRainbow }) {
       </div>
 
       <p className="mt-5 text-xs text-zinc-600">
-        Stage 1: this is a synthesis placeholder using <code className="rounded bg-black/30 px-1">playerRainbows</code>. Stage 2/3 will
-        make these feel less like a checklist by adding richer joins and viz.
+        This section is driven by <code className="rounded bg-black/30 px-1">playerRainbows</code> — a product-level synthesis (parallels + inserts + auto access).
       </p>
     </article>
   );
@@ -173,7 +174,7 @@ function FunTakeaways({ items }: { items: InsightsData["funTakeaways"] }) {
   );
 }
 
-export function InsightsStage1({ slug, data, imagery, initial }: Props) {
+export function InsightsStage1({ slug, data, imagery, initial, oddsPdfUrl }: Props) {
   const router = useRouter();
   const [isPending, startTransition] = useTransition();
   const [q, setQ] = useState(initial.q);
@@ -226,10 +227,41 @@ export function InsightsStage1({ slug, data, imagery, initial }: Props) {
 
       <FeaturedVizPlaceholderNav />
 
-      {/* Stage 1: reserve featured viz slots */}
-      <VizPlaceholder id="viz-panini-shadow" title="Panini shadow" subtitle="Draft picks vs autograph access (Stage 2)." />
-      <VizPlaceholder id="viz-mojo-ladder" title="Mojo ladder" subtitle="Mega-only rainbow as a ladder visualization (Stage 2)." />
-      <VizPlaceholder id="viz-case-hit-bubbles" title="Case hit bubbles" subtitle="Relative pull difficulty vs set size (Stage 2)." />
+      {/* Stage 2: chart-library visualizations */}
+      {data.featuredVisualizations?.find((v) => v.type === "panini-shadow") ? (
+        <div id="viz-panini-shadow">
+          <PaniniShadowChart
+            viz={data.featuredVisualizations.find((v) => v.type === "panini-shadow")!}
+            sourceUrl={oddsPdfUrl}
+          />
+        </div>
+      ) : (
+        <VizPlaceholder id="viz-panini-shadow" title="Panini shadow" subtitle="Draft picks vs autograph access (Stage 2)." />
+      )}
+
+      {data.featuredVisualizations?.find((v) => v.type === "mojo-ladder") ? (
+        <div id="viz-mojo-ladder">
+          <MojoLadder
+            viz={data.featuredVisualizations.find((v) => v.type === "mojo-ladder")!}
+            sourceUrl={oddsPdfUrl}
+          />
+        </div>
+      ) : (
+        <VizPlaceholder id="viz-mojo-ladder" title="Mojo ladder" subtitle="Mega-only rainbow as a ladder visualization (Stage 2)." />
+      )}
+
+      {data.featuredVisualizations?.find((v) => v.type === "case-hit-bubbles") ? (
+        <div id="viz-case-hit-bubbles">
+          <CaseHitBubbles
+            viz={data.featuredVisualizations.find((v) => v.type === "case-hit-bubbles")!}
+            sourceUrl={oddsPdfUrl}
+          />
+        </div>
+      ) : (
+        <VizPlaceholder id="viz-case-hit-bubbles" title="Case hit bubbles" subtitle="Relative pull difficulty vs set size (Stage 2)." />
+      )}
+
+      {/* Stage 3 placeholders */}
       <VizPlaceholder id="viz-young-kings-timeline" title="Young Kings timeline" subtitle="Current vs legend eras over time (Stage 3)." />
       <VizPlaceholder id="viz-identical-insert-quartet" title="Identical insert quartet" subtitle="The four-insert padding story (Stage 3)." />
 

@@ -38,6 +38,14 @@ export interface PlayerRainbow {
     parallelSlugs: string[];
   }[];
   rarestParallelSlug?: string;
+  /** Stage 2 rewrite — narrative grounding for the rainbow. */
+  narrativeFraming?: string;
+  /** Insert set slugs where the player appears. */
+  insertAppearances?: string[];
+  /** Count of autograph sets the player appears in (from autographs.json). */
+  autoSetCount?: number;
+  /** Autograph set slugs where the player appears. */
+  autoSets?: string[];
 }
 
 export interface TeamAutoDensity {

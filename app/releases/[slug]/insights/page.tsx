@@ -48,6 +48,8 @@ export default async function InsightsPage({
 
   const sport = sportConfig[bundle.sport];
   const initial = parseInsightsSearchParams(sp);
+  const oddsPdfUrl =
+    bundle._loaded?.resources?.officialResources?.find((r) => r.type === "odds-pdf")?.url ?? undefined;
 
   return (
     <main>
@@ -64,7 +66,13 @@ export default async function InsightsPage({
         </div>
       </header>
 
-      <InsightsStage1 slug={slug} data={insights} imagery={bundle._loaded?.imagery} initial={initial} />
+      <InsightsStage1
+        slug={slug}
+        data={insights}
+        imagery={bundle._loaded?.imagery}
+        initial={initial}
+        oddsPdfUrl={oddsPdfUrl}
+      />
     </main>
   );
 }
