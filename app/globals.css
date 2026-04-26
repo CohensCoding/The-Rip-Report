@@ -1,6 +1,5 @@
 @config "../tailwind.config.ts";
 @import "tailwindcss";
-@import "../styles/homepage.css";
 
 @layer base {
   html {
