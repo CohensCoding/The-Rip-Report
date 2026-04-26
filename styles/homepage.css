@@ -1,0 +1,156 @@
+:root {
+  --foil-pack-radius: 26px;
+}
+
+/* Foil pack — cursor-driven sheen via CSS vars. */
+.foil-pack {
+  --mx: 50%;
+  --my: 40%;
+  --rx: 0deg;
+  --ry: 0deg;
+  --shine: 0.45;
+
+  position: relative;
+  border-radius: var(--foil-pack-radius);
+  border: 1px solid rgb(63 63 70 / 0.7);
+  background:
+    radial-gradient(900px 520px at var(--mx) var(--my), rgba(255, 255, 255, 0.08), transparent 60%),
+    linear-gradient(180deg, rgba(255, 255, 255, 0.06), rgba(0, 0, 0, 0.15)),
+    #0a0a0b;
+  overflow: hidden;
+  transform-style: preserve-3d;
+  will-change: transform;
+  transition: transform 220ms ease, border-color 220ms ease;
+}
+
+.foil-pack::before {
+  content: "";
+  position: absolute;
+  inset: -40%;
+  background:
+    conic-gradient(
+      from 150deg at var(--mx) var(--my),
+      rgba(16, 185, 129, 0.22),
+      rgba(236, 72, 153, 0.22),
+      rgba(59, 130, 246, 0.22),
+      rgba(245, 158, 11, 0.18),
+      rgba(16, 185, 129, 0.22)
+    );
+  filter: blur(28px);
+  opacity: calc(var(--shine) * 0.8);
+  transform: translateZ(-1px);
+  pointer-events: none;
+}
+
+.foil-pack::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background:
+    linear-gradient(120deg, rgba(255, 255, 255, 0.09), transparent 40%),
+    radial-gradient(420px 240px at var(--mx) var(--my), rgba(255, 255, 255, 0.22), transparent 55%);
+  mix-blend-mode: screen;
+  opacity: calc(var(--shine) * 0.9);
+  pointer-events: none;
+}
+
+.foil-pack:hover {
+  border-color: rgb(161 161 170 / 0.9);
+}
+
+.foil-pack-inner {
+  position: relative;
+  height: 100%;
+  padding: 18px 18px 16px;
+}
+
+.foil-pack-top {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.foil-pack-wordmark {
+  font-family: var(--font-serif);
+  font-weight: 900;
+  letter-spacing: -0.02em;
+  line-height: 0.98;
+  color: rgba(244, 244, 245, 0.92);
+  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.3);
+}
+
+.foil-pack-meta {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  font-size: 11px;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: rgba(161, 161, 170, 0.9);
+}
+
+.foil-pack-title {
+  margin-top: 16px;
+  font-family: var(--font-serif);
+  font-weight: 700;
+  font-size: 22px;
+  color: rgba(244, 244, 245, 0.96);
+  line-height: 1.05;
+}
+
+.foil-pack-subtitle {
+  margin-top: 10px;
+  font-size: 13px;
+  line-height: 1.55;
+  color: rgba(212, 212, 216, 0.9);
+}
+
+.foil-pack-footer {
+  margin-top: 16px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  border-top: 1px solid rgba(63, 63, 70, 0.6);
+  padding-top: 12px;
+}
+
+.foil-pack-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  border-radius: 999px;
+  border: 1px solid rgba(63, 63, 70, 0.8);
+  background: rgba(24, 24, 27, 0.55);
+  padding: 8px 10px;
+  font-size: 11px;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: rgba(228, 228, 231, 0.9);
+}
+
+.foil-pack-dot {
+  height: 8px;
+  width: 8px;
+  border-radius: 999px;
+  box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.35) inset;
+}
+
+.foil-pack-cta {
+  font-size: 12px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: rgba(52, 211, 153, 0.92);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .foil-pack,
+  .foil-pack::before,
+  .foil-pack::after {
+    transition: none !important;
+  }
+  .foil-pack {
+    transform: none !important;
+  }
+}
+

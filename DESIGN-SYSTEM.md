@@ -537,33 +537,35 @@ BY THE NUMBERS
 
 ## Component library (shared primitives)
 
-### Release tile (homepage, featured grid)
+### Homepage hero — floating foil packs (v1)
 
-Anatomy:
+The homepage hero is **three floating foil packs**, not a grid of release tiles. Each pack is a “cover” that links straight into a release overview.
+
+Anatomy (single pack):
 ```
-┌─────────────────────────────┐
-│                             │  <- Image area, aspect-[4/5]
-│   [Box shot or fallback]    │
-│                             │
-│                             │
-├─────────────────────────────┤  <- Subtle border-t
-│ [SPORT] · [BRAND] [STATUS]  │  <- Chips row
-│                             │
-│ 2025-26 Bowman Basketball   │  <- Fraunces display-sm
-│                             │
-│ Apr 22, 2026                │  <- body-sm paper-mute, mono
-│                             │
-│ First NBA Bowman in 17      │  <- body-sm italic, line-clamp-3
-│ years. Dual NCAA/NBA...     │
-└─────────────────────────────┘
+┌────────────────────────────────────┐
+│ ISSUE KICKER        [foil glyph]   │  <- small mono kicker + optional emboss
+│ [PACK WORDMARK]                    │  <- Fraunces 900 wordmark (fallback if no emboss)
+│                                    │
+│ 2025-26 Bowman Basketball          │  <- Title (serif)
+│ First NBA Bowman in 17 years…      │  <- Subtitle/tagline (body)
+│                                    │
+│ [SPORT · BRAND · DATE]   READ →    │  <- Metadata chip + CTA
+└────────────────────────────────────┘
 ```
 
-- 4px-wide left accent bar in sport color
-- Default: `border border-lines rounded-xl overflow-hidden`
-- Hover: `border-border-hover`, lift `translate-y-[-2px]`, 200ms
-- Image area: Next.js `<Image>` with box shot, `object-cover`, subtle bottom gradient
-- No imagery fallback: centered Rip Report wordmark at 20% opacity on sport-accent-tinted bg (`bg-sport-basketball/8`)
-- **Never** the typographic "BASKET" treatment
+Interaction:
+- Cursor tracking via CSS vars (`--mx`, `--my`, `--rx`, `--ry`) to drive sheen/tilt
+- Serrated clip-path applied in `useEffect` (SSR briefly renders a rectangle; acceptable)
+- `prefers-reduced-motion: reduce` disables animation purely via CSS
+- SVG gradient ids are scoped via `useId()` per pack to avoid collisions
+- Mobile breakpoint at **900px** stacks the three packs vertically
+
+Fallback rules:
+- If `embossSrc` is not provided, the pack renders a text wordmark (no broken asset chrome).
+
+Note:
+- The legacy `ReleaseTile` components remain in the codebase and can return if/when an archive grid returns.
 
 ### Release tile — compact variant (archive grid)
 

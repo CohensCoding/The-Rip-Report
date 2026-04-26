@@ -50,7 +50,7 @@ Eight sub-pages per release. Each sub-page competes for its own search queries a
 
 ### 1. Homepage — `/`
 
-**Purpose.** Front door. Establish what Rip Report is within seconds. Archive of every release.
+**Purpose.** Front door. Establish what Rip Report is within seconds.
 
 **Sections, top to bottom:**
 
@@ -60,9 +60,8 @@ Eight sub-pages per release. Each sub-page competes for its own search queries a
    - Small kicker above wordmark: "Issue XX · [Month Year]"
    - Thin full-width rule beneath.
 2. **Latest Drop callout.** Full-width editorial tile for the most recent release (only if dropped within 14 days). Box image right, headline + editorial take left, CTA "Read the breakdown →". Hides cleanly if criteria not met.
-3. **Featured Breakdowns.** 3-column grid of tiles for releases marked `featured: true`. Magazine-cover-sized. The 2-3 top hyped releases above the archive.
-4. **The Archive.** Filterable grid of ALL releases. Filter bar (sport, brand, year, status). Search input. Count indicator. Compact tile variant. 4-col desktop, 3 tablet, 2 mobile.
-5. **Footer.** Rip Report wordmark (smaller), tagline, nav (About, Contact, RSS), disclaimer.
+3. **Featured Breakdowns.** Three **floating foil packs** (one per featured release). Each pack is a direct click-through into a full breakdown.
+4. **Footer.** Rip Report wordmark (smaller), tagline, nav (About, Contact, RSS), disclaimer.
 
 **Navigation.** No sticky sub-nav on homepage.
 
@@ -424,7 +423,7 @@ Player-specific rainbows live on the Insights page, not here. This page stays fo
 |---|---|---|
 | Pack odds PDF not yet released | Parallel Explorer, Box Breakdown | "TBD" + banner: "Official odds land [date]. Updating live." |
 | Checklist not yet published | Checklist, Full Card Set module | Partial list + banner with expected date |
-| No box imagery | Homepage tiles, Overview hero, Resources | Clean wordmark fallback on sport-tinted bg. Not typographic "BASEBA". |
+| No box imagery | Homepage foil packs, Overview hero, Resources | Clean wordmark fallback (no broken asset chrome). Not typographic "BASEBA". |
 | No chase cards flagged | Overview Holy Grails | Section hides. Commentary still references chases. |
 | No editorial rating | Overview Verdict chips | Rating chip hides; others compensate |
 | Redemption windows unknown | Autograph Redemption Watch | "Estimated: awaiting Topps confirmation" |
