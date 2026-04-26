@@ -7,56 +7,53 @@ import { cn } from "@/lib/utils";
 
 type Props = {
   href: string;
-  issueKicker: string;
-  wordmark: string;
-  title: string;
-  subtitle: string;
-  chipLabel: string;
-  chipDotHex: string;
-  ctaLabel?: string;
+  brandLabel: string;
+  sportLabel: string;
+  yearTag: string;
   embossSrc?: string;
   className?: string;
 };
 
-function serratedClipPath(teeth = 26, depth = 10): string {
-  // Sawtooth top/bottom edge while keeping rounded corners (rounded comes from border-radius).
+/**
+ * Clip-path with serration ONLY on top and bottom.
+ * Left/right edges remain perfectly straight.
+ */
+function topBottomSerrationClipPath(teeth = 28, depth = 10): string {
   const pts: Array<[number, number]> = [];
   const step = 100 / teeth;
 
-  // top edge (0..100)
+  // Start at top-left corner.
   pts.push([0, 0]);
+
+  // Top serration (left → right).
   for (let i = 0; i < teeth; i++) {
     const x0 = i * step;
-    const x1 = x0 + step / 2;
-    const x2 = x0 + step;
-    pts.push([x1, depth]);
-    pts.push([x2, 0]);
+    const xMid = x0 + step / 2;
+    const x1 = x0 + step;
+    pts.push([xMid, depth]);
+    pts.push([x1, 0]);
   }
 
-  // right edge
+  // Straight right edge down.
   pts.push([100, 100]);
 
-  // bottom edge (100..0)
+  // Bottom serration (right → left) while keeping straight sides.
   for (let i = teeth; i > 0; i--) {
     const x0 = (i - 1) * step;
-    const x1 = x0 + step / 2;
-    const x2 = x0;
-    pts.push([x1, 100 - depth]);
-    pts.push([x2, 100]);
+    const xMid = x0 + step / 2;
+    pts.push([xMid, 100 - depth]);
+    pts.push([x0, 100]);
   }
 
+  // Straight left edge up closes polygon implicitly.
   return `polygon(${pts.map(([x, y]) => `${x}% ${y}%`).join(",")})`;
 }
 
 export function FoilPack({
   href,
-  issueKicker,
-  wordmark,
-  title,
-  subtitle,
-  chipLabel,
-  chipDotHex,
-  ctaLabel = "Read the breakdown",
+  brandLabel,
+  sportLabel,
+  yearTag,
   embossSrc,
   className,
 }: Props) {
@@ -68,7 +65,7 @@ export function FoilPack({
 
   useEffect(() => {
     // Hydration: serrated clip-path arrives post-mount (SSR shows rectangle briefly).
-    setClip(serratedClipPath(28, 10));
+    setClip(topBottomSerrationClipPath(28, 10));
   }, []);
 
   useEffect(() => {
@@ -91,7 +88,7 @@ export function FoilPack({
       el.style.setProperty("--ry", `${ry}deg`);
       el.style.setProperty("--rx", `${rx}deg`);
       el.style.setProperty("--shine", "0.55");
-      el.style.transform = `perspective(900px) rotateX(${rx}deg) rotateY(${ry}deg)`;
+      el.style.transform = `perspective(900px) rotateX(${rx}deg) rotateY(${ry}deg) translateY(-6px)`;
     };
 
     const onLeave = () => {
@@ -111,55 +108,28 @@ export function FoilPack({
     <Link
       ref={ref}
       href={href}
-      className={cn("foil-pack block h-full", className)}
+      className={cn("pack-card foil-pack", className)}
       style={clip ? ({ clipPath: clip } as React.CSSProperties) : undefined}
     >
-      <div className="foil-pack-inner">
-        <div className="foil-pack-top">
-          <div className="min-w-0">
-            <div className="foil-pack-meta">{issueKicker}</div>
-            <div className="foil-pack-wordmark">{wordmark}</div>
-          </div>
-
-          {/* Optional emboss art; fallback is just text wordmark (don’t reference public/brand yet). */}
+      <div className="pack-inner">
+        <div className="emboss-slot">
           {embossSrc ? (
-            <img src={embossSrc} alt="" className="h-10 w-24 opacity-70" />
+            <img src={embossSrc} alt={`${brandLabel} ${sportLabel}`} className="emboss-art" />
           ) : (
-            <svg width="44" height="44" viewBox="0 0 44 44" aria-hidden className="shrink-0 opacity-80">
-              <defs>
-                <linearGradient id={gradientId} x1="0" y1="0" x2="1" y2="1">
-                  <stop offset="0" stopColor="rgba(244,244,245,0.95)" />
-                  <stop offset="1" stopColor="rgba(161,161,170,0.5)" />
-                </linearGradient>
-              </defs>
-              <rect x="6" y="6" width="32" height="32" rx="10" fill={`url(#${gradientId})`} opacity="0.16" />
-              <path
-                d="M14 28c6-2 10-6 16-12"
-                stroke={`url(#${gradientId})`}
-                strokeWidth="2"
-                strokeLinecap="round"
-                opacity="0.7"
-              />
-              <path
-                d="M16 18c3 0 6 1 10 5"
-                stroke={`url(#${gradientId})`}
-                strokeWidth="2"
-                strokeLinecap="round"
-                opacity="0.55"
-              />
-            </svg>
+            <div className="emboss-fallback" aria-label={`${brandLabel} ${sportLabel} ${yearTag}`}>
+              <div className="emboss-brand">{brandLabel}</div>
+              <div className="emboss-sport">{sportLabel}</div>
+              <div className="emboss-year">{yearTag}</div>
+              <svg width="1" height="1" aria-hidden className="hidden">
+                <defs>
+                  <linearGradient id={gradientId} x1="0" y1="0" x2="1" y2="1">
+                    <stop offset="0" stopColor="rgba(244,244,245,0.95)" />
+                    <stop offset="1" stopColor="rgba(161,161,170,0.5)" />
+                  </linearGradient>
+                </defs>
+              </svg>
+            </div>
           )}
-        </div>
-
-        <div className="foil-pack-title">{title}</div>
-        <div className="foil-pack-subtitle">{subtitle}</div>
-
-        <div className="foil-pack-footer">
-          <div className="foil-pack-chip">
-            <span className="foil-pack-dot" style={{ backgroundColor: chipDotHex }} aria-hidden />
-            <span>{chipLabel}</span>
-          </div>
-          <div className="foil-pack-cta">{ctaLabel} →</div>
         </div>
       </div>
     </Link>

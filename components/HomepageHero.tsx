@@ -36,32 +36,41 @@ export function HomepageHero() {
             <div className="h-px w-full bg-zinc-800" />
           </div>
 
-          <div className="mt-10 grid gap-6 lg:grid-cols-3 max-[900px]:grid-cols-1">
+          <div className="mt-10">
+            <div className="text-xs font-medium tracking-[0.28em] text-zinc-500 uppercase">FEATURED BREAKDOWNS</div>
+            <div className="stage">
             {packs.map((r) => {
               const sport = sportConfig[r.sport];
               const brand = brandLabels[r.brand] ?? r.brand;
-              const chip = `${sport.label} · ${brand} · ${formatReleaseDate(r.releaseDate)}`;
+              const date = formatReleaseDate(r.releaseDate);
+              const yearTag = r.year ?? "";
               return (
-                <div key={r.slug} className="min-h-[420px]">
-                  <FoilPack
-                    href={`/releases/${r.slug}`}
-                    issueKicker="THE RIP REPORT"
-                    wordmark={r.shortTitle ?? r.title}
-                    title={r.title}
-                    subtitle={r.tagline}
-                    chipLabel={chip}
-                    chipDotHex={"accentHex" in sport && typeof sport.accentHex === "string" ? sport.accentHex : "#10B981"}
-                    ctaLabel="Read the breakdown"
-                  />
+                <div key={r.slug} className="pack-column">
+                  <div className="pack-wrap">
+                    <FoilPack
+                      href={`/releases/${r.slug}`}
+                      brandLabel={brand}
+                      sportLabel={sport.label}
+                      yearTag={yearTag}
+                    />
+                  </div>
+
+                  <div className="meta">
+                    <div className="chips">
+                      <span className="chip-pill">{sport.label}</span>
+                      <span className="chip-pill">{brand}</span>
+                      <span className="chip-pill">{yearTag || "—"}</span>
+                    </div>
+
+                    <div className="meta-title">{r.shortTitle ?? r.title}</div>
+                    <div className="meta-date">{date}</div>
+                    <div className="meta-tagline">{r.tagline}</div>
+                  </div>
                 </div>
               );
             })}
+            </div>
           </div>
-
-          <p className="mt-10 max-w-3xl text-sm leading-relaxed text-zinc-400">
-            Three floating foil packs — each one is a direct jump into a full breakdown. Archive returns later; v1 is
-            intentionally focused on the best current reads.
-          </p>
         </div>
       </section>
 
