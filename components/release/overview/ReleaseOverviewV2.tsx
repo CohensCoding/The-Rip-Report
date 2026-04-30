@@ -10,9 +10,11 @@ import { RainbowStripSummary } from "../parallels/RainbowStripSummary";
 
 import { formatLongDate } from "../_utils";
 import { ReleaseSubNav } from "../ReleaseSubNav";
-import { Module7ByTheNumbers } from "./Module7ByTheNumbers";
+import AutographsTeaser from "./AutographsTeaser";
+import InsertsTeaser from "./InsertsTeaser";
 import { OverviewImage } from "./OverviewImage";
 import { OverviewShell } from "./OverviewShell";
+import SetFramingBlock from "./SetFramingBlock";
 
 type Props = { bundle: Release };
 
@@ -31,19 +33,80 @@ export function ReleaseOverviewV2({ bundle }: Props) {
   const checklist = bundle._loaded?.checklist;
   const teams = bundle._loaded?.teams;
   const parallelsData = bundle._loaded?.parallels;
-  const insights = bundle._loaded?.insights;
+  const autographs = bundle._loaded?.autographs;
+  const inserts = bundle._loaded?.inserts;
   const resources = bundle._loaded?.resources;
 
   const allParallels = parallelsData?.groups.flatMap((g) => g.parallels ?? []) ?? [];
-  const strip = pickRainbowStrip(allParallels, 14);
-  const autoSigners = resolveAutoSignerCount(checklist, bundle._loaded?.autographs);
+  const strip = pickRainbowStrip(allParallels, 5);
+  const autoSigners = resolveAutoSignerCount(checklist, autographs);
   const parallelTotal = parallelVariationCount(parallelsData);
   const chart = teams?.cardsByTeamChart ?? [];
   const topTeams = chart.slice(0, 10);
   const restCount = Math.max(0, chart.length - topTeams.length);
-  const teaserRows = checklist?.cards.slice(0, 7) ?? [];
   const subsets = bundle.baseSetSummary.subsets ?? [];
   const pill = statusLabel(bundle.status);
+
+  const maxTeamCount = topTeams[0]?.cardCount ?? 0;
+  const heaviestTeams =
+    maxTeamCount > 0 ? topTeams.filter((t) => t.cardCount === maxTeamCount).map((t) => t.teamName) : [];
+  const teamsInsight =
+    heaviestTeams.length > 0
+      ? heaviestTeams.length === 1
+        ? `${heaviestTeams[0]} leads the checklist at ${maxTeamCount} cards.`
+        : `${heaviestTeams.slice(0, 3).join(", ")}${heaviestTeams.length > 3 ? " and others" : ""} are tied for most at ${maxTeamCount} cards.`
+      : null;
+
+  const insertsCount = inserts?.sets?.reduce((sum, s) => sum + (s.size || 0), 0) ?? 0;
+  const autographSignerCount = autographs?.signerIndex?.length ?? (typeof autoSigners === "number" ? autoSigners : 0);
+  const parallelsCount = typeof parallelTotal === "number" ? parallelTotal : 0;
+
+  const compositionSegments: { key: string; label: string; value: number; opacity: string }[] = [
+    ...subsets.map((s, idx) => ({
+      key: s.name,
+      label: s.name,
+      value: s.size,
+      opacity: idx === 0 ? "opacity-90" : idx === 1 ? "opacity-65" : "opacity-45",
+    })),
+    { key: "Inserts", label: "Inserts", value: insertsCount, opacity: "opacity-35" },
+    { key: "Autographs", label: "Autographs", value: autographSignerCount, opacity: "opacity-30" },
+    { key: "Parallels", label: "Parallels", value: parallelsCount, opacity: "opacity-25" },
+  ].filter((s) => s.value > 0);
+
+  const compositionTotal = compositionSegments.reduce((sum, s) => sum + s.value, 0) || 1;
+
+  const renderFormatCards = (formats: typeof bundle.boxFormats) => (
+    <div className="mt-4 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+      {formats.map((fmt) => {
+        const slugKey = fmt.imageSlug;
+        const src = slugKey && imagery?.images?.[slugKey]?.path;
+        const cards = fmt.cardsPerPack * fmt.packsPerBox;
+        return (
+          <article key={fmt.name} className="rounded-xl border border-zinc-800/90 bg-zinc-950/40 p-4">
+            <div className="flex gap-3">
+              <div className="h-20 w-20 shrink-0 overflow-hidden rounded-md bg-zinc-900">
+                {src ? (
+                  <OverviewImage src={src} alt={fmt.name} className="h-full w-full object-cover" />
+                ) : (
+                  <div className={cn("flex h-full items-center justify-center text-[10px] text-paper/80", sport.bgClass)}>
+                    {fmt.name}
+                  </div>
+                )}
+              </div>
+              <div>
+                <h3 className="font-serif text-lg text-paper">{fmt.name}</h3>
+                <p className="mt-1 text-xs tabular-nums text-zinc-500">
+                  {fmt.cardsPerPack} × {fmt.packsPerBox} = {cards} cards
+                </p>
+                {fmt.msrp != null ? <p className="mt-1 text-sm tabular-nums text-zinc-300">${fmt.msrp.toFixed(2)} MSRP</p> : null}
+              </div>
+            </div>
+            <p className="mt-3 text-sm leading-snug text-zinc-400">{fmt.bestFor}</p>
+          </article>
+        );
+      })}
+    </div>
+  );
 
   return (
     <main className="pb-24">
@@ -82,10 +145,14 @@ export function ReleaseOverviewV2({ bundle }: Props) {
                 <div key={fmt.name} className="rounded-lg border border-zinc-800/80 bg-zinc-950/50 p-3">
                   <div className="aspect-[4/3] overflow-hidden rounded-md bg-zinc-900">
                     {src ? (
-                      <OverviewImage src={src} alt={imagery?.images?.[slugKey!]?.alt ?? fmt.name} className="h-full w-full object-cover" />
+                      <OverviewImage
+                        src={src}
+                        alt={imagery?.images?.[slugKey!]?.alt ?? fmt.name}
+                        className="h-full w-full object-contain"
+                      />
                     ) : (
-                      <div className="flex h-full items-center justify-center p-2 text-center text-[11px] text-zinc-500">
-                        {fmt.name}
+                      <div className={cn("flex h-full items-center justify-center p-3 text-center", sport.bgClass)}>
+                        <div className="font-serif text-sm text-paper/90">{fmt.name}</div>
                       </div>
                     )}
                   </div>
@@ -102,41 +169,18 @@ export function ReleaseOverviewV2({ bundle }: Props) {
               </p>
             ))}
           </div>
-
-          <div className="mt-10 flex flex-wrap gap-3 border-t border-zinc-800/80 pt-8">
-            {bundle.verdict.rating ? (
-              <div className="rounded-lg border border-zinc-800 bg-zinc-950/60 px-4 py-3">
-                <div className="text-[10px] font-medium tracking-wide text-zinc-500 uppercase">Our rating</div>
-                <div className="mt-1 font-serif text-xl text-paper">
-                  {bundle.verdict.rating.score}{" "}
-                  <span className="text-sm text-zinc-400">· {bundle.verdict.rating.label}</span>
-                </div>
-              </div>
-            ) : null}
-            <div className="min-w-[220px] flex-1 rounded-lg border border-zinc-800 bg-zinc-950/60 px-4 py-3">
-              <div className="text-[10px] font-medium tracking-wide text-zinc-500 uppercase">Who this is for</div>
-              <p className="mt-1 text-sm leading-snug text-zinc-200">{bundle.verdict.whoThisIsFor}</p>
-            </div>
-            <div className="min-w-[220px] flex-1 rounded-lg border border-zinc-800 bg-zinc-950/60 px-4 py-3">
-              <div className="text-[10px] font-medium tracking-wide text-zinc-500 uppercase">Key chase</div>
-              <p className="mt-1 text-sm font-medium text-paper">{bundle.verdict.keyChaseCard}</p>
-            </div>
-            {bundle.verdict.releaseWindow ? (
-              <div className="rounded-lg border border-zinc-800 bg-zinc-950/60 px-4 py-3">
-                <div className="text-[10px] font-medium tracking-wide text-zinc-500 uppercase">Release window</div>
-                <p className="mt-1 text-sm text-paper">{bundle.verdict.releaseWindow}</p>
-              </div>
-            ) : null}
-          </div>
         </div>
       </header>
 
-      {/* Module 2 */}
+      <SetFramingBlock framing={bundle.commentary.setFraming} />
+
+      {/* Module 3 (keeps id overview-mod-2) */}
       <OverviewShell id="overview-mod-2" eyebrow="CARDS BY TEAM">
         <h2 className="font-serif text-2xl text-paper sm:text-3xl">Who owns the checklist</h2>
         <p className="mt-2 max-w-2xl text-sm text-zinc-400">
           Total cards per team (NBA + NCAA). Tap a team when the Teams route ships; bars scale to the max count in this chart.
         </p>
+        {teamsInsight ? <p className="mt-2 max-w-2xl text-sm text-zinc-500">{teamsInsight}</p> : null}
         <div className="mt-8 space-y-2">
           {topTeams.map((row) => {
             const max = topTeams[0]?.cardCount || 1;
@@ -171,9 +215,49 @@ export function ReleaseOverviewV2({ bundle }: Props) {
         </p>
       </OverviewShell>
 
-      {/* Module 3 */}
+      {/* Module 4 (keeps id overview-mod-3) */}
       <OverviewShell id="overview-mod-3" eyebrow="THE FULL SET">
         <h2 className="font-serif text-2xl text-paper sm:text-3xl">Checklist at a glance</h2>
+        <p className="mt-2 text-xs text-zinc-500">
+          Paper = matte cardstock base. Chrome = refractor finish.
+        </p>
+
+        <div className="mt-6 rounded-xl border border-zinc-800/90 bg-zinc-950/40 p-4 sm:p-5">
+          <div className="flex items-center justify-between gap-3">
+            <div className="text-sm font-medium text-zinc-300">Composition snapshot</div>
+            <div className="text-xs tabular-nums text-zinc-500">
+              {compositionTotal.toLocaleString()} total (subset sizes + insert/auto/parallel rollups)
+            </div>
+          </div>
+          <div className="mt-3 h-3 overflow-hidden rounded-full bg-zinc-900">
+            <div className="flex h-full w-full">
+              {compositionSegments.map((seg) => {
+                const pct = Math.max(1, Math.round((seg.value / compositionTotal) * 100));
+                return (
+                  <div
+                    key={seg.key}
+                    className={cn(sport.bgClass, seg.opacity)}
+                    style={{ width: `${pct}%` }}
+                    title={`${seg.label}: ${seg.value}`}
+                    aria-hidden
+                  />
+                );
+              })}
+            </div>
+          </div>
+          <div className="mt-4 grid gap-2 sm:grid-cols-2 lg:grid-cols-3">
+            {compositionSegments.map((seg) => (
+              <div key={seg.key} className="flex items-center justify-between gap-3 text-xs text-zinc-500">
+                <div className="flex items-center gap-2">
+                  <span className={cn("h-2 w-2 rounded-full", sport.bgClass, seg.opacity)} aria-hidden />
+                  <span>{seg.label}</span>
+                </div>
+                <span className="tabular-nums text-zinc-300">{seg.value.toLocaleString()}</span>
+              </div>
+            ))}
+          </div>
+        </div>
+
         <div className="mt-6 flex flex-wrap gap-3 text-sm tabular-nums">
           {subsets.map((s) => (
             <div key={s.name} className="rounded-lg border border-zinc-800 bg-zinc-950/50 px-3 py-2">
@@ -190,61 +274,26 @@ export function ReleaseOverviewV2({ bundle }: Props) {
             <span className="text-zinc-400">parallel variations</span>
           </div>
         </div>
-        <div className="mt-6 overflow-x-auto rounded-lg border border-zinc-800/80">
-          <table className="w-full min-w-[520px] text-left text-sm">
-            <thead className="border-b border-zinc-800 bg-zinc-950/80 text-xs uppercase tracking-wide text-zinc-500">
-              <tr>
-                <th className="px-3 py-2">#</th>
-                <th className="px-3 py-2">Player</th>
-                <th className="px-3 py-2">Team</th>
-                <th className="px-3 py-2">Subset</th>
-              </tr>
-            </thead>
-            <tbody>
-              {teaserRows.map((c) => (
-                <tr key={`${c.cardNumber}-${c.playerSlug}`} className="border-b border-zinc-900/80">
-                  <td className="px-3 py-2 tabular-nums text-zinc-500">{c.cardNumber}</td>
-                  <td className="px-3 py-2 text-paper">{c.player}</td>
-                  <td className="px-3 py-2 text-zinc-400">{c.team}</td>
-                  <td className="px-3 py-2 text-zinc-500">{c.subset}</td>
-                </tr>
-              ))}
-            </tbody>
-          </table>
-        </div>
-        <p className="mt-6 text-sm text-zinc-500">
-          Full browser with filters ships with the Checklist route — this is a live slice from `checklist.json`.
+        <p className="mt-8 text-sm text-zinc-500">
+          <Link
+            href={`/releases/${bundle.slug}/checklist`}
+            className="font-medium text-emerald-400/90 underline-offset-2 hover:text-emerald-300 hover:underline"
+          >
+            Open the full checklist
+          </Link>
+          <span className="text-zinc-600"> — filters, subsets, and player search.</span>
         </p>
       </OverviewShell>
 
-      {/* Module 4 */}
-      <OverviewShell id="overview-mod-4" eyebrow="THE HOLY GRAILS">
-        <h2 className="font-serif text-2xl text-paper sm:text-3xl">The cards people will still mention in five years</h2>
-        <div className="mt-8 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-          {(bundle.holyGrails ?? []).map((g) => (
-            <article key={g.parallelSlug ?? g.player + g.cardName} className="rounded-xl border border-zinc-800/90 bg-zinc-950/40 p-4">
-              <div className="aspect-[3/4] overflow-hidden rounded-lg bg-zinc-900">
-                {g.imageSlug && imagery?.images?.[g.imageSlug]?.path ? (
-                  <OverviewImage src={imagery.images[g.imageSlug].path} alt={g.cardName} className="h-full w-full object-cover" />
-                ) : (
-                  <div className="flex h-full items-center justify-center p-4 text-center text-xs text-zinc-500">{g.cardName}</div>
-                )}
-              </div>
-              <p className="mt-3 font-serif text-lg text-paper">{g.player}</p>
-              <p className="text-sm text-zinc-400">{g.cardName}</p>
-              {g.estimatedValue ? (
-                <p className="mt-2 inline-block rounded-md bg-zinc-900 px-2 py-1 text-xs text-zinc-300">{g.estimatedValue}</p>
-              ) : null}
-              <p className="mt-2 text-sm leading-snug text-zinc-400 line-clamp-3">{g.reason}</p>
-            </article>
-          ))}
-        </div>
-      </OverviewShell>
+      <InsertsTeaser inserts={inserts} imagery={imagery} slug={bundle.slug} />
 
-      {/* Module 5 */}
+      {/* Module 6 (keeps id overview-mod-5) */}
       <OverviewShell id="overview-mod-5" eyebrow="THE RAINBOW">
         <h2 className="font-serif text-2xl text-paper sm:text-3xl">Parallel ladder (teaser)</h2>
         <p className="mt-2 max-w-3xl text-sm text-zinc-400">{parallelsData?.rainbowSummary.headlineStat}</p>
+        <p className="mt-2 max-w-3xl text-sm text-zinc-500">
+          Parallels are colored variants of the same card. Lower print runs are rarer.
+        </p>
         <RainbowStripSummary strip={strip} className="mt-8" />
         <p className="mt-8 text-sm text-zinc-500">
           <Link
@@ -257,45 +306,42 @@ export function ReleaseOverviewV2({ bundle }: Props) {
         </p>
       </OverviewShell>
 
-      {/* Module 6 */}
-      <OverviewShell id="overview-mod-6" eyebrow="THE BOX BREAKDOWN">
-        <h2 className="font-serif text-2xl text-paper sm:text-3xl">Pick your SKU on purpose</h2>
-        <div className="mt-8 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-          {bundle.boxFormats.map((fmt) => {
-            const slugKey = fmt.imageSlug;
-            const src = slugKey && imagery?.images?.[slugKey]?.path;
-            const cards = fmt.cardsPerPack * fmt.packsPerBox;
-            return (
-              <article key={fmt.name} className="rounded-xl border border-zinc-800/90 bg-zinc-950/40 p-4">
-                <div className="flex gap-3">
-                  <div className="h-20 w-20 shrink-0 overflow-hidden rounded-md bg-zinc-900">
-                    {src ? (
-                      <OverviewImage src={src} alt={fmt.name} className="h-full w-full object-cover" />
-                    ) : (
-                      <div className="flex h-full items-center justify-center text-[10px] text-zinc-500">{fmt.name}</div>
-                    )}
-                  </div>
-                  <div>
-                    <h3 className="font-serif text-lg text-paper">{fmt.name}</h3>
-                    <p className="mt-1 text-xs tabular-nums text-zinc-500">
-                      {fmt.cardsPerPack} × {fmt.packsPerBox} = {cards} cards
-                    </p>
-                    {fmt.msrp != null ? (
-                      <p className="mt-1 text-sm tabular-nums text-zinc-300">${fmt.msrp.toFixed(2)} MSRP</p>
-                    ) : null}
-                  </div>
-                </div>
-                <p className="mt-3 text-sm leading-snug text-zinc-400">{fmt.bestFor}</p>
-              </article>
-            );
-          })}
-        </div>
-      </OverviewShell>
+      <AutographsTeaser slug={bundle.slug} sport={bundle.sport} autographs={autographs} />
 
-      {/* Module 7 */}
-      {insights ? (
-        <Module7ByTheNumbers tiles={insights.featuredTiles} imagery={imagery} />
-      ) : null}
+      {/* Module 8 (keeps id overview-mod-6) */}
+      <OverviewShell id="overview-mod-6" eyebrow="THE BOX BREAKDOWN">
+        <h2 className="font-serif text-2xl text-paper sm:text-3xl">Where do I start?</h2>
+
+        <div className="mt-8 space-y-10">
+          <section>
+            <div className="text-xs font-medium tracking-wide text-zinc-500 uppercase">Tier 1 — Retail</div>
+            <p className="mt-2 max-w-3xl text-sm text-zinc-400">Wide availability, lower cost. Great for sampling and casual ripping.</p>
+            {renderFormatCards(bundle.boxFormats.filter((f) => f.tier === "retail"))}
+          </section>
+
+          <section>
+            <div className="text-xs font-medium tracking-wide text-zinc-500 uppercase">Tier 2 — Hobby / Mid</div>
+            <p className="mt-2 max-w-3xl text-sm text-zinc-400">Better odds and structured hits. The default lane for serious ripping.</p>
+            {renderFormatCards(bundle.boxFormats.filter((f) => f.tier === "hobby"))}
+          </section>
+
+          <section>
+            <div className="text-xs font-medium tracking-wide text-zinc-500 uppercase">Tier 3 — Premium / Limited</div>
+            <p className="mt-2 max-w-3xl text-sm text-zinc-400">Harder to access, higher upside. Often break-driven formats.</p>
+            {renderFormatCards(bundle.boxFormats.filter((f) => f.tier === "premium"))}
+          </section>
+        </div>
+
+        <p className="mt-8 text-sm text-zinc-500">
+          <Link
+            href={`/releases/${bundle.slug}/resources`}
+            className="font-medium text-emerald-400/90 underline-offset-2 hover:text-emerald-300 hover:underline"
+          >
+            Full format analysis
+          </Link>
+          <span className="text-zinc-600"> — format advice, links, and buying guidance.</span>
+        </p>
+      </OverviewShell>
 
       {/* Editorial */}
       <OverviewShell id="overview-editorial" eyebrow="DEEP READ" className="border-b border-zinc-800/80">

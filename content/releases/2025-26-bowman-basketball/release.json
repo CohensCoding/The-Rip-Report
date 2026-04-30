@@ -20,6 +20,7 @@
     "keyChaseCard": "Cooper Flagg Chrome SuperFractor /1"
   },
   "commentary": {
+    "setFraming": "TODO: setFraming editorial copy",
     "whatsNew": "First full NBA Bowman since 2008-09. First Bowman product with mixed NBA + NCAA men's + NCAA women's checklists. Crystalized, Anime, and Bowman GPK insert programs make their basketball debut after strong runs in Bowman Baseball. The Retrofractor variation \u2014 featuring Bill Russell and Shaq in their college uniforms \u2014 is a new case-hit concept unique to this release.",
     "formatAdvice": "Hobby for rainbow chase and SuperFractor access. Jumbo for auto volume (4 per box). Mega for Mojo parallels \u2014 they don't exist anywhere else. Value for Green retail parallels and paper autograph access. Breaker's Delight only if you're doing group breaks or completing the Geometric rainbow. Bulk is provisional and TBD.",
     "compToLastYear": "There's no direct predecessor \u2014 the last full NBA Bowman was 2008-09. The nearest recent comparison is 2024-25 Bowman University Basketball (NCAA-only). The innovations vs. that product: NBA rookies and veterans on the same checklist, full case-hit program, mixed-gender NCAA representation, and Mega-exclusive Mojo parallels.",
@@ -92,6 +93,7 @@
   "boxFormats": [
     {
       "name": "Hobby",
+      "tier": "hobby",
       "cardsPerPack": 8,
       "packsPerBox": 20,
       "boxesPerCase": 12,
@@ -113,6 +115,7 @@
     },
     {
       "name": "Jumbo",
+      "tier": "hobby",
       "cardsPerPack": 24,
       "packsPerBox": 12,
       "boxesPerCase": 8,
@@ -130,6 +133,7 @@
     },
     {
       "name": "Mega",
+      "tier": "retail",
       "cardsPerPack": 7,
       "packsPerBox": 6,
       "boxesPerCase": 20,
@@ -148,6 +152,7 @@
     },
     {
       "name": "Value",
+      "tier": "retail",
       "cardsPerPack": 10,
       "packsPerBox": 6,
       "boxesPerCase": 40,
@@ -165,6 +170,7 @@
     },
     {
       "name": "Breaker's Delight",
+      "tier": "premium",
       "cardsPerPack": 10,
       "packsPerBox": 1,
       "boxesPerCase": 6,

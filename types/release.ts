@@ -84,6 +84,7 @@ export interface BoxFormat {
     | "Breaker's Delight"
     | "Retail Blaster"
     | "Retail Hanger";
+  tier: "retail" | "hobby" | "premium";
   cardsPerPack: number;
   packsPerBox: number;
   boxesPerCase?: number;
@@ -129,6 +130,8 @@ export interface Commentary {
   bullCase?: string;
   bearCase?: string;
   notableAbsences?: string;
+  /** Overview Module 2 — 2–3 paragraph editorial framing. */
+  setFraming?: string;
 }
 
 export interface HolyGrail {
